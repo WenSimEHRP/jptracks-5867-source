@@ -1,7 +1,7 @@
 //MENU ITEMS
 //OpenGFX GRAPHICS
 
-    0 * 6	 09 0A 01 \7= 00 E1
+  -1 * 0 0C "Original graphics are dropped, this is the original callback: 0 * 6	 09 0A 01 \7= 00 E1"
 
 //NG slow
 //Japanese:		00 NAAN
@@ -744,5 +744,7 @@
     0 * 0	 03 10 01 0C 01 00 D1 00 D1 00
     0 * 0	 03 10 01 0D 01 00 D2 00 D2 00
 
+    -1 * 0 0C "End of OpenGFX GUI."
 
-    0 * 2	 10 E1
+    -1 * 0 0C "Label removed, original: 0 * 2	 10 E1"
+

@@ -1,5 +1,7 @@
 //FENCES
 
+  -1 * 0 0C "Start of fences."
+
 //WITH 2CC
  2660 * 6	 09 09 01 \7= 00 F6
 
@@ -136,7 +138,7 @@
 
  2744 * 2	 10 F6
 
-
+  -1 * 0 0C "Start of NOCC fences."
 
 //WITHOUT 2CC
  2745 * 6	 09 09 01 \7! 00 F7
@@ -274,6 +276,7 @@
 
  2829 * 2	 10 F7
 
+  -1 * 0 0C "Start of empty fences."
 
 //EMPTY FENCES
 //use NLOW fences, upper left corner
@@ -330,4 +333,4 @@
 
  2870 * 2	 10 FB
 
-
+  -1 * 0 0C "End of fences."
