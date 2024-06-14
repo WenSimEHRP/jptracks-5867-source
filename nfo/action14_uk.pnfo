@@ -1,0 +1,64 @@
+//PARAMETER NAMES AND DESCRIPTIONS
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 01 "Mode" 00
+      		    	       	   	      	      	        "T" "DESC" 01 "Choose between generic or country-specific modes. When set to 'automatic', the Japanese mode is used only if the Japanese train set is used.\n Japanese mode is significantly different from international mode. The country-specific settings mostly concern speed limits and some graphical details." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 01 "Track selection" 00
+      		    	       	   	      	      	        "T" "DESC" 01 "Choose how many track types to play with. In the reduced setting, the urban track types are disabled. In the minimal setting, only track type for each gauge and electrification system is present, without speed limits." 00
+								00 00 00 00
+
+   14 * 104	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 01 "Finescale tracks" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Use narrower track sprites." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d3 "T" "NAME" 01 "Construction costs" 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d4 "T" "NAME" 01 "Maintenance costs" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "You must activate 'Advanced Settings -> Economy -> Infrastructure maintenance' for this setting to take effect." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d5 "T" "NAME" 01 "Use custom tunnel portals" 00
+      		    	       	   	      	      	     	 "T" "DESC" 7F "If this setting is disabled, the default graphics for tunnel portals will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d6 "T" "NAME" 01 "Use custom overhead line equipment" 00
+      		    	       	   	      	      	     	 "T" "DESC" 01 "If this setting is disabled, the default graphics for overhead line equipment and poles will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   17 * 172	 14 "C" "INFO" "C" "PARA" "C" \d7 "T" "NAME" 01 "Use custom depots" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "If this setting is disabled, the default graphics for train depots will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   18 * 98	 14 "C" "INFO" "C" "PARA" "C" \d8 "T" "NAME" 01 "Fences" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Replaces or deactivates the default fences for railtracks." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d9 "T" "NAME" 01 "Use company colours" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Depots and fences use company colours if this option is enabled." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d10 "T" "NAME" 01 "GUI elements" 00
+      		    	       	   	      	     	        "T" "DESC" 01 "Choose GUI elements for original graphics or OpenGFX." 00
+								00 00 00 00
+
+
+//PARAMETER VALUE TEXTS
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 01 "Automatic (Japanese/International)" 00 "T" \d1 01 "International" 00 "T" \d2 01 "German" 00 "T" \d3 01 "British" 00 "T" \d4 01 "North American" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d1 "C" "VALU" "T" \d0 01 "Full" 00 "T" \d1 01 "Reduced" 00 "T" \d2 01 "Minimal" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d3 "C" "VALU" "T" \d0 01 "very low" 00 "T" \d1 01 "low" 00 "T" \d2 01 "normal" 00 "T" \d3 01 "high" 00 "T" \d4 01 "very high" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d4 "C" "VALU" "T" \d0 01 "very low" 00 "T" \d1 01 "low" 00 "T" \d2 01 "normal" 00 "T" \d3 01 "high" 00 "T" \d4 01 "very high" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d8 "C" "VALU" "T" \d0 01 "none" 00 "T" \d1 01 "unchanged (original TTD if not changed by another set)" 00 "T" \d2 01 "only for urban and highspeed tracks" 00 "T" \d3 01 "for all railtypes" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d10 "C" "VALU" "T" \d0 01 "Original graphics" 00 "T" \d1 01 "OpenGFX" 00
+      	     	 00 00 00 00 00

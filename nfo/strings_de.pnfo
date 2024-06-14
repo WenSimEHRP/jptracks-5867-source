@@ -1,0 +1,185 @@
+//
+// TEXT STRINGS
+//
+
+// JAPANESE MODE
+  161 * 6	 09 10 01 \7= 01 F0
+
+//Build rail toolbar caption (09)
+   92 * 33	 04 10 82 01 10 DC "Schmalspurstrecke" 00
+   92 * 33	 04 10 82 01 11 DC "Schmalspurstrecke" 00
+   93 * 45	 04 10 82 01 12 DC "Schmalspurstrecke (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 13 DC "Schmalspurstrecke, modern (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 14 DC "Normalspurstrecke (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 15 DC "Normalspurstrecke, modern (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 16 DC "Shinkansen-Strecke (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 17 DC "Shinkansen-Strecke, modern (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 18 DC "Normalspurstrecke (mit Stromschiene)" 00
+   93 * 45	 04 10 82 01 19 DC "Normalspurstrecke, urban (mit Stromschiene)" 00
+   93 * 45	 04 10 82 01 1B DC "Schmalspurstrecke, urban (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 1C DC "Normalspurstrecke, urban (elektrifiziert)" 00
+   93 * 45	 04 10 82 01 1D DC "Normalspurstrecke" 00
+
+
+//Rail construction dropdown text (0A)
+   92 * 33	 04 10 82 01 20 DC "Schmalspurstrecke\94" 00
+   92 * 33	 04 10 82 01 21 DC "Schmalspurstrecke\94" 00
+   93 * 45	 04 10 82 01 22 DC "Schmalspurstrecke \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 23 DC "Schmalspurstrecke, modern \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 24 DC "Normalspurstrecke \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 25 DC "Normalspurstrecke, modern \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 26 DC "Shinkansen-Strecke \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 27 DC "Shinkansen-Strecke, modern \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 28 DC "Normalspurstrecke \8F(mit Stromschiene)\94" 00
+   93 * 45	 04 10 82 01 29 DC "Normalspurstrecke, urban \8F(mit Stromschiene)\94" 00
+   93 * 45	 04 10 82 01 2A DC "750mm Schmalspurstrecke \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 2B DC "Schmalspurtrecke, urban \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 2C DC "Normalspurstrecke, urban \95(elektrifiziert)\94" 00
+   93 * 45	 04 10 82 01 2D DC "Normalspurstrecke\94" 00
+
+
+//Build vehicle window caption (0B)
+//NLOW/NGRL
+  108 * 31	 04 10 82 01 30 DC 94 "Neue Schmalspurzüge" 00
+  108 * 31	 04 10 82 01 31 DC 94 "Neue Schmalspurzüge" 00
+  108 * 31	 04 10 82 01 32 DC 94 "Neue elektrische Schmalspurzüge" 00
+  108 * 31	 04 10 82 01 33 DC 94 "Neue elektrische Schmalspurzüge" 00
+  109 * 33	 04 10 82 01 34 DC 94 "Neue elektrische Normalspurzüge" 00
+  108 * 31	 04 10 82 01 35 DC 94 "Neue elektrische Normalspurzüge" 00
+  109 * 33	 04 10 82 01 36 DC 94 "Neue Shinkansenzüge" 00
+  108 * 31	 04 10 82 01 37 DC 94 "Neue Shinkansenzüge" 00
+  108 * 31	 04 10 82 01 38 DC 94 "Neue Stromschienenzüge" 00
+  108 * 31	 04 10 82 01 3A DC 94 "Neue elektrische 750mm-Spur-Züge" 00
+  108 * 31	 04 10 82 01 3B DC 94 "Neue elektrische Schmalspurzüge" 00
+  108 * 31	 04 10 82 01 3C DC 94 "Neue elektrische Normalspurzüge" 00
+  108 * 31	 04 10 82 01 3D DC 94 "Neue Normalspurzüge" 00
+
+
+//Autoreplace text (0C)
+//NLOW/NGRL
+  110 * 37	 04 10 82 01 40 DC "Leichte Schmalspurzüge" 00
+  111 * 26	 04 10 82 01 41 DC "Schmalspurzüge" 00
+  112 * 35	 04 10 82 01 42 DC "Elektrische Schmalspurzüge" 00
+  114 * 42	 04 10 82 01 43 DC "Moderne elektrische Schmalspurzüge" 00
+  115 * 41	 04 10 82 01 44 DC "Elektrische Normalspurzüge" 00
+  116 * 28	 04 10 82 01 45 DC "Moderne elektrische Normalspurzüge" 00
+  119 * 24	 04 10 82 01 46 DC "Shinkansenzüge" 00
+  120 * 31	 04 10 82 01 47 DC "Moderne Shinkansenzüge" 00
+  117 * 37	 04 10 82 01 48 DC "Metro-Stromschienenzüge" 00
+  118 * 43	 04 10 82 01 4A DC "Elektrische 750mm Schmalspurzüge" 00
+  121 * 30	 04 10 82 01 4B DC "Urbane elektrische Schmalspurzüge" 00
+  121 * 30	 04 10 82 01 4C DC "Urbane elektrische Normalspurzüge" 00
+  121 * 30	 04 10 82 01 4D DC "Normalspurzüge" 00
+
+//New engines (0D)
+//NLOW/NGRL
+  122 * 27	 04 10 82 01 50 DC "Schienenfahrzeugtyp" 00
+  123 * 29	 04 10 82 01 54 DC "Schienenfahrzeugtyp" 00
+  124 * 24	 04 10 82 01 56 DC "Shinkansenzug" 00
+  122 * 27	 04 10 82 01 58 DC "Schienenfahrzeugtyp" 00
+  122 * 27	 04 10 82 01 59 DC "Schienenfahrzeugtyp" 00
+
+  125 * 2	 10 F0 
+  161 * 6	 09 10 01 \7! 01 F1
+
+//NON-JAPANESE MODE
+
+//Build rail toolbar caption (09)
+   92 * 33	 04 10 82 01 10 DC 94 "Nebenstrecke" 00
+   92 * 33	 04 10 82 01 11 DC 94 "Hauptstrecke" 00
+   92 * 33	 04 10 82 01 12 DC 94 "Moderne Hauptstrecke" 00
+   92 * 33	 04 10 82 01 13 DC 94 "Ausbaustrecke" 00
+   92 * 33	 04 10 82 01 14 DC 94 "Hauptstrecke (mit Oberleitung)" 00
+   92 * 33	 04 10 82 01 15 DC 94 "Moderne Hauptstrecke (mit Oberleitung)" 00
+   92 * 33	 04 10 82 01 16 DC 94 "Ausbaustrecke (mit Oberleitung)" 00
+   92 * 33	 04 10 82 01 17 DC 94 "Neubaustrecke (mit Oberleitung)" 00
+   92 * 33	 04 10 82 01 18 DC 94 "Hauptstrecke (mit Stromschiene)" 00
+   92 * 33	 04 10 82 01 19 DC 94 "Hauptstrecke (mit Oberleitung und Stromschiene)" 00
+   92 * 33	 04 10 82 01 1A DC 94 "Urbane Strecke (mit Oberleitung)" 00
+   92 * 33	 04 10 82 01 1B DC 94 "Urbane Strecke (mit Stromschiene)" 00
+   92 * 33	 04 10 82 01 1C DC 94 "Schmalspurstrecke" 00
+   92 * 33	 04 10 82 01 1D DC 94 "Schmalspurstrecke (mit Oberleitung)" 00
+
+
+//Rail construction dropdown text (0A)
+//NLOW/NGRL
+   92 * 33	 04 10 82 01 20 DC "Nebenstrecke\94" 00
+   92 * 33	 04 10 82 01 21 DC "Hauptstrecke\94" 00
+   92 * 33	 04 10 82 01 22 DC "Moderne Hauptstrecke\94" 00
+   92 * 33	 04 10 82 01 23 DC "Ausbaustrecke\94" 00
+   92 * 33	 04 10 82 01 24 DC "Hauptstrecke \95(mit Oberleitung)\94" 00
+   92 * 33	 04 10 82 01 25 DC "Moderne Hauptstrecke \95(mit Oberleitung)\94" 00
+   92 * 33	 04 10 82 01 26 DC "Ausbaustrecke \95(mit Oberleitung)\94" 00
+   92 * 33	 04 10 82 01 27 DC "Neubaustrecke \95(mit Oberleitung)\94" 00
+   92 * 33	 04 10 82 01 28 DC "Hauptstrecke \8F(mit Stromschiene)\94" 00
+   92 * 33	 04 10 82 01 29 DC "Hauptstrecke \95(mit Oberleitung und \8FStromschiene)\94" 00
+   92 * 33	 04 10 82 01 2A DC "Urbane Strecke \95(mit Oberleitung)\94" 00
+   92 * 33	 04 10 82 01 2B DC "Urbane Strecke \8F(mit Stromschiene)\94" 00
+   92 * 33	 04 10 82 01 2C DC "Schmalspurstrecke\94" 00
+   92 * 33	 04 10 82 01 2D DC "Schmalspurstrecke \95(mit Oberleitung)\94" 00
+
+
+
+//Build vehicle window caption (0B)
+//NLOW/NGRL
+  143 * 18	 04 10 82 01 30 DC 94 "Neue Züge" 00
+  143 * 18	 04 10 82 01 31 DC 94 "Neue Züge" 00
+  143 * 18	 04 10 82 01 32 DC 94 "Neue Züge" 00
+  144 * 31	 04 10 82 01 33 DC 94 "Neue Züge" 00
+  143 * 18	 04 10 82 01 34 DC 94 "Neue elektrische Züge" 00
+  143 * 18	 04 10 82 01 35 DC 94 "Neue elektrische Züge" 00
+  143 * 18	 04 10 82 01 36 DC 94 "Neue elektrische Züge" 00
+  143 * 18	 04 10 82 01 37 DC 94 "Neue elektrische Züge" 00
+  143 * 18	 04 10 82 01 38 DC 94 "Neue Stromschienenzüge" 00
+  143 * 18	 04 10 82 01 39 DC 94 "Neue Zweisystem-Züge" 00
+  143 * 18	 04 10 82 01 3A DC 94 "Neue elektrische Züge" 00
+  143 * 18	 04 10 82 01 3B DC 94 "Neue Stromschienenzüge" 00
+  144 * 31	 04 10 82 01 3C DC 94 "Neue Schmalspurzüge" 00
+  143 * 18	 04 10 82 01 3D DC 94 "Neue Schmalspurzüge" 00
+
+
+//Autoreplace text (0C)
+//NLOW/NGRL
+  145 * 24	 04 10 82 01 40 DC "Leichte Züge" 00
+  146 * 13	 04 10 82 01 41 DC "Züge" 00
+  148 * 20	 04 10 82 01 42 DC "Moderne Züge" 00
+  148 * 20	 04 10 82 01 43 DC "Hochgeschwindigkeitszüge" 00
+  147 * 22	 04 10 82 01 44 DC "Elektrische Züge" 00
+  149 * 29	 04 10 82 01 45 DC "Moderne elektrische Züge" 00
+  149 * 29	 04 10 82 01 46 DC "Hochgeschwindigkeitszüge" 00
+  151 * 23	 04 10 82 01 47 DC "Moderne Hochgeschwindigkeitszüge" 00
+  152 * 29	 04 10 82 01 48 DC "Stromschienenzüge" 00
+  146 * 13	 04 10 82 01 49 DC "Dual-elektrische Züge" 00
+  145 * 24	 04 10 82 01 4A DC "Urbane elektrische Züge" 00
+  145 * 24	 04 10 82 01 4B DC "Urbane Stromschienenzüge" 00
+  154 * 26	 04 10 82 01 4C DC "Schmalspurzüge" 00
+  155 * 35	 04 10 82 01 4D DC "Elektrische Schmalspurzüge" 00
+
+
+//New engines (0D)
+//NLOW/NGRL
+  157 * 29	 04 10 82 01 50 DC "Schienenfahrzeugtyp" 00
+  158 * 24	 04 10 82 01 53 DC "Schienenfahrzeugtyp" 00
+  159 * 27	 04 10 82 01 5C DC "Schienenfahrzeugtyp" 00
+
+
+//ADJUST SOME NAMES IF EXTENDED TRACK TYPES ARE NOT USED
+  198 * 6	 09 11 01 \71 01 0C
+//Build rail toolbar caption (09)
+  127 * 25	 04 10 82 01 11 DC "Eisenbahnstrecke" 00
+  127 * 25	 04 10 82 01 14 DC "Eisenbahnstrecke (electrifiziert)" 00
+  127 * 25	 04 10 82 01 18 DC "Eisenbahnstrecke (mit Stromschiene)" 00
+  127 * 25	 04 10 82 01 19 DC "Eisenbahnstrecke (mit Stromschiene und Oberleitung)" 00
+  127 * 25	 04 10 82 01 1C DC "Schmalspurstrecke" 00
+  127 * 25	 04 10 82 01 1D DC "Schmalspurstrecke (elektrifiziert)" 00
+
+
+//Rail construction dropdown text (0A)
+  127 * 25	 04 10 82 01 21 DC "Eisenbahnstrecke\94" 00
+  127 * 25	 04 10 82 01 24 DC "Eisenbahnstrecke \95(electrifiziert)\94" 00
+  127 * 25	 04 10 82 01 28 DC "Eisenbahnstrecke \8F(mit Stromschiene)\94" 00
+  127 * 25	 04 10 82 01 29 DC "Eisenbahnstrecke \8F(mit Stromschiene \95und Oberleitung)\94" 00
+  127 * 25	 04 10 82 01 2C DC "Schmalspurstrecke\94" 00
+  127 * 25	 04 10 82 01 2D DC "Schmalspurstrecke \95(elektrifiziert)\94" 00
+
+  160 * 2	 10 F1

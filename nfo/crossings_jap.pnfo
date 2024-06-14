@@ -1,0 +1,2269 @@
+//LEVEL CROSSINGS
+//JAPANESE-STYLE CROSSINGS
+
+//NG slow
+//Japanese:		00 NAAN
+//International fs:	00 SABN
+//OLD: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F2 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F1 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 C0 89 43 00 FF FF FF FF 01 F1 00 \d0 \d31/12/1959 F2 00
+
+
+//NG
+//Japanese:		01 NABN, 02 NABE
+//Japanese fs:		04 ELRL, 08, SAB3, 0D RAIL
+//International:	0C NABN, 0D NABE
+//International fs:	01 RAIL, 04 ELRL, 08 SAC3, 09 SACZ
+//OLD rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 C1 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+//NG modern
+//Japanese:		03 NACE
+//Japanese fs:		05 SACE
+//International fs:	02 SBCN, 05 SBCE
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 C2 81 44 00 FF 01 F4 00 00 01 F6 00
+
+
+//NG urban
+//Japanese:		0B NUBE
+//Japanese fs:		OC SUBE
+//International fs:	0A SUCE, 0B SUC3
+//OLD rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 C8 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+//NG slow finescale
+//Japanese fs:		00 NAAN
+//OLD: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGslow_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGslow_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F2 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F1 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 D0 89 43 00 FF FF FF FF 01 F1 00 \d0 \d31/12/1959 F2 00
+
+
+//NG finescale
+//Japanese fs:		01 NABN, 02 NABE
+//International fs:	0C NABN, 0D NABE
+//OLD rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG_fs2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG_fs2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 D1 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+//NG modern finescale
+//Japanese fs:		03 NACE
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGmod_fs2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGmod_fs2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 D3 81 44 00 FF 01 F4 00 00 01 F6 00
+
+
+//NG urban finescale
+//Japanese fs:		0B NUBE
+//OLD rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png   0 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/NG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NGurban_fs.png 160 800 09 31 64 -31 0
+ 1658 sprites/NGurban_fs.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/NG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/NG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 D4 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+//SG slow
+//International:		00 SABN
+//OLD: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGslow2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGslow2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F2 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F1 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 E0 89 43 00 FF FF FF FF 01 F1 00 \d0 \d31/12/1959 F2 00
+
+
+//SG
+//Japanese:		04 ELRL, 0D RAIL
+//International:	01 RAIL, 04 ELRL, 08 SAC3, 09 SACZ
+//OLD rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 50 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 50 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 50 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 50 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 50 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 50 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 50 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 50 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 100 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 100 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 100 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 100 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 100 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 100 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 100 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 100 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 E1 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+//SG modern
+//Japanese:		05 SACE
+//International:	02 SBCN, 05 SBCE
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGmod2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGmod2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 E2 81 44 00 FF 01 F4 00 00 01 F6 00
+
+
+//SG Urban
+//Japanese:		08 SUB3, 0C SUBE
+//International:	0A SUCE, 0B SUC3
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1667 * 7	 02 10 80 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1679 * 7	 02 10 90 01 00 00 00
+
+//OLD rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1691 * 7	 02 10 81 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 0 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 0 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 0 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 0 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 0 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 0 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 0 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 0 09 20 20 -14 -18
+ 1703 * 7	 02 10 91 01 00 00 00
+
+
+//NEW rural: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1715 * 7	 02 10 82 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 250 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 250 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 250 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 250 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 250 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 250 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 250 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 250 09 20 20 -14 -18
+ 1727 * 7	 02 10 92 01 00 00 00
+
+//NEW rural: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1739 * 7	 02 10 83 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 300 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 300 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 300 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 300 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 300 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 300 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 300 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 300 09 20 20 -14 -18
+ 1751 * 7	 02 10 93 01 00 00 00
+
+
+//OLD urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1667 * 7	 02 10 85 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 150 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 150 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 150 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 150 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 150 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 150 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 150 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 150 09 20 20 -14 -18
+ 1679 * 7	 02 10 95 01 00 00 00
+
+//OLD urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png   0 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1691 * 7	 02 10 86 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png   0 800 09 31 64 -31 0
+ 1658 sprites/SG2.png  80 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 200 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 200 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 200 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 200 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 200 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 200 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 200 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 200 09 20 20 -14 -18
+ 1703 * 7	 02 10 96 01 00 00 00
+
+
+//NEW urban: open
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1715 * 7	 02 10 87 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 350 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 350 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 350 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 350 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 350 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 350 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 350 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 350 09 20 20 -14 -18
+ 1727 * 7	 02 10 97 01 00 00 00
+
+//NEW urban: closed
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SGurban.png 160 800 09 31 64 -31 0
+ 1658 sprites/SGurban.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1739 * 7	 02 10 88 01 00 00 00
+
+ 1656 * 4	 01 10 01 0A
+ 1657 sprites/SG2.png 160 800 09 31 64 -31 0
+ 1658 sprites/SG2.png 240 800 09 31 64 -31 0
+ 1707 sprites/crossings.png   0 400 09 20 20 -14 -8
+ 1708 sprites/crossings.png  30 400 09 20 20 -3 -7
+ 1709 sprites/crossings.png  60 400 09 20 20 -20 -14
+ 1710 sprites/crossings.png  90 400 09 20 20 -20 -14
+ 1711 sprites/crossings.png 120 400 09 20 20 1 -14
+ 1712 sprites/crossings.png 150 400 09 20 20 3 -13
+ 1713 sprites/crossings.png 180 400 09 20 20 -5 -18
+ 1714 sprites/crossings.png 210 400 09 20 20 -14 -18
+ 1751 * 7	 02 10 98 01 00 00 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 88 00 01 01 87 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 98 00 01 01 97 00
+ 1754 * 14	 02 10 F6 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 86 00 01 01 85 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 96 00 01 01 95 00
+ 1757 * 14	 02 10 F5 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1752 * 14	 02 10 A0 81 42 00 FF 01 83 00 01 01 82 00
+ 1753 * 14	 02 10 B0 81 42 00 FF 01 93 00 01 01 92 00
+ 1754 * 14	 02 10 F4 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1755 * 14	 02 10 A0 81 42 00 FF 01 81 00 01 01 80 00
+ 1756 * 14	 02 10 B0 81 42 00 FF 01 91 00 01 01 90 00
+ 1757 * 14	 02 10 F3 81 40 00 FF 01 B0 00 04 04 A0 00
+
+ 1758 * 23	 02 10 F1 89 43 00 FF FF FF FF 01 F5 00 \d0 \d31/12/1959 F6 00
+ 1758 * 23	 02 10 F0 89 43 00 FF FF FF FF 01 F3 00 \d0 \d31/12/1959 F4 00
+ 1758 * 23	 02 10 E8 81 44 00 FF 01 F0 00 00 01 F1 00
+
+
+
+//JAPANESE MODE
+    0 * 0        09 10 01 \7= 01 \b30
+//NON-FINESCALE
+    0 * 0	 09 02 01 \7= 01 \b15
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 07 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 07 C1 00 C1 00
+    0 * 0	 03 10 01 02 01 07 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 07 C2 00 C2 00
+    0 * 0	 03 10 01 04 01 07 E1 00 E1 00
+    0 * 0	 03 10 01 05 01 07 E2 00 E2 00
+    0 * 0	 03 10 01 08 01 07 E1 00 E1 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 07 E8 00 E8 00
+    0 * 0	 03 10 01 0B 01 07 C8 00 C8 00
+    0 * 0	 03 10 01 0C 01 07 E8 00 E8 00
+    0 * 0	 03 10 01 0D 01 07 E1 00 E1 00
+//FINESCALE
+    0 * 0	 09 02 01 \7= 00 \b14
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 07 D0 00 D0 00
+    0 * 0	 03 10 01 01 01 07 D1 00 D1 00
+    0 * 0	 03 10 01 02 01 07 D1 00 D1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 07 D3 00 D3 00
+    0 * 0	 03 10 01 04 01 07 C1 00 C1 00
+    0 * 0	 03 10 01 05 01 07 C2 00 C2 00
+    0 * 0	 03 10 01 08 01 07 C1 00 C1 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 07 C8 00 C8 00
+    0 * 0	 03 10 01 0B 01 07 D4 00 D4 00
+    0 * 0	 03 10 01 0C 01 07 C8 00 C8 00
+    0 * 0	 03 10 01 0D 01 07 C1 00 C1 00
+
+
+//INTERNATIONAL MODE
+    0 * 0        09 10 01 \7= 00 \b33
+    0 * 0        09 00 01 \7! 04 \b32 //skip to end if we are not american
+//Non-finescale
+    0 * 0	 09 02 01 \7= 01 \b16
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 07 E0 00 E0 00
+    0 * 0	 03 10 01 01 01 07 E1 00 E1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 02 01 07 E2 00 E2 00
+    0 * 0	 03 10 01 04 01 07 E1 00 E1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 05 01 07 E2 00 E2 00
+    0 * 0	 03 10 01 08 01 07 E1 00 E1 00
+    0 * 0	 03 10 01 09 01 07 E1 00 E1 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 07 E8 00 E8 00
+    0 * 0	 03 10 01 0B 01 07 E8 00 E8 00
+    0 * 0	 03 10 01 0C 01 07 C1 00 C1 00
+    0 * 0	 03 10 01 0D 01 07 C1 00 C1 00
+//Finescale
+    0 * 0	 09 02 01 \7= 00 \b15
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 07 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 07 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 02 01 07 C2 00 C2 00
+    0 * 0	 03 10 01 04 01 07 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 05 01 07 C2 00 C2 00
+    0 * 0	 03 10 01 08 01 07 C1 00 C1 00
+    0 * 0	 03 10 01 09 01 07 C1 00 C1 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 07 C8 00 C8 00
+    0 * 0	 03 10 01 0B 01 07 C8 00 C8 00
+    0 * 0	 03 10 01 0C 01 07 D1 00 D1 00
+    0 * 0	 03 10 01 0D 01 07 D1 00 D1 00

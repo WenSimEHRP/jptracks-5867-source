@@ -1,0 +1,333 @@
+//FENCES
+
+//WITH 2CC
+ 2660 * 6	 09 09 01 \7= 00 F6
+
+//Low fences
+//Japanese:		00 NAAN
+//International:	00 SABN
+ 2661 * 4	 01 10 01 08
+ 2662 sprites/fences2cc.png   0 0 09 22 33 -31 -6
+ 2663 sprites/fences2cc.png  48 0 09 22 33 0 -6
+ 2664 sprites/fences2cc.png  96 0 01 38 2 0 -22
+ 2665 sprites/fences2cc.png 112 0 01 6 65 -31 -6
+ 2666 sprites/fences2cc.png 192 0 09 14 33 -31 -6
+ 2667 sprites/fences2cc.png 240 0 09 14 33 0 -6
+ 2668 sprites/fences2cc.png 288 0 09 30 33 -31 -14
+ 2669 sprites/fences2cc.png 336 0 09 30 33 0 -14
+ 2670 * 7	 02 10 A0 01 00 00 00
+
+//check fence option
+ 2671 * 6	 09 08 01 \7< 03 02
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+ 2672 * 10	 03 10 01 00 01 09 A0 00 A0 00
+
+
+//Normal fences
+//Japanese:		01 NABN, 02 NABE, 03 NACE, 04 ELRL, 05 SACE, 08 SAB3, 0D RAIL
+//International:	01 RAIL, 02 SBCN, 04 ELRL, 05 SBCE, 08 SAC3, 09 SACZ, 0C NABN, 0D NABE
+ 2676 * 4	 01 10 01 08
+ 2662 sprites/fences2cc.png   0 50 09 22 33 -31 -6
+ 2663 sprites/fences2cc.png  48 50 09 22 33 0 -6
+ 2664 sprites/fences2cc.png  96 50 01 38 2 0 -22
+ 2665 sprites/fences2cc.png 112 50 01 6 65 -31 -6
+ 2666 sprites/fences2cc.png 192 50 09 14 33 -31 -6
+ 2667 sprites/fences2cc.png 240 50 09 14 33 0 -6
+ 2668 sprites/fences2cc.png 288 50 09 30 33 -31 -14
+ 2669 sprites/fences2cc.png 336 50 09 30 33 0 -14
+ 2685 * 7	 02 10 A1 01 00 00 00
+
+//check fence option
+ 2686 * 6	 09 08 01 \7< 03 \b17
+
+//check for Japanese mode
+ 2687 * 6	 09 10 01 \7= 01 09
+ 2688 * 10	 03 10 01 01 01 09 A1 00 A1 00
+ 2689 * 10	 03 10 01 02 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 04 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 08 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 0D 01 09 A1 00 A1 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 02
+ 2691 * 10	 03 10 01 03 01 09 A1 00 A1 00
+ 2693 * 10	 03 10 01 05 01 09 A1 00 A1 00
+ 2694 * 6	 09 9A 01 \7= FF 09
+
+//International mode
+ 2695 * 10	 03 10 01 01 01 09 A1 00 A1 00
+ 2697 * 10	 03 10 01 04 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 08 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 09 01 09 A1 00 A1 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 02
+ 2696 * 10	 03 10 01 02 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 05 01 09 A1 00 A1 00
+ 2700 * 10	 03 10 01 0C 01 09 A1 00 A1 00
+ 2701 * 10	 03 10 01 0D 01 09 A1 00 A1 00
+
+
+
+//Urban fences
+//Japanese:		09 SUB3, 0B NUBE, 0C SUBE
+//International:	0A SUCE, 0B SUC3
+ 2702 * 4	 01 10 01 08
+ 2662 sprites/fences2cc.png   0 100 09 22 33 -31 -6
+ 2663 sprites/fences2cc.png  48 100 09 22 33 0 -6
+ 2664 sprites/fences2cc.png  96 100 01 38 2 0 -22
+ 2665 sprites/fences2cc.png 112 100 01 6 65 -31 -6
+ 2666 sprites/fences2cc.png 192 100 09 14 33 -31 -6
+ 2667 sprites/fences2cc.png 240 100 09 14 33 0 -6
+ 2668 sprites/fences2cc.png 288 100 09 30 33 -31 -14
+ 2669 sprites/fences2cc.png 336 100 09 30 33 0 -14
+ 2711 * 7	 02 10 A5 01 00 00 00
+
+//check fence option
+ 2712 * 6	 09 08 01 \7< 02 09 
+
+
+//check for Japanese mode
+ 2717 * 6	 09 10 01 \7= 01 05
+//check if Urban tracks are used
+ 2716 * 6	 09 11 01 \70 00 03
+ 2718 * 10	 03 10 01 09 01 09 A5 00 A5 00
+ 2719 * 10	 03 10 01 0B 01 09 A5 00 A5 00
+ 2720 * 10	 03 10 01 0C 01 09 A5 00 A5 00
+ 2721 * 6	 09 9A 01 \7= FF 03
+
+//International mode
+//check if Urban tracks are used
+ 2716 * 6	 09 11 01 \70 00 02
+ 2722 * 10	 03 10 01 0A 01 09 A5 00 A5 00
+ 2723 * 10	 03 10 01 0B 01 09 A5 00 A5 00
+
+
+//Highspeed fences
+//Japanese:		06 SAEE, 07 SBEE
+//International:	03 SADN, 06 SADE, 07 SAEE
+ 2726 * 4	 01 10 01 08
+ 2662 sprites/fences2cc.png   0 150 09 22 33 -31 -6
+ 2663 sprites/fences2cc.png  48 150 09 22 33 0 -6
+ 2664 sprites/fences2cc.png  96 150 01 38 2 0 -22
+ 2665 sprites/fences2cc.png 112 150 01 6 65 -31 -6
+ 2666 sprites/fences2cc.png 192 150 09 14 33 -31 -6
+ 2667 sprites/fences2cc.png 240 150 09 14 33 0 -6
+ 2668 sprites/fences2cc.png 288 150 09 30 33 -31 -14
+ 2669 sprites/fences2cc.png 336 150 09 30 33 0 -14
+ 2735 * 7	 02 10 A9 01 00 00 00
+
+//check fence option
+ 2736 * 6	 09 08 01 \7< 02 09
+
+//check for Japanese mode
+ 2739 * 6	 09 10 01 \7= 01 04
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+ 2741 * 10	 03 10 01 07 01 09 A9 00 A9 00
+ 2740 * 10	 03 10 01 06 01 09 A9 00 A9 00
+ 2742 * 6	 09 9A 01 \7= FF 04
+
+//International mode
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 03
+ 2743 * 10	 03 10 01 03 01 09 A9 00 A9 00
+ 2743 * 10	 03 10 01 06 01 09 A9 00 A9 00
+ 2743 * 10	 03 10 01 07 01 09 A9 00 A9 00
+
+ 2744 * 2	 10 F6
+
+
+
+//WITHOUT 2CC
+ 2745 * 6	 09 09 01 \7! 00 F7
+
+//Low fences
+//Japanese:		00 NAAN
+//International:	00 SABN
+ 2661 * 4	 01 10 01 08
+ 2662 sprites/fences.png   0 0 09 22 33 -31 -6
+ 2663 sprites/fences.png  48 0 09 22 33 0 -6
+ 2664 sprites/fences.png  96 0 01 38 2 0 -22
+ 2665 sprites/fences.png 112 0 01 6 65 -31 -6
+ 2666 sprites/fences.png 192 0 09 14 33 -31 -6
+ 2667 sprites/fences.png 240 0 09 14 33 0 -6
+ 2668 sprites/fences.png 288 0 09 30 33 -31 -14
+ 2669 sprites/fences.png 336 0 09 30 33 0 -14
+ 2670 * 7	 02 10 A0 01 00 00 00
+
+//check fence option
+ 2671 * 6	 09 08 01 \7< 03 02
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+ 2672 * 10	 03 10 01 00 01 09 A0 00 A0 00
+
+
+//Normal fences
+//Japanese:		01 NABN, 02 NABE, 03 NACE, 04 ELRL, 05 SACE, 08 SAB3, 0D RAIL
+//International:	01 RAIL, 02 SBCN, 04 ELRL, 05 SBCE, 08 SAC3, 09 SACZ, 0C NABN, 0D NABE
+ 2676 * 4	 01 10 01 08
+ 2662 sprites/fences.png   0 50 09 22 33 -31 -6
+ 2663 sprites/fences.png  48 50 09 22 33 0 -6
+ 2664 sprites/fences.png  96 50 01 38 2 0 -22
+ 2665 sprites/fences.png 112 50 01 6 65 -31 -6
+ 2666 sprites/fences.png 192 50 09 14 33 -31 -6
+ 2667 sprites/fences.png 240 50 09 14 33 0 -6
+ 2668 sprites/fences.png 288 50 09 30 33 -31 -14
+ 2669 sprites/fences.png 336 50 09 30 33 0 -14
+ 2685 * 7	 02 10 A1 01 00 00 00
+
+//check fence option
+ 2686 * 6	 09 08 01 \7< 03 \b19
+
+//check for Japanese mode
+ 2687 * 6	 09 10 01 \7= 01 09
+ 2688 * 10	 03 10 01 01 01 09 A1 00 A1 00
+ 2689 * 10	 03 10 01 02 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 04 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 08 01 09 A1 00 A1 00
+ 2692 * 10	 03 10 01 0D 01 09 A1 00 A1 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 02
+ 2691 * 10	 03 10 01 03 01 09 A1 00 A1 00
+ 2693 * 10	 03 10 01 05 01 09 A1 00 A1 00
+ 2694 * 6	 09 9A 01 \7= FF 09
+
+//International mode
+ 2695 * 10	 03 10 01 01 01 09 A1 00 A1 00
+ 2697 * 10	 03 10 01 04 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 08 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 09 01 09 A1 00 A1 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 02
+ 2696 * 10	 03 10 01 02 01 09 A1 00 A1 00
+ 2698 * 10	 03 10 01 05 01 09 A1 00 A1 00
+ 2700 * 10	 03 10 01 0C 01 09 A1 00 A1 00
+ 2701 * 10	 03 10 01 0D 01 09 A1 00 A1 00
+
+
+
+//Urban fences
+//Japanese:		09 SUB3, 0B NUBE, 0C SUBE
+//International:	0A SUCE, 0B SUC3
+ 2702 * 4	 01 10 01 08
+ 2662 sprites/fences.png   0 100 09 22 33 -31 -6
+ 2663 sprites/fences.png  48 100 09 22 33 0 -6
+ 2664 sprites/fences.png  96 100 01 38 2 0 -22
+ 2665 sprites/fences.png 112 100 01 6 65 -31 -6
+ 2666 sprites/fences.png 192 100 09 14 33 -31 -6
+ 2667 sprites/fences.png 240 100 09 14 33 0 -6
+ 2668 sprites/fences.png 288 100 09 30 33 -31 -14
+ 2669 sprites/fences.png 336 100 09 30 33 0 -14
+ 2711 * 7	 02 10 A5 01 00 00 00
+
+//check fence option
+ 2712 * 6	 09 08 01 \7< 02 09 
+
+
+//check for Japanese mode
+ 2717 * 6	 09 10 01 \7= 01 05
+//check if Urban tracks are used
+ 2716 * 6	 09 11 01 \70 00 03
+ 2718 * 10	 03 10 01 09 01 09 A5 00 A5 00
+ 2719 * 10	 03 10 01 0B 01 09 A5 00 A5 00
+ 2720 * 10	 03 10 01 0C 01 09 A5 00 A5 00
+ 2721 * 6	 09 9A 01 \7= FF 03
+
+//International mode
+//check if Urban tracks are used
+ 2716 * 6	 09 11 01 \70 00 02
+ 2722 * 10	 03 10 01 0A 01 09 A5 00 A5 00
+ 2723 * 10	 03 10 01 0B 01 09 A5 00 A5 00
+
+
+//Highspeed fences
+//Japanese:		06 SAEE, 07 SBEE
+//International:	03 SADN, 06 SADE, 07 SAEE
+ 2726 * 4	 01 10 01 08
+ 2662 sprites/fences.png   0 150 09 22 33 -31 -6
+ 2663 sprites/fences.png  48 150 09 22 33 0 -6
+ 2664 sprites/fences.png  96 150 01 38 2 0 -22
+ 2665 sprites/fences.png 112 150 01 6 65 -31 -6
+ 2666 sprites/fences.png 192 150 09 14 33 -31 -6
+ 2667 sprites/fences.png 240 150 09 14 33 0 -6
+ 2668 sprites/fences.png 288 150 09 30 33 -31 -14
+ 2669 sprites/fences.png 336 150 09 30 33 0 -14
+ 2735 * 7	 02 10 A9 01 00 00 00
+
+//check fence option
+ 2736 * 6	 09 08 01 \7< 02 09
+
+//check for Japanese mode
+ 2739 * 6	 09 10 01 \7= 01 04
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+ 2741 * 10	 03 10 01 07 01 09 A9 00 A9 00
+ 2740 * 10	 03 10 01 06 01 09 A9 00 A9 00
+ 2742 * 6	 09 9A 01 \7= FF 04
+
+//International mode
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 03
+ 2743 * 10	 03 10 01 03 01 09 A9 00 A9 00
+ 2743 * 10	 03 10 01 06 01 09 A9 00 A9 00
+ 2743 * 10	 03 10 01 07 01 09 A9 00 A9 00
+
+ 2829 * 2	 10 F7
+
+
+//EMPTY FENCES
+//use NLOW fences, upper left corner
+ 2830 * 4	 01 10 01 08
+ 2662 sprites/fences.png   0 0 09 1 1 -31 -6
+ 2663 sprites/fences.png  48 0 09 1 1 0 -6
+ 2664 sprites/fences.png  96 0 01 1 1 0 -22
+ 2665 sprites/fences.png 112 0 01 1 1 -31 -6
+ 2666 sprites/fences.png 192 0 09 1 1 -31 -6
+ 2667 sprites/fences.png 240 0 09 1 1 0 -6
+ 2668 sprites/fences.png 288 0 09 1 1 -31 -14
+ 2669 sprites/fences.png 336 0 09 1 1 0 -14
+ 2839 * 7	 02 10 A0 01 00 00 00
+
+//check fence option
+ 2840 * 6	 09 08 01 \7> 02 FB 
+ 2841 * 6	 09 08 01 \7= 01 FB 
+
+//check for Japanese mode
+ 2842 * 6	 09 10 01 \7= 01 10
+ 2843 * 10	 03 10 01 00 01 09 A0 00 A0 00
+ 2844 * 10	 03 10 01 01 01 09 A0 00 A0 00
+ 2845 * 10	 03 10 01 02 01 09 A0 00 A0 00
+ 2846 * 10	 03 10 01 03 01 09 A0 00 A0 00
+ 2847 * 10	 03 10 01 04 01 09 A0 00 A0 00
+ 2848 * 10	 03 10 01 05 01 09 A0 00 A0 00
+ 2849 * 10	 03 10 01 08 01 09 A0 00 A0 00
+ 2849 * 10	 03 10 01 09 01 09 A0 00 A0 00
+ 2849 * 10	 03 10 01 0A 01 09 A0 00 A0 00
+ 2855 * 10	 03 10 01 0D 01 09 A0 00 A0 00
+ 2850 * 6	 09 08 01 \7= 02 04
+ 2851 * 10	 03 10 01 06 01 09 A0 00 A0 00
+ 2852 * 10	 03 10 01 07 01 09 A0 00 A0 00
+ 2855 * 10	 03 10 01 0B 01 09 A0 00 A0 00
+ 2855 * 10	 03 10 01 0C 01 09 A0 00 A0 00
+ 2856 * 6	 09 9A 01 \7= FF FB
+
+//International mode
+ 2857 * 10	 03 10 01 00 01 09 A0 00 A0 00
+ 2858 * 10	 03 10 01 01 01 09 A0 00 A0 00
+ 2859 * 10	 03 10 01 02 01 09 A0 00 A0 00
+ 2860 * 10	 03 10 01 04 01 09 A0 00 A0 00
+ 2861 * 10	 03 10 01 05 01 09 A0 00 A0 00
+ 2862 * 10	 03 10 01 08 01 09 A0 00 A0 00
+ 2869 * 10	 03 10 01 09 01 09 A0 00 A0 00
+ 2869 * 10	 03 10 01 0C 01 09 A0 00 A0 00
+ 2869 * 10	 03 10 01 0D 01 09 A0 00 A0 00
+ 2863 * 6	 09 08 01 \7= 02 05 
+ 2864 * 10	 03 10 01 03 01 09 A0 00 A0 00
+ 2865 * 10	 03 10 01 06 01 09 A0 00 A0 00
+ 2866 * 10	 03 10 01 07 01 09 A0 00 A0 00
+ 2867 * 10	 03 10 01 0A 01 09 A0 00 A0 00
+ 2868 * 10	 03 10 01 0B 01 09 A0 00 A0 00
+
+ 2870 * 2	 10 FB
+
+

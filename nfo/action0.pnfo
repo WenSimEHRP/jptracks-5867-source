@@ -1,0 +1,1347 @@
+//PROPERTIES (ACTION 0)
+// JAPANESE MODE
+  161 * 6        09 10 01 \7= 01 F2
+
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01             //if bit 1 is clear, then we are minimal, so skip
+
+  162 * 87       00 10 12 01 00
+                        08 "NAAN"                       //Rail type label
+                        09 10 DC                        //Name of rail type
+                        0A 20 DC                        //Menu text
+                        0B 30 DC                        //Build window caption
+                        0C 40 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 04 "NABN" "NABE" "NACE" "NUBE"
+                                                        //Compatible rail type list
+                        0F 04 "NABN" "NABE" "NACE" "NUBE"               
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w80                         //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 10                           //sort order
+                        1D 03 "NAaN" "NBaN" "NBAN"      //redirected rail type labels
+
+
+  163 * 87       00 10 13 01 01 
+                        08 "NABN"                       //Rail type label
+                        09 11 DC                        //Name of rail type
+                        0A 21 DC                        //Menu text
+                        0B 31 DC                        //Build window caption
+                        0C 41 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 04 "NAAN" "NABE" "NACE" "NUBE"               
+                                                        //Compatible rail type list
+                        0F 04 "NAAN" "NABE" "NACE" "NUBE"               
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        17 \d01/01/1920                 //Introdate
+                        18 01 "NAAN"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 11                           //sort order
+                        1D 04 "NGRL" "NBBN" "NACN" "NBCN"
+                                                        //redirected rail type labels
+
+
+  164 * 75       00 10 12 01 02
+                        08 "NABE"                       //Rail type label
+                        09 12 DC                        //Name of rail type
+                        0A 22 DC                        //Menu text
+                        0B 32 DC                        //Build window caption
+                        0C 42 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 04 "NABN" "NAAN" "NACE" "NUBE"               
+                                                        //Compatible rail type list
+                        0F 02 "NACE" "NUBE"             
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 12                           //sort order
+                        1D 06 "ELNG" "NAaE" "NBaE" "NAAE" "NBAE" "NBBE" 
+                                                        //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01             //if bit 1 is clear, then we are minimal, so skip
+
+  166 * 75       00 10 13 01 03
+                        08 "NACE"                       //Rail type label
+                        09 13 DC                        //Name of rail type
+                        0A 23 DC                        //Menu text
+                        0B 33 DC                        //Build window caption
+                        0C 43 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 04 "NAAN" "NABN" "NABE" "NUBE"               
+                                                        //Compatible rail type list
+                        0F 02 "NABE" "NUBE"             
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w160                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        17 \d01/01/1950                 //Introdate
+                        18 01 "NABE"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 14                           //sort order
+                        1D 01 "NBCE"                    //redirected rail type labels
+
+
+  170 * 84       00 10 12 01 04 
+                        08 "ELRL"                       //Rail type label
+                        09 14 DC                        //Name of rail type
+                        0A 24 DC                        //Menu text
+                        0B 34 DC                        //Build window caption
+                        0C 44 DC                        //Autoreplace text
+                        0D 54 DC                        //New engines
+                        0E 04 "SACE" "SUBE" "SAB3" "RAIL"               
+                                                        //Compatible rail type list
+                        0F 02 "SACE" "SUBE"             //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 BD				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 21                           //sort order
+                        1D 04 "SAAE" "SBAE" "SABE" "SBBE"
+                                                        //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01             //if bit 1 is clear, then we are minimal, so skip
+
+  173 * 63       00 10 13 01 05 
+                        08 "SACE"                       //Rail type label
+                        09 15 DC                        //Name of rail type
+                        0A 25 DC                        //Menu text
+                        0B 35 DC                        //Build window caption
+                        0C 45 DC                        //Autoreplace text
+                        0D 54 DC                        //New engines
+                        0E 06 "ELRL" "SUBE" "SAEE" "SBEE" "SAB3" "RAIL"                 
+                                                        //Compatible rail type list
+                        0F 04 "ELRL" "SUBE" "SAEE" "SBEE"
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 01                           //Default station graphics
+                        14 \w160                        //Speed limit
+                        15 00                           //Acceleration model
+			16 BD				//Map colour
+                        17 \d01/01/1950                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 24                           //sort order
+                        1D 02 "SADE" "SBDE"             //redirected rail type labels
+
+
+  173 * 63       00 10 12 01 06 
+                        08 "SAEE"                       //Rail type label
+                        09 16 DC                        //Name of rail type
+                        0A 26 DC                        //Menu text
+                        0B 36 DC                        //Build window caption
+                        0C 46 DC                        //Autoreplace text
+                        0D 56 DC                        //New engines
+                        0E 02 "SUBE" "SBEE"             //Compatible rail type list
+                        0F 02 "SUBE" "SBEE"             //Powered rail type list
+                        10 03                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 01                           //Default station graphics
+                        14 \w240                        //Speed limit
+                        15 00                           //Acceleration model
+			16 98				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 01 "SUBE"                    //Introduced rail type list
+                        1A 25                           //sort order
+                        1D 00                           //redirected rail type labels
+
+//check if extended track types are used (still in reduced)
+  198 * 6        09 11 01 \70 01 01             //if bit 1 is clear, then we are minimal, so skip
+
+  174 * 69       00 10 13 01 07
+                        08 "SBEE"                       //Rail type label
+                        09 17 DC                        //Name of rail type
+                        0A 27 DC                        //Menu text
+                        0B 37 DC                        //Build window caption
+                        0C 47 DC                        //Autoreplace text
+                        0D 56 DC                        //New engines
+                        0E 02 "SAEE" "SUBE"             //Compatible rail type list
+                        0F 02 "SAEE" "SUBE"             //Powered rail type list
+                        10 03                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 02                           //Default station graphics
+                        14 \w320                        //Speed limit
+                        15 00                           //Acceleration model
+			16 98				//Map colour
+                        17 \d01/01/1990                 //Introdate
+                        18 01 "SAEE"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 26                           //sort order
+                        1D 00                           //redirected rail type labels
+
+
+  174 * 69       00 10 12 01 08
+                        08 "SAB3"                       //Rail type label
+                        09 18 DC                        //Name of rail type
+                        0A 28 DC                        //Menu text
+                        0B 38 DC                        //Build window caption
+                        0C 48 DC                        //Autoreplace text
+                        0D 58 DC                        //New engines
+                        0E 05 "ELRL" "SACE" "SUBE" "RAIL" "SUB3"
+                                                        //Compatible rail type list
+                        0F 01 "SUB3"                    //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 02                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 BD				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 23                           //sort order
+                        1D 06 "3RDR" "SAA3" "SBA3" "SBB3" "SAC3" "SBC3"         
+                                                        //redirected rail type labels
+
+//check if Urban tracks are used (these are skipped for minimal and reduced)
+  167 * 6        09 11 01 \70 00 03             //if bit 0 is clear, then skip for both
+
+  174 * 69       00 10 13 01 09
+                        08 "SUB3"                       //Rail type label
+                        09 19 DC                        //Name of rail type
+                        0A 29 DC                        //Menu text
+                        0B 38 DC                        //Build window caption
+                        0C 48 DC                        //Autoreplace text
+                        0D 58 DC                        //New engines
+                        0E 05 "ELRL" "SACE" "SUBE" "RAIL" "SAB3"
+                                                        //Compatible rail type list
+                        0F 01 "SAB3"                    //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 02                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 BD				//Map colour
+                        17 \d01/01/1925                 //Introdate
+                        18 01 "SAB3"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 24                           //sort order
+                        1D 00                           //redirected rail type labels
+
+  168 * 75       00 10 13 01 0B 
+                        08 "NUBE"                       //Rail type label
+                        09 1B DC                        //Name of rail type
+                        0A 2B DC                        //Menu text
+                        0B 3B DC                        //Build window caption
+                        0C 4B DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 04 "NAAN" "NABN" "NABE" "NACE"               
+                                                        //Compatible rail type list
+                        0F 02 "NABE" "NACE"             
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        17 \d01/01/1925                 //Introdate
+                        18 01 "NABE"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 13                           //sort order
+                        1D 00                           //redirected rail type labels
+
+
+  172 * 78       00 10 13 01 0C 
+                        08 "SUBE"                       //Rail type label
+                        09 1C DC                        //Name of rail type
+                        0A 2C DC                        //Menu text
+                        0B 3C DC                        //Build window caption
+                        0C 4C DC                        //Autoreplace text
+                        0D 54 DC                        //New engines
+                        0E 04 "ELRL" "SACE" "SAB3" "RAIL"
+                                                        //Compatible rail type list
+                        0F 02 "ELRL" "SACE"             //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 BD				//Map colour
+                        17 \d01/01/1925                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 22                           //sort order
+                        1D 00                           //redirected rail type labels
+
+
+  172 * 78       00 10 12 01 0D
+                        08 "RAIL"                       //Rail type label
+                        09 1D DC                        //Name of rail type
+                        0A 2D DC                        //Menu text
+                        0B 3D DC                        //Build window caption
+                        0C 4D DC                        //Autoreplace text
+                        0D 54 DC                        //New engines
+                        0E 04 "ELRL" "SACE" "SAB3" "SUBE"
+                                                        //Compatible rail type list
+                        0F 04 "ELRL" "SACE" "SAB3" "SUBE"
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w130                        //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 20                           //sort order
+                        1D 0A "SAAN" "SBAN" "SABN" "SBBN" "SACN" "SBCN" "SADN" "SBDN" "SAEN" "SBEN"
+                                                        //redirected rail type labels
+
+
+  177 * 14       00 10 04 01 0E
+                        08 "MONO"                       //Rail type label
+                        10 02                           //Rail type flags (01=with catenary)
+			16 A5				//Map colour
+                        1A 30                           //sort order
+
+  177 * 14       00 10 04 01 0F
+                        08 "MGLV"                       //Rail type label
+                        10 02                           //Rail type flags (01=with catenary)
+			16 A5				//Map colour
+                        1A 40                           //sort order
+
+
+//signals
+  179 * 7        00 08 01 01 03 08 09
+//build tracks
+  179 * 7        00 08 01 01 01 08 05
+
+
+  180 * 6        09 03 01 \7> 03 0B
+//signals
+  179 * 7        00 08 01 01 03 08 08
+//build tracks
+  179 * 7        00 08 01 01 01 08 04
+
+  183 * 6        09 03 01 \7> 02 08
+//signals
+  179 * 7        00 08 01 01 03 08 07
+//build tracks
+  179 * 7        00 08 01 01 01 08 03
+
+  186 * 6        09 03 01 \7> 01 05 
+//signals
+  179 * 7        00 08 01 01 03 08 06
+//build tracks
+  179 * 7        00 08 01 01 01 08 02
+
+  189 * 6        09 03 01 \7> 00 02 
+//signals
+  179 * 7        00 08 01 01 03 08 05
+//build tracks
+  179 * 7        00 08 01 01 01 08 01
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// TRACK AVAILABILITY. Issue above is that Track ID is skipped if extended is off. Therefore below we need to skip adjusting them
+// REDUCED                                                                                  SKIP  SKIP  SKIP  SKIP
+// MINIMAL                           SKIP              SKIP        SKIP        SKIP         SKIP  SKIP  SKIP  SKIP
+//                                   NAAN  NABN  NABE  NACE  ELRL  SACE  SAEE  SBEE   SAB3  SUB3  xxxx  NUBE  SUBE  RAIL  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 6        09 11 01 \70 01 \b35    //Check for minimal, skip
+    0 * 6        09 11 01 \70 00 \b17    //Check for reduced, skip
+//-------------------------------------------------------------------------------------------------------------------------------
+//  FULL (17 sprites)
+//-------------------------------------------------------------------------------------------------------------------------------
+// CONSTRUCTION COSTS
+    0 * 32       00 10 01 0A 00 13 \w100 \w150 \w250 \w400 \w300 \w450 \w750 \w1250 \w250 \w250
+    0 * 0        00 10 01 05 0B 13                                                                     \w250 \w300 \w250 \w250 \w2500
+// MAINTENANCE COSTS
+//                                   NAAN  NABN  NABE  NACE  ELRL  SACE  SAEE  SBEE   SAB3  SUB3  xxxx NUBE  SUBE  RAIL  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+    0 * 32       00 10 01 0A 00 1C   \w16  \w24  \w48  \w64  \w40  \w48  \w96  \w160  \w32  \w32
+    0 * 0        00 10 01 05 0B 1C                                                                     \w48  \w40  \w32  \w32  \w240
+    0 * 6        09 04 01 \7> 03 F2
+    0 * 32       00 10 01 0A 00 1C   \w8   \w12  \w24  \w32  \w20  \w28  \w48  \w80   \w16  \w16
+    0 * 0        00 10 01 05 0B 1C                                                                     \w24  \w20  \w16  \w16  \w120
+    0 * 6        09 04 01 \7> 02 F2
+    0 * 32       00 10 01 0A 00 1C   \w4   \w6   \w12  \w16  \w10  \w14  \w24  \w40   \w8   \w8
+    0 * 0        00 10 01 05 0B 1C                                                                     \w12  \w10  \w8   \w8   \w60
+    0 * 6        09 04 01 \7> 01 F2 
+    0 * 32       00 10 01 0A 00 1C   \w2   \w3   \w6   \w8   \w5   \w7   \w12  \w20   \w4   \w4
+    0 * 0        00 10 01 05 0B 1C                                                                     \w6   \w5   \w4   \w4   \w30
+    0 * 6        09 04 01 \7> 00 F2 
+    0 * 32       00 10 01 0A 00 1C   \w1   \w2   \w3   \w4   \w3   \w4   \w6   \w10   \w2   \w2
+    0 * 0        00 10 01 05 0B 1C                                                                     \w3   \w3   \w2   \w2   \w15
+    0 * 0        09 9A 01 \7= FF F2  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+//  REDUCED (17 sprites)
+//-------------------------------------------------------------------------------------------------------------------------------
+// CONSTRUCTION COSTS
+    0 * 32       00 10 01  09 00 13 \w100 \w150 \w250 \w400 \w300 \w450 \w750 \w1250 \w250             
+    0 * 0    00 10 01 \b3  0D 13                                                                                 \w250 \w250 \w2500
+// MAINTENANCE COSTS
+//                                   NAAN  NABN  NABE  NACE  ELRL  SACE  SAEE  SBEE   SAB3  SUB3  xxxx  NUBE  SUBE  RAIL  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+    0 * 32       00 10 01 09 00 1C   \w16  \w24  \w48  \w64  \w40  \w48  \w96  \w160  \w32
+    0 * 0    00 10 01 \b3  0D 1C                                                                                 \w250 \w250 \w2500
+    0 * 6        09 04 01 \7> 03 F2
+    0 * 32       00 10 01 09 00 1C   \w8   \w12  \w24  \w32  \w20  \w28  \w48  \w80   \w16
+    0 * 0    00 10 01 \b3  0D 1C                                                                                 \w16  \w16  \w120
+    0 * 6        09 04 01 \7> 02 F2
+    0 * 32       00 10 01 09 00 1C   \w4   \w6   \w12  \w16  \w10  \w14  \w24  \w40   \w8
+    0 * 0    00 10 01 \b3  0D 1C                                                                                 \w8   \w8   \w60
+    0 * 6        09 04 01 \7> 01 F2 
+    0 * 32       00 10 01 09 00 1C   \w2   \w3   \w6   \w8   \w5   \w7   \w12  \w20   \w4
+    0 * 0    00 10 01 \b3  0D 1C                                                                                 \w4   \w4   \w30
+    0 * 6        09 04 01 \7> 00 F2 
+    0 * 32       00 10 01 09 00 1C   \w1   \w2   \w3   \w4   \w3   \w4   \w6   \w10   \w2
+        0 * 0    00 10 01 \b3  0D 1C                                                                             \w2   \w2   \w15
+    0 * 0        09 9A 01 \7= FF F2  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+//  MINIMAL                          NAAN  NABN  NABE  NACE  ELRL  SACE  SAEE  SBEE   SAB3  SUB3  xxxx  NUBE  SUBE  RAIL  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+// CONSTRUCTION COSTS
+    0 * 32       00 10 01 \b2  01 13       \w150 \w250       
+    0 * 32       00 10 01 \b1  04 13                         \w300       
+    0 * 32       00 10 01 \b1  06 13                                     \w750        
+    0 * 32       00 10 01 \b1  08 13                                                  \w250
+    0 * 32       00 10 01 \b3  0D 13                                                                               \w250 \w250 \w2500
+
+// MAINTENANCE COSTS
+    0 * 32       00 10 01 \b2  01 1C       \w24  \w48      
+    0 * 32       00 10 01 \b1  04 1C                         \w40       
+    0 * 32       00 10 01 \b1  06 1C                                     \w96        
+    0 * 32       00 10 01 \b1  08 1C                                                  \w32
+    0 * 32       00 10 01 \b3  0D 1C                                                                               \w250 \w250 \w2500 
+
+    0 * 6        09 04 01 \7>  03 05
+    0 * 32       00 10 01 \b2  01 1C       \w12  \w24      
+    0 * 32       00 10 01 \b1  04 1C                         \w20       
+    0 * 32       00 10 01 \b1  06 1C                                     \w48        
+    0 * 32       00 10 01 \b1  08 1C                                                  \w16
+    0 * 32       00 10 01 \b3  0D 1C                                                                               \w16  \w16  \w120 
+
+    0 * 6        09 04 01 \7>  02 05
+    0 * 32       00 10 01 \b2  01 1C       \w6   \w12      
+    0 * 32       00 10 01 \b1  04 1C                         \w10       
+    0 * 32       00 10 01 \b1  06 1C                                     \w24        
+    0 * 32       00 10 01 \b1  08 1C                                                  \w8 
+    0 * 32       00 10 01 \b3  0D 1C                                                                               \w8   \w8   \w60 
+
+    0 * 6        09 04 01 \7>  01 05 
+    0 * 32       00 10 01 \b2  01 1C       \w3   \w6      
+    0 * 32       00 10 01 \b1  04 1C                         \w5       
+    0 * 32       00 10 01 \b1  06 1C                                     \w12        
+    0 * 32       00 10 01 \b1  08 1C                                                  \w4 
+    0 * 32       00 10 01 \b3  0D 1C                                                                               \w4   \w4   \w40 
+
+    0 * 6        09 04 01 \7>  00 05 
+    0 * 32       00 10 01 \b2  01 1C       \w2   \w3      
+    0 * 32       00 10 01 \b1  04 1C                         \w3       
+    0 * 32       00 10 01 \b1  06 1C                                     \w6        
+    0 * 32       00 10 01 \b1  08 1C                                                  \w2 
+    0 * 32       00 10 01 \b3  0D 1C                                                                               \w2   \w2   \w15 
+
+
+
+//For MINIMAL: Deactivate all speed limits and adjust redirections if extended track types are not used
+    0 * 32       00 10 01 \b2  01 14       \w0   \w0       
+    0 * 32       00 10 01 \b1  04 14                         \w0       
+    0 * 32       00 10 01 \b1  06 14                                     \w0        
+    0 * 32       00 10 01 \b1  08 14                                                  \w0
+    0 * 32       00 10 01 \b3  0D 14                                                                               \w0   \w0   \w0 
+    0 * 0        00 10 01 01 01 1D 0D "NGRL" "NAaN" "NBaN" "NAAN" "NBAN" "NABN" "NBBN" "NACN" "NBCN" "NADN" "NBDN" "NAEN" "NBEN"
+    0 * 0        00 10 01 01 02 1D 0D "ELNG" "NAaE" "NBaE" "NAAE" "NBAE" "NABE" "NBBE" "NACE" "NBCE" "NADE" "NBDE" "NAEE" "NBEE"
+    0 * 0        00 10 01 01 04 1D 0A "SAaE" "SBaE" "SAAE" "SBAE" "SABE" "SBBE" "SACE" "SBCE" "SADE" "SBDE"
+    0 * 0        00 10 01 01 06 1D 01 "SBEE"
+    0 * 0        00 10 01 01 08 1D 0D "3RDR" "SAa3" "SBa3" "SAA3" "SBA3" "SAB3" "SBB3" "SAC3" "SBC3" "SAD3" "SBD3" "SAE3" "SBE3"
+    0 * 0        00 10 01 01 0D 1D 0C "SAaN" "SBaN" "SAAN" "SBAN" "SABN" "SBBN" "SACN" "SBCN" "SADN" "SBDN" "SAEN" "SBEN"
+    0 * 0        00 10 02 01 04 0E 02 "RAIL" "SAEE" 0F 01 "SAEE"
+
+
+//END OF JAPANESE TRACKS
+  191 * 2        10 F2
+
+//SKIP TO END IF WE ARE JAPANESE
+  192 * 6        09 10 01 \7! 01 F3
+
+
+// INTERNATIONAL MODE
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01
+
+  193 * 98       00 10 12 01 00
+                        08 "SABN"                       //Rail type label
+                        09 10 DC                        //Name of rail type
+                        0A 20 DC                        //Menu text
+                        0B 30 DC                        //Build window caption
+                        0C 40 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "RAIL" "SBCN" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3" 
+                                                        //Compatible rail type list
+                        0F 0B "RAIL" "SBCN" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3" 
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w80                         //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        18 01 "RAIL"                    //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 00                           //sort order
+                        1D 05 "SAaN" "SBaN" "SAAN" "SBAN" "SBBN"        
+                                                        //redirected rail type labels
+
+
+  194 * 104      00 10 12 01 01 
+                        08 "RAIL"                       //Rail type label
+                        09 11 DC                        //Name of rail type
+                        0A 21 DC                        //Menu text
+                        0B 31 DC                        //Build window caption
+                        0C 41 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "SBCN" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 0B "SABN" "SBCN" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 01 "SABN"                    //Introduced rail type list
+                        1A 01                           //sort order
+                        1D 01 "SACN"                    //redirected rail type labels
+
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01
+
+  194 * 104      00 10 13 01 02 
+                        08 "SBCN"                       //Rail type label
+                        09 12 DC                        //Name of rail type
+                        0A 22 DC                        //Menu text
+                        0B 32 DC                        //Build window caption
+                        0C 42 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 0B "SABN" "RAIL" "SADN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w200                        //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        17 \d01/01/1950                 //Introdate
+                        18 01 "RAIL"                    //Introduction required rail type list
+                        19 01 "RAIL"                    //Introduced rail type list
+                        1A 02                           //sort order
+                        1D 00                           //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 02 //skip for minimal
+//always skip in German mode 
+    0 * 0        09 00 01 \7= 02 01
+
+  194 * 104      00 10 13 01 03 
+                        08 "SADN"                       //Rail type label
+                        09 13 DC                        //Name of rail type
+                        0A 23 DC                        //Menu text
+                        0B 33 DC                        //Build window caption
+                        0C 43 DC                        //Autoreplace text
+                        0D 53 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 0B "SABN" "RAIL" "SBCN" "ELRL" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Powered rail type list
+                        10 02                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w260                        //Speed limit
+                        15 00                           //Acceleration model
+			16 0D				//Map colour
+                        17 \d01/01/1980                 //Introdate
+                        18 01 "RAIL"                    //Introduction required rail type list
+                        19 01 "RAIL"                    //Introduced rail type list
+                        1A 03                           //sort order
+                        1D 00                           //redirected rail type labels
+
+
+  195 * 86       00 10 12 01 04
+                        08 "ELRL"                       //Rail type label
+                        09 14 DC                        //Name of rail type
+                        0A 24 DC                        //Menu text
+                        0B 34 DC                        //Build window caption
+                        0C 44 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 05 "SBCE" "SADE" "SAEE" "SACZ" "SUCE"
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 10                           //sort order
+                        1D 06 "SAaE" "SBaE" "SAAE" "SBAE" "SABE" "SBBE"
+                                                        //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01
+
+  195 * 86       00 10 13 01 05
+                        08 "SBCE"                       //Rail type label
+                        09 15 DC                        //Name of rail type
+                        0A 25 DC                        //Menu text
+                        0B 35 DC                        //Build window caption
+                        0C 45 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "ELRL" "SADE" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 05 "ELRL" "SADE" "SAEE" "SACZ" "SUCE"
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w200                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        17 \d01/01/1950                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 01 "ELRL"                    //Introduced rail type list
+                        1A 11                           //sort order
+                        1D 00                           //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01
+
+  195 * 86       00 10 13 01 06
+                        08 "SADE"                       //Rail type label
+                        09 16 DC                        //Name of rail type
+                        0A 26 DC                        //Menu text
+                        0B 36 DC                        //Build window caption
+                        0C 46 DC                        //Autoreplace text
+                        0D 53 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "ELRL" "SAEE" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 05 "SBCE" "ELRL" "SAEE" "SACZ" "SUCE"
+                                                        //Powered rail type list
+                        10 03                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w260                        //Speed limit
+                        15 00                           //Acceleration model
+			16 98				//Map colour
+                        17 \d01/01/1980                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 01 "ELRL"                    //Introduced rail type list
+                        1A 12                           //sort order
+                        1D 07 "SAaE" "SBaE" "SAAE" "SBAE" "SABE" "SBBE" "SACE"  
+                                                        //redirected rail type labels
+
+//check if extended track types are used
+  198 * 6        09 11 01 \70 01 01
+
+  195 * 86       00 10 13 01 07
+                        08 "SAEE"                       //Rail type label
+                        09 17 DC                        //Name of rail type
+                        0A 27 DC                        //Menu text
+                        0B 37 DC                        //Build window caption
+                        0C 47 DC                        //Autoreplace text
+                        0D 53 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "ELRL" "SAC3" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 05 "SBCE" "SADE" "ELRL" "SACZ" "SUCE"
+                                                        //Powered rail type list
+                        10 03                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w380                        //Speed limit
+                        15 00                           //Acceleration model
+			16 98				//Map colour
+                        17 \d01/01/1990                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 01 "ELRL"                    //Introduced rail type list
+                        1A 13                           //sort order
+                        1D 01 "SBEE"                    //redirected rail type labels
+
+
+  195 * 86       00 10 12 01 08
+                        08 "SAC3"                       //Rail type label
+                        09 18 DC                        //Name of rail type
+                        0A 28 DC                        //Menu text
+                        0B 38 DC                        //Build window caption
+                        0C 48 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "SAEE" "ELRL" "SACZ" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 02 "SUC3" "SACZ"             //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 01 "SACZ"                    //Introduced rail type list
+                        1A 14                           //sort order
+                        1D 08 "3RDR" "SAa3" "SBa3" "SAB3" "SBB3" "SBC3" "SAD3" "SBD3"   
+                                                        //redirected rail type labels
+
+
+  195 * 86       00 10 12 01 09
+                        08 "SACZ"                       //Rail type label
+                        09 19 DC                        //Name of rail type
+                        0A 29 DC                        //Menu text
+                        0B 39 DC                        //Build window caption
+                        0C 49 DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "SAEE" "ELRL" "SAC3" "SUCE" "SUC3"
+                                                        //Compatible rail type list
+                        0F 07 "SBCE" "SADE" "SAEE" "ELRL" "SAC3" "SUCE" "SUC3"
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        18 01 "SAC3"                    //Introduction required rail type list
+                        19 01 "SAC3"                    //Introduced rail type list
+                        1A 15                           //sort order
+                        1D 08 "3RDC" "SAaZ" "SBaZ" "SABZ" "SBBZ" "SBCZ" "SADZ" "SBDZ"   
+                                                        //redirected rail type labels
+
+
+
+//check if Urban tracks are used
+  198 * 6        09 11 01 \70 00 02
+
+  195 * 86       00 10 13 01 0A
+                        08 "SUCE"                       //Rail type label
+                        09 1A DC                        //Name of rail type
+                        0A 2A DC                        //Menu text
+                        0B 3A DC                        //Build window caption
+                        0C 4A DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "SAEE" "SAC3" "SACZ" "ELRL" "SUC3"
+                                                        //Compatible rail type list
+                        0F 05 "SBCE" "SADE" "SAEE" "SACZ" "ELRL"
+                                                        //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        17 \d01/01/1925                 //Introdate
+                        18 01 "ELRL"                    //Introduction required rail type list
+                        19 01 "ELRL"                    //Introduced rail type list
+                        1A 20                           //sort order
+                        1D 00                           //redirected rail type labels
+
+
+  195 * 86       00 10 13 01 0B
+                        08 "SUC3"                       //Rail type label
+                        09 1B DC                        //Name of rail type
+                        0A 2B DC                        //Menu text
+                        0B 3B DC                        //Build window caption
+                        0C 4B DC                        //Autoreplace text
+                        0D 50 DC                        //New engines
+                        0E 0B "SABN" "RAIL" "SBCN" "SADN" "SBCE" "SADE" "SAEE" "ELRL" "SACZ" "SUCE" "SAC3"
+                                                        //Compatible rail type list
+                        0F 02 "SAC3" "SACZ"             //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w140                        //Speed limit
+                        15 00                           //Acceleration model
+			16 34				//Map colour
+                        17 \d01/01/1925                 //Introdate
+                        18 01 "SAC3"                    //Introduction required rail type list
+                        19 01 "SAC3"                    //Introduced rail type list
+                        1A 21                           //sort order
+                        1D 00                           //redirected rail type labels
+
+  195 * 86       00 10 12 01 0C
+                        08 "NABN"                       //Rail type label
+                        09 1C DC                        //Name of rail type
+                        0A 2C DC                        //Menu text
+                        0B 3C DC                        //Build window caption
+                        0C 4C DC                        //Autoreplace text
+                        0D 5C DC                        //New engines
+                        0E 01 "NABE"                    //Compatible rail type list
+                        0F 01 "NABE"                    //Powered rail type list
+                        10 00                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w120                        //Speed limit
+                        15 00                           //Acceleration model
+			16 26				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 30                           //sort order
+                        1D 08 "NGRL" "NAaN" "NBaN" "NAAN" "NBAN" "NBBN" "NACN" "NBCN"   
+                                                        //redirected rail type labels
+
+  195 * 86       00 10 12 01 0D
+                        08 "NABE"                       //Rail type label
+                        09 1D DC                        //Name of rail type
+                        0A 2D DC                        //Menu text
+                        0B 3C DC                        //Build window caption
+                        0C 4D DC                        //Autoreplace text
+                        0D 5C DC                        //New engines
+                        0E 01 "NABN"                    //Compatible rail type list
+                        0F 00                           //Powered rail type list
+                        10 01                           //Rail type flags (01=with catenary)
+                        11 00                           //Curve speed advantage
+                        12 00                           //Default station graphics
+                        14 \w120                        //Speed limit
+                        15 00                           //Acceleration model
+			16 42				//Map colour
+                        18 00                           //Introduction required rail type list
+                        19 00                           //Introduced rail type list
+                        1A 31                           //sort order
+                        1D 08 "ELNG" "NAaE" "NBaE" "NAAE" "NBAE" "NBBE" "NACE" "NBCE"   
+                                                        //redirected rail type labels
+
+
+  209 * 14       00 10 04 01 0E
+                        08 "MONO"                       //Rail type label
+                        10 02                           //Rail type flags (01=with catenary)
+			16 A4				//Map colour
+                        1A 40                           //sort order
+
+  209 * 14       00 10 04 01 0F
+                        08 "MGLV"                       //Rail type label
+                        10 02                           //Rail type flags (01=with catenary)
+			16 A4				//Map colour
+                        1A 50                           //sort order
+
+
+//Deactivate all speed limits and adjust redirections if extended track types are not used
+        0 * 6    09 11 01 \71 01 06
+    0 * 0        00 10 01 01 01 1D 0C "SAaN" "SBaN" "SAAN" "SBAN" "SABN" "SBBN" "SACN" "SBCN" "SADN" "SBDN" "SAEN" "SBEN"
+    0 * 0        00 10 01 01 04 1D 0C "SAaE" "SBaE" "SAAE" "SBAE" "SABE" "SBBE" "SACE" "SBCE" "SADE" "SBDE" "SAEE" "SBEE"
+    0 * 0        00 10 01 01 08 1D 0D "3RDR" "SAa3" "SBa3" "SAA3" "SBA3" "SAB3" "SBB3" "SAC3" "SBC3" "SAD3" "SBD3" "SAE3" "SBE3"
+    0 * 0        00 10 01 01 09 1D 0D "3RDC" "SAaZ" "SBaZ" "SAAZ" "SBAZ" "SABZ" "SBBZ" "SACZ" "SBCZ" "SADZ" "SBDZ" "SAEZ" "SBEZ"
+    0 * 0        00 10 01 01 0C 1D 0D "NGRL" "NAaN" "NBaN" "NAAN" "NBAN" "NABN" "NBBN" "NACN" "NBCN" "NADN" "NBDN" "NAEN" "NBEN"
+    0 * 0        00 10 01 01 0D 1D 0D "ELNG" "NAaE" "NBaE" "NAAE" "NBAE" "NABE" "NBBE" "NACE" "NBCE" "NADE" "NBDE" "NAEE" "NBEE"
+
+//ADJUST MULTIPLIERS
+
+//signals
+  179 * 7        00 08 01 01 03 08 09
+//build tracks
+  179 * 7        00 08 01 01 01 08 05
+
+  180 * 6        09 03 01 \7> 03 0B
+//signals
+  179 * 7        00 08 01 01 03 08 08
+//build tracks
+  179 * 7        00 08 01 01 01 08 04
+
+  183 * 6        09 03 01 \7> 02 08
+//signals
+  179 * 7        00 08 01 01 03 08 07
+//build tracks
+  179 * 7        00 08 01 01 01 08 03
+
+  186 * 6        09 03 01 \7> 01 05 
+//signals
+  179 * 7        00 08 01 01 03 08 06
+//build tracks
+  179 * 7        00 08 01 01 01 08 02
+
+  189 * 6        09 03 01 \7> 00 02 
+//signals
+  179 * 7        00 08 01 01 03 08 05
+//build tracks
+  179 * 7        00 08 01 01 01 08 01
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// TRACK AVAILABILITY. Issue above is that Track ID is skipped if extended is off. Therefore below we need to skip adjusting them
+// REDUCED                                                                                        SKIP  SKIP     
+// MINIMAL                           SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+// GERMAN                                              SKIP
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//-------------------------------------------------------------------------------------------------------------------------------
+        0 * 0    09 00 01 \7> 01 \b66
+
+    0 * 6        09 11 01 \70 01 \b32    //Check for minimal, skip
+        0 * 6    09 11 01 \70 00 \b12    //Check for reduced, skip
+//-------------------------------------------------------------------------------------------------------------------------------
+// International Full
+// CONSTRUCTION COSTS
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+  210 * 32       00 10 01 \b16 00 13 \w150 \w250 \w400 \w600 \w400 \w600 \w850 \w1250 \w350 \w500 \w400 \w350 \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b16 00 14 \w80  \w140 \w200 \w260 \w140 \w200 \w260 \w380  \w140 \w140 \w140 \w140 \w120 \w120 \w0   \w0
+// MAINTENANCE COSTS
+  210 * 32       00 10 01 \b16 00 1C \w16  \w24  \w32  \w64  \w48  \w64  \w96  \w160  \w40  \w64  \w48  \w40  \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 01
+  212 * 32       00 10 01 \b16 00 1C \w8   \w12  \w16  \w32  \w24  \w32  \w48  \w80   \w20  \w32  \w24  \w20  \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 01
+  214 * 32       00 10 01 \b16 00 1C \w4   \w6   \w8   \w16  \w12  \w16  \w24  \w40   \w10  \w16  \w12  \w10  \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 01
+  216 * 32       00 10 01 \b16 00 1C \w2   \w3   \w4   \w8   \w6   \w8   \w12  \w20   \w5   \w8   \w6   \w5   \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 01 
+  218 * 32       00 10 01 \b16 00 1C \w1   \w2   \w2   \w4   \w3   \w4   \w6   \w10   \w3   \w4   \w3   \w3   \w1   \w3   \w2   \w15
+    0 * 0        09 9A 01 \7= FF F3  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+// International REDUCED                                                                    SKIP  SKIP   
+// CONSTRUCTION COSTS
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+    0 * 0        00 10 01 \b10 00 13 \w150 \w250 \w400 \w600 \w400 \w600 \w850 \w1250 \w350 \w500 
+    0 * 0        00 10 01 \b04 0c 13                                                                                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b10 00 14 \w80  \w140 \w200 \w260 \w140 \w200 \w260 \w380  \w140 \w140 
+    0 * 0        00 10 01 \b04 0c 14                                                                                                                                          \w120 \w120 \w0   \w0
+// MAINTENANCE COSTS
+    0 * 0        00 10 01 \b10 00 1C \w16  \w24  \w32  \w64  \w48  \w64  \w96  \w160  \w40  \w64  
+    0 * 0        00 10 01 \b04 0c 1C                                                                                                                                              \w16  \w40  \w32  \w240
+    0 * 0        09 04 01 \7>  03 02
+    0 * 0        00 10 01 \b10 00 1C \w8   \w12  \w16  \w32  \w24  \w32  \w48  \w80   \w20  \w32  
+    0 * 0        00 10 01 \b04 0c 1C                                                                                                                                              \w8   \w20  \w16  \w120
+    0 * 0        09 04 01 \7>  02 02
+    0 * 0        00 10 01 \b10 00 1C \w4   \w6   \w8   \w16  \w12  \w16  \w24  \w40   \w10  \w16 
+    0 * 0        00 10 01 \b04 0c 1C                                                                                                                                              \w4   \w10  \w8   \w60
+    0 * 0        09 04 01 \7>  01 02
+    0 * 0        00 10 01 \b10 00 1C \w2   \w3   \w4   \w8   \w6   \w8   \w12  \w20   \w5   \w8   
+    0 * 0        00 10 01 \b04 0c 1C                                                                                                                                              \w2   \w5   \w4   \w30
+    0 * 0        09 04 01 \7>  00 02 
+    0 * 0        00 10 01 \b10 00 1C \w1   \w2   \w2   \w4   \w3   \w4   \w6   \w10   \w3   \w4  
+    0 * 0        00 10 01 \b04 0c 1C                                                                                                                                              \w1   \w3   \w2   \w15
+        0 * 0    09 9A 01 \7=  FF F3  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+// International  MINIMAL            SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV  
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+// CONSTRUCTION COSTS
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        00 10 01 \b01 01 13       \w250 
+    0 * 0        00 10 01 \b01 04 13                         \w400 
+    0 * 0        00 10 01 \b02 08 13                                                  \w350 \w500 
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b01 01 14       \w0
+    0 * 0        00 10 01 \b01 04 14                         \w0
+    0 * 0        00 10 01 \b02 08 14                                                  \w0   \w0 
+    0 * 0        00 10 01 \b04 0c 14                                                                          \w0   \w0   \w0   \w0
+// MAINTENANCE COSTS
+    0 * 0        00 10 01 \b01 01 1C       \w24 
+    0 * 0        00 10 01 \b01 04 1C                         \w48 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w40  \w64 
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+    0 * 0        09 04 01 \7>  03 04
+    0 * 0        00 10 01 \b01 01 1C       \w12 
+    0 * 0        00 10 01 \b01 04 1C                         \w24  
+    0 * 0        00 10 01 \b02 08 1C                                                  \w20  \w32 
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+    0 * 0        09 04 01 \7>  02 04
+    0 * 0        00 10 01 \b01 01 1C       \w6 
+    0 * 0        00 10 01 \b01 04 1C                         \w12 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w10  \w16 
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+    0 * 0        09 04 01 \7>  01 04
+    0 * 0        00 10 01 \b01 01 1C       \w3 
+    0 * 0        00 10 01 \b01 04 1C                         \w6 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w5   \w8   
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+    0 * 0        09 04 01 \7>  00 04 
+    0 * 0        00 10 01 \b01 01 1C       \w2  
+    0 * 0        00 10 01 \b01 04 1C                         \w3 
+    0 * 0        00 10 01 \b02 08 1C                                                                          \w3   \w4  
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+        0 * 0    09 9A 01 \7= FF F3  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        09 00 01 \7! 02 \b90  //skip if we are not '2' == 'German'
+//-------------------------------------------------------------------------------------------------------------------------------
+// GERMAN MODE
+// REDUCED                                                                                         SKIP  SKIP     
+// MINIMAL                            SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+// GERMAN                                               SKIP
+//                                    SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//-------------------------------------------------------------------------------------------------------------------------------
+  677 * 6  09 11 01 \70 01 \b56 //Check for minimal, skip
+  678 * 6  09 11 01 \70 00 \b25 //Check for reduced, skip
+//-------------------------------------------------------------------------------------------------------------------------------
+// GERMAN FULL (this should still be minus SADN)
+// CONSTRUCTION COSTS                    
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+    0 * 0        00 10 01 \b03 00 13 \w150 \w300 \w500       
+    0 * 0        00 10 01 \b12 04 13                         \w500 \w750 \w950 \w1250 \w350 \w500 \w400 \w350 \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b03 00 14 \w100 \w160 \w200 
+    0 * 0        00 10 01 \b12 04 14                         \w160 \w200 \w250 \w320  \w140 \w140 \w140 \w140 \w80  \w80  \w0   \w0
+
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1955       //SBCN -- not for minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1965       //SBCE -- not for minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1990       //SADE -- not for minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/2000       //SAEE -- not for minimal
+    0 * 0        00 10 01 \b01 0A 17 \d01/01/1925       //SUCE -- not for minimal or reduced
+    0 * 0        00 10 01 \b01 0B 17 \d01/01/1925       //SUC3 -- not for minimal or reduced
+// MAINTENANCE COSTS
+    0 * 0        00 10 01 \b03 00 1C \w16  \w24  \w40       
+    0 * 0        00 10 01 \b12 04 1C                         \w56  \w72  \w120 \w160  \w40  \w64  \w48  \w40  \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 \b11
+  212 * 32       00 10 01 \b03 00 1C \w8   \w12  \w20       
+    0 * 0        00 10 01 \b12 04 1C                         \w28  \w36  \w60  \w80   \w20  \w32  \w24  \w20  \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 \b8
+  214 * 32       00 10 01 \b03 00 1C \w4   \w6   \w10       
+    0 * 0        00 10 01 \b12 04 1C                         \w14  \w18  \w30  \w40   \w10  \w16  \w12  \w10  \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 \b5 
+  216 * 32       00 10 01 \b03 00 1C \w2   \w3   \w5       
+    0 * 0        00 10 01 \b12 04 1C                         \w7   \w9   \w15  \w20   \w5   \w8   \w6   \w5   \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 \b2
+  218 * 32       00 10 01 \b03 00 1C \w1   \w2   \w3       
+    0 * 0        00 10 01 \b12 04 1C                         \w3   \w5   \w8   \w10   \w3   \w4   \w3   \w3   \w1   \w3   \w2   \w15
+
+//deactivate SADN -- diable this.. .it's already done above and doing it here throws a sprite error on 644..
+//  0 * 0    00 10 01 01 03 08 "XXXX"
+
+        0 * 0    09 9A 01 \7= FF F3  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// GERMAN REDUCED
+// CONSTRUCTION COSTS                    
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        00 10 01 \b03 00 13 \w150 \w300 \w500       
+    0 * 0        00 10 01 \b06 04 13                         \w500 \w750 \w950 \w1250 \w350 \w500       
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b03 00 14 \w100 \w160 \w200 
+    0 * 0        00 10 01 \b06 04 14                         \w160 \w200 \w250 \w320  \w140 \w140       
+    0 * 0        00 10 01 \b04 0c 14                                                                          \w80  \w80  \w0   \w0
+
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1955       //SBCN -- not for minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1965       //SBCE -- not for minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1990       //SADE -- not for minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/2000       //SAEE -- not for minimal
+
+// MAINTENANCE COSTS
+    0 * 0        00 10 01 \b03 00 1C \w16  \w24  \w40       
+    0 * 0        00 10 01 \b06 04 1C                         \w56  \w72  \w120 \w160  \w40  \w64      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 \b15
+  212 * 32       00 10 01 \b03 00 1C \w8   \w12  \w20       
+    0 * 0        00 10 01 \b06 04 1C                         \w28  \w36  \w60  \w80   \w20  \w32      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 \b11
+  214 * 32       00 10 01 \b03 00 1C \w4   \w6   \w10       
+    0 * 0        00 10 01 \b06 04 1C                         \w14  \w18  \w30  \w40   \w10  \w16      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 \b7 
+  216 * 32       00 10 01 \b03 00 1C \w2   \w3   \w5       
+    0 * 0        00 10 01 \b06 04 1C                         \w7   \w9   \w15  \w20   \w5   \w8      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 \b3
+  218 * 32       00 10 01 \b03 00 1C \w1   \w2   \w3       
+    0 * 0        00 10 01 \b06 04 1C                         \w3   \w5   \w8   \w10   \w3   \w4      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+        0 * 0    09 9A 01 \7= FF F3  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+// GERMAN MINIMAL
+// CONSTRUCTION COSTS                    
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        00 10 01 \b01 01 13       \w300       
+    0 * 0        00 10 01 \b01 04 13                         \w500 
+        0 * 0    00 10 01 \b02 08 13                                                  \w350 \w500       
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b01 01 14       \w160        
+    0 * 0        00 10 01 \b01 04 14                         \w160 
+        0 * 0    00 10 01 \b02 08 14                                                  \w140 \w140       
+    0 * 0        00 10 01 \b04 0c 14                                                                          \w80  \w80  \w0   \w0
+
+// MAINTENANCE COSTS
+    0 * 0        00 10 01 \b01 01 1C       \w24        
+    0 * 0        00 10 01 \b01 04 1C                         \w56 
+        0 * 0    00 10 01 \b02 08 1C                                                  \w40  \w64      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 \b19
+  212 * 32       00 10 01 \b01 01 1C       \w12      
+    0 * 0        00 10 01 \b01 04 1C                         \w28 
+        0 * 0    00 10 01 \b02 08 1C                                                  \w20  \w32      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 \b14
+  214 * 32       00 10 01 \b01 01 1C       \w6      
+    0 * 0        00 10 01 \b01 04 1C                         \w14
+        0 * 0    00 10 01 \b02 08 1C                                                  \w10  \w16      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 \b9
+  216 * 32       00 10 01 \b01 01 1C       \w3   
+    0 * 0        00 10 01 \b01 04 1C                         \w7 
+        0 * 0    00 10 01 \b02 08 1C                                                  \w5   \w8      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 \b4
+  218 * 32       00 10 01 \b01 01 1C       \w2   
+    0 * 0        00 10 01 \b01 04 1C                         \w3
+        0 * 0    00 10 01 \b02 08 1C                                                  \w3   \w4      
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+    0 * 0        09 9A 01 \7= FF F3  //skip to end
+//-------------------------------------------------------------------------------------------------------------------------------
+
+        0 * 0    09 00 01 \7! 03 \b78 //skip if we are not '3' == 'British'
+//-------------------------------------------------------------------------------------------------------------------------------
+// BRITISH MODE
+// REDUCED                                                                                        SKIP  SKIP     
+// MINIMAL                           SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0  09 11 01 \70 01 \b44 //Check for minimal, skip
+    0 * 0  09 11 01 \70 00 \b19 //Check for reduced, skip
+//-------------------------------------------------------------------------------------------------------------------------------
+// BRITISH FULL
+// CONSTRUCTION COSTS
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+    0 * 0        00 10 01 \b16 00 13 \w150 \w250 \w350 \w500 \w400 \w550 \w750 \w1250 \w350 \w500 \w400 \w350 \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b16 00 14 \w96  \w160 \w176 \w200 \w160 \w176 \w200 \w320  \w160 \w160 \w160 \w160 \w80  \w80  \w0   \w0
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1920       //SBCN -- not in minimal
+    0 * 0        00 10 01 \b01 03 17 \d01/01/1935       //SADN -- not in minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1920       //SBCE -- not in minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1935       //SADE -- not in minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/1990       //SAEE -- not in minimal
+    0 * 0        00 10 01 \b01 0A 17 \d01/01/1900       //SUCE -- not in minimal or reduced
+    0 * 0        00 10 01 \b01 0B 17 \d01/01/1900       //SUC3 -- not in minimal or reduced
+
+// MAINTENANCE COSTS
+  210 * 32       00 10 01 \b16 00 1C \w16  \w32  \w40  \w64  \w48  \w72  \w104 \w160  \w40  \w64  \w48  \w40  \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 07
+  212 * 32       00 10 01 \b16 00 1C \w8   \w16  \w20  \w32  \w24  \w36  \w52  \w80   \w20  \w32  \w24  \w20  \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 05
+  214 * 32       00 10 01 \b16 00 1C \w4   \w8   \w10  \w16  \w12  \w18  \w26  \w40   \w10  \w16  \w12  \w10  \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 03
+  216 * 32       00 10 01 \b16 00 1C \w2   \w4   \w5   \w8   \w6   \w9   \w13  \w20   \w5   \w8   \w6   \w5   \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 01 
+  218 * 32       00 10 01 \b16 00 1C \w1   \w2   \w2   \w4   \w3   \w4   \w6   \w10   \w3   \w4   \w3   \w3   \w1   \w3   \w2   \w15
+
+    0 * 0        09 9A 01 \7= FF F3  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// BRITISH REDUCED                                                                                SKIP  SKIP  
+// CONSTRUCTION COSTS
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        00 10 01 \b10 00 13 \w150 \w250 \w350 \w500 \w400 \w550 \w750 \w1250 \w350 \w500        
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b10 00 14 \w96  \w160 \w176 \w200 \w160 \w176 \w200 \w320  \w160 \w160        
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w80  \w80  \w0   \w0
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1920       //SBCN -- not in minimal
+    0 * 0        00 10 01 \b01 03 17 \d01/01/1935       //SADN -- not in minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1920       //SBCE -- not in minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1935       //SADE -- not in minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/1990       //SAEE -- not in minimal
+
+// MAINTENANCE COSTS
+  210 * 32       00 10 01 \b10 00 1C \w16  \w32  \w40  \w64  \w48  \w72  \w104 \w160  \w40  \w64         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 11
+  212 * 32       00 10 01 \b10 00 1C \w8   \w16  \w20  \w32  \w24  \w36  \w52  \w80   \w20  \w32         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 08
+  214 * 32       00 10 01 \b10 00 1C \w4   \w8   \w10  \w16  \w12  \w18  \w26  \w40   \w10  \w16         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 05
+  216 * 32       00 10 01 \b10 00 1C \w2   \w4   \w5   \w8   \w6   \w9   \w13  \w20   \w5   \w8          
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 02
+  218 * 32       00 10 01 \b10 00 1C \w1   \w2   \w2   \w4   \w3   \w4   \w6   \w10   \w3   \w4          
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+    0 * 0        09 9A 01 \7= FF F3  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// BRITISH MINIMAL                   SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+// CONSTRUCTION COSTS
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0        00 10 01 \b01 01 13       \w250 
+    0 * 0        00 10 01 \b01 04 13                         \w400 
+    0 * 0        00 10 01 \b02 08 13                                                  \w350 \w500        
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b01 01 14       \w160
+    0 * 0        00 10 01 \b01 04 14                         \w160
+    0 * 0        00 10 01 \b02 08 14                                                  \w160 \w160        
+    0 * 0        00 10 01 \b04 0c 14                                                                          \w80  \w80  \w0   \w0
+
+// MAINTENANCE COSTS
+  210 * 32       00 10 01 \b01 01 1C       \w32 
+    0 * 0        00 10 01 \b01 04 1C                         \w48 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w40  \w64         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 \b19
+  212 * 32       00 10 01 \b01 01 1C       \w16 
+    0 * 0        00 10 01 \b01 04 1C                         \w24 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w20  \w32         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 \b14
+  214 * 32       00 10 01 \b01 01 1C       \w8 
+    0 * 0        00 10 01 \b01 04 1C                         \w12 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w10  \w16         
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 \b9
+  216 * 32       00 10 01 \b01 01 1C       \w4 
+    0 * 0        00 10 01 \b01 04 1C                         \w6 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w5   \w8          
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 \b4
+  218 * 32       00 10 01 \b01 01 1C       \w2 
+    0 * 0        00 10 01 \b01 04 1C                         \w3 
+    0 * 0        00 10 01 \b02 08 1C                                                  \w3   \w4          
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+    0 * 0        09 9A 01 \7= FF F3  //skip to end
+
+
+    0 * 0        09 00 01 \7! 04 F3 //skip to end if we are not american(4)
+//-------------------------------------------------------------------------------------------------------------------------------
+// NORTH AMERICAN MODE
+// REDUCED                                                                                        SKIP  SKIP     
+// MINIMAL                           SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+    0 * 0  09 11 01 \70 01 \b44 //Check for minimal, skip
+    0 * 0  09 11 01 \70 00 \b19 //Check for reduced, skip
+//-------------------------------------------------------------------------------------------------------------------------------
+// NORTH AMERICAN MODE FULL
+// CONSTRUCTION COSTS
+    0 * 0        00 10 01 \b16 00 13 \w150 \w300 \w400 \w600 \w450 \w600 \w850 \w1250 \w400 \w550 \w450 \w400 \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b16 00 14 \w96  \w177 \w193 \w241 \w177 \w193 \w241 \w352  \w177 \w177 \w177 \w177 \w80  \w80  \w0   \w0
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1950       //SBCN -- not in minimal
+    0 * 0        00 10 01 \b01 03 17 \d01/01/1965       //SADN -- not in minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1950       //SBCE -- not in minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1965       //SADE -- not in minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/2010       //SAEE -- not in minimal
+    0 * 0        00 10 01 \b01 0A 17 \d01/01/1900       //SUCE -- not in reduced or minimal
+    0 * 0        00 10 01 \b01 0B 17 \d01/01/1900       //SUC3 -- not in reduced or minimal
+
+// maintenance costs
+  210 * 32       00 10 01 \b16 00 1C \w16  \w40  \w48  \w64  \w64  \w80  \w96  \w160  \w40  \w64  \w48  \w40  \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 07
+  212 * 32       00 10 01 \b16 00 1C \w8   \w20  \w24  \w32  \w32  \w40  \w48  \w80   \w20  \w32  \w24  \w20  \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 01
+  214 * 32       00 10 01 \b16 00 1C \w4   \w10  \w12  \w16  \w16  \w20  \w24  \w40   \w10  \w16  \w12  \w10  \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 01 
+  216 * 32       00 10 01 \b16 00 1C \w2   \w5   \w6   \w8   \w8   \w10  \w12  \w20   \w5   \w8   \w6   \w5   \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 01 
+  218 * 32       00 10 01 \b16 00 1C \w1   \w2   \w3   \w4   \w4   \w5   \w6   \w10   \w3   \w4   \w3   \w3   \w1   \w3   \w2   \w15
+
+  0 * 0  09 9A 01 \7= FF F3  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// NORTH AMERICAN REDUCED                                                                        SKIP  SKIP  
+// CONSTRUCTION COSTS
+//                                  SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+// CONSTRUCTION COSTS
+    0 * 0        00 10 01 \b10 00 13 \w150 \w300 \w400 \w600 \w450 \w600 \w850 \w1250 \w400 \w550 
+    0 * 0        00 10 01 \b04 0c 13                                                             \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b10 00 14 \w96  \w177 \w193 \w241 \w177 \w193 \w241 \w352  \w177 \w177 
+    0 * 0        00 10 01 \b04 0c 14                                                             \w80  \w80  \w0   \w0
+    0 * 0        00 10 01 \b01 02 17 \d01/01/1950       //SBCN -- not in minimal
+    0 * 0        00 10 01 \b01 03 17 \d01/01/1965       //SADN -- not in minimal
+    0 * 0        00 10 01 \b01 05 17 \d01/01/1950       //SBCE -- not in minimal
+    0 * 0        00 10 01 \b01 06 17 \d01/01/1965       //SADE -- not in minimal
+    0 * 0        00 10 01 \b01 07 17 \d01/01/2010       //SAEE -- not in minimal
+
+// maintenance costs
+  210 * 32       00 10 01 \b10 00 1C \w16  \w40  \w48  \w64  \w64  \w80  \w96  \w160  \w40  \w64
+    0 * 0        00 10 01 \b04 0c 1C                                                             \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 07
+  212 * 32       00 10 01 \b10 00 1C \w8   \w20  \w24  \w32  \w32  \w40  \w48  \w80   \w20  \w32
+    0 * 0        00 10 01 \b04 0c 1C                                                             \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 01
+  214 * 32       00 10 01 \b10 00 1C \w4   \w10  \w12  \w16  \w16  \w20  \w24  \w40   \w10  \w16 
+    0 * 0        00 10 01 \b04 0c 1C                                                             \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 01 
+  216 * 32       00 10 01 \b10 00 1C \w2   \w5   \w6   \w8   \w8   \w10  \w12  \w20   \w5   \w8
+    0 * 0        00 10 01 \b04 0c 1C                                                             \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 01 
+  218 * 32       00 10 01 \b10 00 1C \w1   \w2   \w3   \w4   \w4   \w5   \w6   \w10   \w3   \w4
+    0 * 0        00 10 01 \b04 0c 1C                                                             \w1   \w3   \w2   \w15
+
+        0 * 0    09 9A 01 \7= FF F3  //skip to end
+
+//-------------------------------------------------------------------------------------------------------------------------------
+// NORTH AMERICAN MODE
+// MINIMAL                           SKIP        SKIP  SKIP        SKIP  SKIP  SKIP               SKIP  SKIP
+//                                   SABN  RAIL  SBCN  SADN  ELRL  SBCE  SADE  SAEE   SAC3  SACZ  SUCE  SUC3  NABN  NABE  MONO  MGLV
+//                                   00    01    02    03    04    05    06    07     08    09    0A    0B    0C    0D    0E    0F
+//-------------------------------------------------------------------------------------------------------------------------------
+// CONSTRUCTION COSTS
+    0 * 0        00 10 01 \b01 01 13      \w300 
+    0 * 0        00 10 01 \b01 04 13                         \w450 
+    0 * 0        00 10 01 \b02 02 13                                                  \w400 \w550 
+    0 * 0        00 10 01 \b04 0c 13                                                                          \w100 \w200 \w200 \w2000
+    0 * 0        00 10 01 \b01 01 14      \w177 
+    0 * 0        00 10 01 \b01 04 14                         \w177
+    0 * 0        00 10 01 \b02 02 14                                                  \w177 \w177 
+    0 * 0        00 10 01 \b04 0c 14                                                                          \w80  \w80  \w0   \w0
+
+// maintenance costs
+  210 * 32       00 10 01 \b01 01 1C       \w40
+    0 * 0        00 10 01 \b01 04 1C                         \w64 
+    0 * 0        00 10 01 \b02 02 1C                                                  \w40  \w64
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w16  \w40  \w32  \w240
+  211 * 6        09 04 01 \7> 03 \b19
+  212 * 32       00 10 01 \b01 01 1C       \w20
+    0 * 0        00 10 01 \b01 04 1C                         \w32 
+    0 * 0        00 10 01 \b02 02 1C                                                  \w20  \w32
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w8   \w20  \w16  \w120
+  213 * 6        09 04 01 \7> 02 \b14
+  214 * 32       00 10 01 \b01 01 1C       \w10 
+    0 * 0        00 10 01 \b01 04 1C                         \w16  
+    0 * 0        00 10 01 \b02 02 1C                                                  \w10  \w16 
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w4   \w10  \w8   \w60
+  215 * 6        09 04 01 \7> 01 \b09 
+  216 * 32       00 10 01 \b01 01 1C       \w5 
+    0 * 0        00 10 01 \b01 04 1C                         \w8 
+    0 * 0        00 10 01 \b02 02 1C                                                  \w5   \w8
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w2   \w5   \w4   \w30
+  217 * 6        09 04 01 \7> 00 \b04 
+  218 * 32       00 10 01 \b01 01 1C       \w2
+    0 * 0        00 10 01 \b01 04 1C                         \w4 
+    0 * 0        00 10 01 \b02 02 1C                                                  \w3   \w4
+    0 * 0        00 10 01 \b04 0c 1C                                                                          \w1   \w3   \w2   \w15
+
+  219 * 2        10 F3

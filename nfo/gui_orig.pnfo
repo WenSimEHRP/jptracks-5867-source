@@ -1,0 +1,750 @@
+//MENU ITEMS
+//ORIGINAL GRAPHICS
+
+    0 * 6	 09 0A 01 \7! 00 E0
+
+//NG slow
+//Japanese:		00 NAAN
+//International fs:	00 SABN 
+  220 * 4	 01 10 01 10
+    0 sprites/NGslow.png   0 0 09 20 20 0 0
+    0 sprites/NGslow.png  32 0 09 20 20 0 0
+    0 sprites/NGslow.png  64 0 09 20 20 0 0
+    0 sprites/NGslow.png  96 0 09 20 20 0 0
+    0 sprites/NGslow.png 128 0 09 20 20 0 0
+    0 sprites/NGslow.png 160 0 01 20 20 0 0
+    0 sprites/NGslow.png 192 0 09 19 20 0 1
+    0 sprites/NGslow.png 224 0 01 20 20 0 0
+    0 sprites/NGslow.png 256 0 03 30 38 -3 -14
+    0 sprites/NGslow.png 304 0 03 44 72 -16 -8
+    0 sprites/NGslow.png 384 0 03 34 44 -21 -2
+    0 sprites/NGslow.png 448 0 03 44 72 -16 -35
+    0 sprites/NGslow.png 528 0 03 43 56 0 0
+    0 sprites/NGslow.png 592 0 01 32 32 0 0
+    0 sprites/NGslow.png 640 0 03 32 32 0 0
+    0 sprites/NGslow.png 688 0 01 32 32 0 0
+  237 * 7	 02 10 C0 01 00 00 00
+
+
+//NG
+//Japanese:		01 NABN
+//International:	0C NABN
+//International fs:	01 RAIL
+  267 * 4	 01 10 01 10
+    0 sprites/NG.png   0 0 09 20 20 0 0
+    0 sprites/NG.png  32 0 09 20 20 0 0
+    0 sprites/NG.png  64 0 09 20 20 0 0
+    0 sprites/NG.png  96 0 09 20 20 0 0
+    0 sprites/NG.png 128 0 09 20 20 0 0
+    0 sprites/NG.png 160 0 01 20 20 0 0
+    0 sprites/NG.png 192 0 09 19 20 0 1
+    0 sprites/NG.png 224 0 01 20 20 0 0
+    0 sprites/NG.png 256 0 03 30 38 -3 -14
+    0 sprites/NG.png 304 0 03 44 72 -16 -8
+    0 sprites/NG.png 384 0 03 34 44 -21 -2
+    0 sprites/NG.png 448 0 03 44 72 -16 -35
+    0 sprites/NG.png 528 0 03 43 56 0 0
+    0 sprites/NG.png 592 0 01 32 32 0 0
+    0 sprites/NG.png 640 0 03 32 32 0 0
+    0 sprites/NG.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 C1 01 00 00 00
+
+
+//NG electric
+//Japanese:		02 NABE
+//International:	0D NABE
+//International fs:	04 ELRL
+  293 * 4	 01 10 01 10
+    0 sprites/NG2.png   0 0 09 20 20 0 0
+    0 sprites/NG2.png  32 0 09 20 20 0 0
+    0 sprites/NG2.png  64 0 09 20 20 0 0
+    0 sprites/NG2.png  96 0 09 20 20 0 0
+    0 sprites/NG2.png 128 0 09 20 20 0 0
+    0 sprites/NG2.png 160 0 01 20 20 0 0
+    0 sprites/NG2.png 192 0 09 19 20 0 1
+    0 sprites/NG2.png 224 0 01 20 20 0 0
+    0 sprites/NG2.png 256 0 03 30 38 -3 -14
+    0 sprites/NG2.png 304 0 03 44 72 -16 -8
+    0 sprites/NG2.png 384 0 03 34 44 -21 -2
+    0 sprites/NG2.png 448 0 03 44 72 -16 -35
+    0 sprites/NG2.png 528 0 03 43 56 0 0
+    0 sprites/NG2.png 592 0 01 32 32 0 0
+    0 sprites/NG2.png 640 0 03 32 32 0 0
+    0 sprites/NG2.png 688 0 01 32 32 0 0
+  310 * 7	 02 10 C4 01 00 00 00
+
+
+//Electrified modern NG rail
+//Japanese:		03 NACE
+//International fs:	05 SBCE
+  342 * 4	 01 10 01 10
+    0 sprites/NGmod2.png   0 0 09 20 20 0 0
+    0 sprites/NGmod2.png  32 0 09 20 20 0 0
+    0 sprites/NGmod2.png  64 0 09 20 20 0 0
+    0 sprites/NGmod2.png  96 0 09 20 20 0 0
+    0 sprites/NGmod2.png 128 0 09 20 20 0 0
+    0 sprites/NGmod2.png 160 0 01 20 20 0 0
+    0 sprites/NGmod2.png 192 0 09 19 20 0 1
+    0 sprites/NGmod2.png 224 0 01 20 20 0 0
+    0 sprites/NGmod2.png 256 0 03 30 38 -3 -14
+    0 sprites/NGmod2.png 304 0 03 44 72 -16 -8
+    0 sprites/NGmod2.png 384 0 03 34 44 -21 -2
+    0 sprites/NGmod2.png 448 0 03 44 72 -16 -35
+    0 sprites/NGmod2.png 528 0 03 43 56 0 0
+    0 sprites/NGmod2.png 592 0 01 32 32 0 0
+    0 sprites/NGmod2.png 640 0 03 32 32 0 0
+    0 sprites/NGmod2.png 688 0 01 32 32 0 0
+  359 * 7	 02 10 C5 01 00 00 00
+
+
+//Electrified SG rail
+//Japanese:		04 ELRL
+//International:	04 ELRL
+  415 * 4	 01 10 01 10
+    0 sprites/SG2.png   0 0 09 20 20 0 0
+    0 sprites/SG2.png  32 0 09 20 20 0 0
+    0 sprites/SG2.png  64 0 09 20 20 0 0
+    0 sprites/SG2.png  96 0 09 20 20 0 0
+    0 sprites/SG2.png 128 0 09 20 20 0 0
+    0 sprites/SG2.png 160 0 01 20 20 0 0
+    0 sprites/SG2.png 192 0 09 19 20 0 1
+    0 sprites/SG2.png 224 0 01 20 20 0 0
+    0 sprites/SG2.png 256 0 03 30 38 -3 -14
+    0 sprites/SG2.png 304 0 03 44 72 -16 -8
+    0 sprites/SG2.png 384 0 03 34 44 -21 -2
+    0 sprites/SG2.png 448 0 03 44 72 -16 -35
+    0 sprites/SG2.png 528 0 03 43 56 0 0
+    0 sprites/SG2.png 592 0 01 32 32 0 0
+    0 sprites/SG2.png 640 0 03 32 32 0 0
+    0 sprites/SG2.png 688 0 01 32 32 0 0
+  432 * 7	 02 10 E4 01 00 00 00
+
+
+//Electrified modern SG rail
+//Japanese:   	      05 SACE
+//International:      05 SBCE
+  462 * 4	 01 10 01 10
+    0 sprites/SGmod.png   0 0 09 20 20 0 0
+    0 sprites/SGmod.png  32 0 09 20 20 0 0
+    0 sprites/SGmod.png  64 0 09 20 20 0 0
+    0 sprites/SGmod.png  96 0 09 20 20 0 0
+    0 sprites/SGmod.png 128 0 09 20 20 0 0
+    0 sprites/SGmod.png 160 0 01 20 20 0 0
+    0 sprites/SGmod.png 192 0 09 19 20 0 1
+    0 sprites/SGmod.png 224 0 01 20 20 0 0
+    0 sprites/SGmod.png 256 0 03 30 38 -3 -14
+    0 sprites/SGmod.png 304 0 03 44 72 -16 -8
+    0 sprites/SGmod.png 384 0 03 34 44 -21 -2
+    0 sprites/SGmod.png 448 0 03 44 72 -16 -35
+    0 sprites/SGmod.png 528 0 03 43 56 0 0
+    0 sprites/SGmod.png 592 0 01 32 32 0 0
+    0 sprites/SGmod.png 640 0 03 32 32 0 0
+    0 sprites/SGmod.png 688 0 01 32 32 0 0
+  479 * 7	 02 10 E5 01 00 00 00
+
+
+//SG fast electric
+//Japanese:   	      06 SAEE
+//International:      06 SADE
+  462 * 4	 01 10 01 10
+    0 sprites/SGfast2.png   0 0 09 20 20 0 0
+    0 sprites/SGfast2.png  32 0 09 20 20 0 0
+    0 sprites/SGfast2.png  64 0 09 20 20 0 0
+    0 sprites/SGfast2.png  96 0 09 20 20 0 0
+    0 sprites/SGfast2.png 128 0 09 20 20 0 0
+    0 sprites/SGfast2.png 160 0 01 20 20 0 0
+    0 sprites/SGfast2.png 192 0 09 19 20 0 1
+    0 sprites/SGfast2.png 224 0 01 20 20 0 0
+    0 sprites/SGfast2.png 256 0 03 30 38 -3 -14
+    0 sprites/SGfast2.png 304 0 03 44 72 -16 -8
+    0 sprites/SGfast2.png 384 0 03 34 44 -21 -2
+    0 sprites/SGfast2.png 448 0 03 44 72 -16 -35
+    0 sprites/SGfast2.png 528 0 03 43 56 0 0
+    0 sprites/SGfast2.png 592 0 01 32 32 0 0
+    0 sprites/SGfast2.png 640 0 03 32 32 0 0
+    0 sprites/SGfast2.png 688 0 01 32 32 0 0
+  479 * 7	 02 10 E6 01 00 00 00
+
+
+//SG highspeed electric
+//Japanese:   	      07 SBEE
+//International:      07 SAEE
+  462 * 4	 01 10 01 10
+    0 sprites/SGhs2.png   0 0 09 20 20 0 0
+    0 sprites/SGhs2.png  32 0 09 20 20 0 0
+    0 sprites/SGhs2.png  64 0 09 20 20 0 0
+    0 sprites/SGhs2.png  96 0 09 20 20 0 0
+    0 sprites/SGhs2.png 128 0 09 20 20 0 0
+    0 sprites/SGhs2.png 160 0 01 20 20 0 0
+    0 sprites/SGhs2.png 192 0 09 19 20 0 1
+    0 sprites/SGhs2.png 224 0 01 20 20 0 0
+    0 sprites/SGhs2.png 256 0 03 30 38 -3 -14
+    0 sprites/SGhs2.png 304 0 03 44 72 -16 -8
+    0 sprites/SGhs2.png 384 0 03 34 44 -21 -2
+    0 sprites/SGhs2.png 448 0 03 44 72 -16 -35
+    0 sprites/SGhs2.png 528 0 03 43 56 0 0
+    0 sprites/SGhs2.png 592 0 01 32 32 0 0
+    0 sprites/SGhs2.png 640 0 03 32 32 0 0
+    0 sprites/SGhs2.png 688 0 01 32 32 0 0
+  479 * 7	 02 10 E7 01 00 00 00
+
+
+//SG 3rd rail
+//International:      08 SAC3
+  462 * 4	 01 10 01 10
+    0 sprites/SG3rd.png   0 0 09 20 20 0 0
+    0 sprites/SG3rd.png  32 0 09 20 20 0 0
+    0 sprites/SG3rd.png  64 0 09 20 20 0 0
+    0 sprites/SG3rd.png  96 0 09 20 20 0 0
+    0 sprites/SG3rd.png 128 0 09 20 20 0 0
+    0 sprites/SG3rd.png 160 0 01 20 20 0 0
+    0 sprites/SG3rd.png 192 0 09 19 20 0 1
+    0 sprites/SG3rd.png 224 0 01 20 20 0 0
+    0 sprites/SG3rd.png 256 0 03 30 38 -3 -14
+    0 sprites/SG3rd.png 304 0 03 44 72 -16 -8
+    0 sprites/SG3rd.png 384 0 03 34 44 -21 -2
+    0 sprites/SG3rd.png 448 0 03 44 72 -16 -35
+    0 sprites/SG3rd.png 528 0 03 43 56 0 0
+    0 sprites/SG3rd.png 592 0 01 32 32 0 0
+    0 sprites/SG3rd.png 640 0 03 32 32 0 0
+    0 sprites/SG3rd.png 688 0 01 32 32 0 0
+  479 * 7	 02 10 E9 01 00 00 00
+
+
+//SG 3rd rail urban
+//Japanese:		08 SAB3
+//International:	0B SUC3
+  365 * 4	 01 10 01 10
+    0 sprites/SG3rdurban.png   0 0 09 20 20 0 0
+    0 sprites/SG3rdurban.png  32 0 09 20 20 0 0
+    0 sprites/SG3rdurban.png  64 0 09 20 20 0 0
+    0 sprites/SG3rdurban.png  96 0 09 20 20 0 0
+    0 sprites/SG3rdurban.png 128 0 09 20 20 0 0
+    0 sprites/SG3rdurban.png 160 0 01 20 20 0 0
+    0 sprites/SG3rdurban.png 192 0 09 19 20 0 1
+    0 sprites/SG3rdurban.png 224 0 01 20 20 0 0
+    0 sprites/SG3rdurban.png 256 0 03 30 38 -3 -14
+    0 sprites/SG3rdurban.png 304 0 03 44 72 -16 -8
+    0 sprites/SG3rdurban.png 384 0 03 34 44 -21 -2
+    0 sprites/SG3rdurban.png 448 0 03 44 72 -16 -35
+    0 sprites/SG3rdurban.png 528 0 03 43 56 0 0
+    0 sprites/SG3rdurban.png 592 0 01 32 32 0 0
+    0 sprites/SG3rdurban.png 640 0 03 32 32 0 0
+    0 sprites/SG3rdurban.png 688 0 01 32 32 0 0
+  382 * 7	 02 10 EA 01 00 00 00
+
+
+//NG urban
+//Japanese:		0B NUBE
+//International fs:	0A SUCE	
+  438 * 4	 01 10 01 10
+    0 sprites/NG2.png   0 0 09 20 20 0 0
+    0 sprites/NG2.png  32 0 09 20 20 0 0
+    0 sprites/NG2.png  64 0 09 20 20 0 0
+    0 sprites/NG2.png  96 0 09 20 20 0 0
+    0 sprites/NG2.png 128 0 09 20 20 0 0
+    0 sprites/NG2.png 160 0 01 20 20 0 0
+    0 sprites/NG2.png 192 0 09 19 20 0 1
+    0 sprites/NG2.png 224 0 01 20 20 0 0
+    0 sprites/NG2.png 256 0 03 30 38 -3 -14
+    0 sprites/NG2.png 304 0 03 44 72 -16 -8
+    0 sprites/NG2.png 384 0 03 34 44 -21 -2
+    0 sprites/NG2.png 448 0 03 44 72 -16 -35
+    0 sprites/NG2.png 528 0 03 43 56 0 0
+    0 sprites/NG2.png 592 0 01 32 32 0 0
+    0 sprites/NG2.png 640 0 03 32 32 0 0
+    0 sprites/NG2.png 688 0 01 32 32 0 0
+  455 * 7	 02 10 C8 01 00 00 00
+
+
+//SG urban
+//Japanese:		0C SUBE
+//International:	0A SUCE
+  365 * 4	 01 10 01 10
+    0 sprites/SG2.png   0 0 09 20 20 0 0
+    0 sprites/SG2.png  32 0 09 20 20 0 0
+    0 sprites/SG2.png  64 0 09 20 20 0 0
+    0 sprites/SG2.png  96 0 09 20 20 0 0
+    0 sprites/SG2.png 128 0 09 20 20 0 0
+    0 sprites/SG2.png 160 0 01 20 20 0 0
+    0 sprites/SG2.png 192 0 09 19 20 0 1
+    0 sprites/SG2.png 224 0 01 20 20 0 0
+    0 sprites/SG2.png 256 0 03 30 38 -3 -14
+    0 sprites/SG2.png 304 0 03 44 72 -16 -8
+    0 sprites/SG2.png 384 0 03 34 44 -21 -2
+    0 sprites/SG2.png 448 0 03 44 72 -16 -35
+    0 sprites/SG2.png 528 0 03 43 56 0 0
+    0 sprites/SG2.png 592 0 01 32 32 0 0
+    0 sprites/SG2.png 640 0 03 32 32 0 0
+    0 sprites/SG2.png 688 0 01 32 32 0 0
+  382 * 7	 02 10 E8 01 00 00 00
+
+
+//SG
+//Japanese:		0D RAIL
+//International:	01 RAIL
+  392 * 4	 01 10 01 10
+    0 sprites/SG.png   0 0 09 20 20 0 0
+    0 sprites/SG.png  32 0 09 20 20 0 0
+    0 sprites/SG.png  64 0 09 20 20 0 0
+    0 sprites/SG.png  96 0 09 20 20 0 0
+    0 sprites/SG.png 128 0 09 20 20 0 0
+    0 sprites/SG.png 160 0 01 20 20 0 0
+    0 sprites/SG.png 192 0 09 19 20 0 1
+    0 sprites/SG.png 224 0 01 20 20 0 0
+    0 sprites/SG.png 256 0 03 30 38 -3 -14
+    0 sprites/SG.png 304 0 03 44 72 -16 -8
+    0 sprites/SG.png 384 0 03 34 44 -21 -2
+    0 sprites/SG.png 448 0 03 44 72 -16 -35
+    0 sprites/SG.png 528 0 03 43 56 0 0
+    0 sprites/SG.png 592 0 01 32 32 0 0
+    0 sprites/SG.png 640 0 03 32 32 0 0
+    0 sprites/SG.png 688 0 01 32 32 0 0
+  409 * 7	 02 10 E1 01 00 00 00
+
+
+//NG slow finescale
+//Japanese fs:		00 NAAN
+  267 * 4	 01 10 01 10
+    0 sprites/NGslow_fs.png   0 0 09 20 20 0 0
+    0 sprites/NGslow_fs.png  32 0 09 20 20 0 0
+    0 sprites/NGslow_fs.png  64 0 09 20 20 0 0
+    0 sprites/NGslow_fs.png  96 0 09 20 20 0 0
+    0 sprites/NGslow_fs.png 128 0 09 20 20 0 0
+    0 sprites/NGslow_fs.png 160 0 01 20 20 0 0
+    0 sprites/NGslow_fs.png 192 0 09 19 20 0 1
+    0 sprites/NGslow_fs.png 224 0 01 20 20 0 0
+    0 sprites/NGslow_fs.png 256 0 03 30 38 -3 -14
+    0 sprites/NGslow_fs.png 304 0 03 44 72 -16 -8
+    0 sprites/NGslow_fs.png 384 0 03 34 44 -21 -2
+    0 sprites/NGslow_fs.png 448 0 03 44 72 -16 -35
+    0 sprites/NGslow_fs.png 528 0 03 43 56 0 0
+    0 sprites/NGslow_fs.png 592 0 01 32 32 0 0
+    0 sprites/NGslow_fs.png 640 0 03 32 32 0 0
+    0 sprites/NGslow_fs.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 D0 01 00 00 00
+
+
+//NG finescale
+//Japanese fs:		01 NABN
+//International fs:	0C NABN
+  267 * 4	 01 10 01 10
+    0 sprites/NG_fs.png   0 0 09 20 20 0 0
+    0 sprites/NG_fs.png  32 0 09 20 20 0 0
+    0 sprites/NG_fs.png  64 0 09 20 20 0 0
+    0 sprites/NG_fs.png  96 0 09 20 20 0 0
+    0 sprites/NG_fs.png 128 0 09 20 20 0 0
+    0 sprites/NG_fs.png 160 0 01 20 20 0 0
+    0 sprites/NG_fs.png 192 0 09 19 20 0 1
+    0 sprites/NG_fs.png 224 0 01 20 20 0 0
+    0 sprites/NG_fs.png 256 0 03 30 38 -3 -14
+    0 sprites/NG_fs.png 304 0 03 44 72 -16 -8
+    0 sprites/NG_fs.png 384 0 03 34 44 -21 -2
+    0 sprites/NG_fs.png 448 0 03 44 72 -16 -35
+    0 sprites/NG_fs.png 528 0 03 43 56 0 0
+    0 sprites/NG_fs.png 592 0 01 32 32 0 0
+    0 sprites/NG_fs.png 640 0 03 32 32 0 0
+    0 sprites/NG_fs.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 D1 01 00 00 00
+
+
+//NG electric finescale
+//Japanese fs:		02 NABE
+//International:	0D NABE
+  267 * 4	 01 10 01 10
+    0 sprites/NG_fs2.png   0 0 09 20 20 0 0
+    0 sprites/NG_fs2.png  32 0 09 20 20 0 0
+    0 sprites/NG_fs2.png  64 0 09 20 20 0 0
+    0 sprites/NG_fs2.png  96 0 09 20 20 0 0
+    0 sprites/NG_fs2.png 128 0 09 20 20 0 0
+    0 sprites/NG_fs2.png 160 0 01 20 20 0 0
+    0 sprites/NG_fs2.png 192 0 09 19 20 0 1
+    0 sprites/NG_fs2.png 224 0 01 20 20 0 0
+    0 sprites/NG_fs2.png 256 0 03 30 38 -3 -14
+    0 sprites/NG_fs2.png 304 0 03 44 72 -16 -8
+    0 sprites/NG_fs2.png 384 0 03 34 44 -21 -2
+    0 sprites/NG_fs2.png 448 0 03 44 72 -16 -35
+    0 sprites/NG_fs2.png 528 0 03 43 56 0 0
+    0 sprites/NG_fs2.png 592 0 01 32 32 0 0
+    0 sprites/NG_fs2.png 640 0 03 32 32 0 0
+    0 sprites/NG_fs2.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 D2 01 00 00 00
+
+
+//NG modern finescale
+//Japanese fs:		03 NACE
+//International fs:	06 SADE
+  267 * 4	 01 10 01 10
+    0 sprites/NGmod_fs2.png   0 0 09 20 20 0 0
+    0 sprites/NGmod_fs2.png  32 0 09 20 20 0 0
+    0 sprites/NGmod_fs2.png  64 0 09 20 20 0 0
+    0 sprites/NGmod_fs2.png  96 0 09 20 20 0 0
+    0 sprites/NGmod_fs2.png 128 0 09 20 20 0 0
+    0 sprites/NGmod_fs2.png 160 0 01 20 20 0 0
+    0 sprites/NGmod_fs2.png 192 0 09 19 20 0 1
+    0 sprites/NGmod_fs2.png 224 0 01 20 20 0 0
+    0 sprites/NGmod_fs2.png 256 0 03 30 38 -3 -14
+    0 sprites/NGmod_fs2.png 304 0 03 44 72 -16 -8
+    0 sprites/NGmod_fs2.png 384 0 03 34 44 -21 -2
+    0 sprites/NGmod_fs2.png 448 0 03 44 72 -16 -35
+    0 sprites/NGmod_fs2.png 528 0 03 43 56 0 0
+    0 sprites/NGmod_fs2.png 592 0 01 32 32 0 0
+    0 sprites/NGmod_fs2.png 640 0 03 32 32 0 0
+    0 sprites/NGmod_fs2.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 D3 01 00 00 00
+
+
+//NG urban finescale
+//Japanese fs:		0B NUBE
+  267 * 4	 01 10 01 10
+    0 sprites/NGurban_fs.png   0 0 09 20 20 0 0
+    0 sprites/NGurban_fs.png  32 0 09 20 20 0 0
+    0 sprites/NGurban_fs.png  64 0 09 20 20 0 0
+    0 sprites/NGurban_fs.png  96 0 09 20 20 0 0
+    0 sprites/NGurban_fs.png 128 0 09 20 20 0 0
+    0 sprites/NGurban_fs.png 160 0 01 20 20 0 0
+    0 sprites/NGurban_fs.png 192 0 09 19 20 0 1
+    0 sprites/NGurban_fs.png 224 0 01 20 20 0 0
+    0 sprites/NGurban_fs.png 256 0 03 30 38 -3 -14
+    0 sprites/NGurban_fs.png 304 0 03 44 72 -16 -8
+    0 sprites/NGurban_fs.png 384 0 03 34 44 -21 -2
+    0 sprites/NGurban_fs.png 448 0 03 44 72 -16 -35
+    0 sprites/NGurban_fs.png 528 0 03 43 56 0 0
+    0 sprites/NGurban_fs.png 592 0 01 32 32 0 0
+    0 sprites/NGurban_fs.png 640 0 03 32 32 0 0
+    0 sprites/NGurban_fs.png 688 0 01 32 32 0 0
+  284 * 7	 02 10 D4 01 00 00 00
+
+
+//SG slow
+//International:	00 SABN
+  246 * 4	 01 10 01 10
+    0 sprites/SGslow.png   0 0 09 20 20 0 0
+    0 sprites/SGslow.png  32 0 09 20 20 0 0
+    0 sprites/SGslow.png  64 0 09 20 20 0 0
+    0 sprites/SGslow.png  96 0 09 20 20 0 0
+    0 sprites/SGslow.png 128 0 09 20 20 0 0
+    0 sprites/SGslow.png 160 0 01 20 20 0 0
+    0 sprites/SGslow.png 192 0 09 19 20 0 1
+    0 sprites/SGslow.png 224 0 01 20 20 0 0
+    0 sprites/SGslow.png 256 0 03 30 38 -3 -14
+    0 sprites/SGslow.png 304 0 03 44 72 -16 -8
+    0 sprites/SGslow.png 384 0 03 34 44 -21 -2
+    0 sprites/SGslow.png 448 0 03 44 72 -16 -35
+    0 sprites/SGslow.png 528 0 03 43 56 0 0
+    0 sprites/SGslow.png 592 0 01 32 32 0 0
+    0 sprites/SGslow.png 640 0 03 32 32 0 0
+    0 sprites/SGslow.png 688 0 01 32 32 0 0
+  263 * 7	 02 10 E0 01 00 00 00
+
+
+//SG modern
+//International:	02 SBCN
+  392 * 4	 01 10 01 10
+    0 sprites/SGmod.png   0 0 09 20 20 0 0
+    0 sprites/SGmod.png  32 0 09 20 20 0 0
+    0 sprites/SGmod.png  64 0 09 20 20 0 0
+    0 sprites/SGmod.png  96 0 09 20 20 0 0
+    0 sprites/SGmod.png 128 0 09 20 20 0 0
+    0 sprites/SGmod.png 160 0 01 20 20 0 0
+    0 sprites/SGmod.png 192 0 09 19 20 0 1
+    0 sprites/SGmod.png 224 0 01 20 20 0 0
+    0 sprites/SGmod.png 256 0 03 30 38 -3 -14
+    0 sprites/SGmod.png 304 0 03 44 72 -16 -8
+    0 sprites/SGmod.png 384 0 03 34 44 -21 -2
+    0 sprites/SGmod.png 448 0 03 44 72 -16 -35
+    0 sprites/SGmod.png 528 0 03 43 56 0 0
+    0 sprites/SGmod.png 592 0 01 32 32 0 0
+    0 sprites/SGmod.png 640 0 03 32 32 0 0
+    0 sprites/SGmod.png 688 0 01 32 32 0 0
+  409 * 7	 02 10 E2 01 00 00 00
+
+
+//SG fast
+//International:	03 SADN
+  392 * 4	 01 10 01 10
+    0 sprites/SGfast.png   0 0 09 20 20 0 0
+    0 sprites/SGfast.png  32 0 09 20 20 0 0
+    0 sprites/SGfast.png  64 0 09 20 20 0 0
+    0 sprites/SGfast.png  96 0 09 20 20 0 0
+    0 sprites/SGfast.png 128 0 09 20 20 0 0
+    0 sprites/SGfast.png 160 0 01 20 20 0 0
+    0 sprites/SGfast.png 192 0 09 19 20 0 1
+    0 sprites/SGfast.png 224 0 01 20 20 0 0
+    0 sprites/SGfast.png 256 0 03 30 38 -3 -14
+    0 sprites/SGfast.png 304 0 03 44 72 -16 -8
+    0 sprites/SGfast.png 384 0 03 34 44 -21 -2
+    0 sprites/SGfast.png 448 0 03 44 72 -16 -35
+    0 sprites/SGfast.png 528 0 03 43 56 0 0
+    0 sprites/SGfast.png 592 0 01 32 32 0 0
+    0 sprites/SGfast.png 640 0 03 32 32 0 0
+    0 sprites/SGfast.png 688 0 01 32 32 0 0
+  409 * 7	 02 10 E3 01 00 00 00
+
+
+//SG dual
+//International:	09 SACZ
+  392 * 4	 01 10 01 10
+    0 sprites/SG3rd2.png   0 0 09 20 20 0 0
+    0 sprites/SG3rd2.png  32 0 09 20 20 0 0
+    0 sprites/SG3rd2.png  64 0 09 20 20 0 0
+    0 sprites/SG3rd2.png  96 0 09 20 20 0 0
+    0 sprites/SG3rd2.png 128 0 09 20 20 0 0
+    0 sprites/SG3rd2.png 160 0 01 20 20 0 0
+    0 sprites/SG3rd2.png 192 0 09 19 20 0 1
+    0 sprites/SG3rd2.png 224 0 01 20 20 0 0
+    0 sprites/SG3rd2.png 256 0 03 30 38 -3 -14
+    0 sprites/SG3rd2.png 304 0 03 44 72 -16 -8
+    0 sprites/SG3rd2.png 384 0 03 34 44 -21 -2
+    0 sprites/SG3rd2.png 448 0 03 44 72 -16 -35
+    0 sprites/SG3rd2.png 528 0 03 43 56 0 0
+    0 sprites/SG3rd2.png 592 0 01 32 32 0 0
+    0 sprites/SG3rd2.png 640 0 03 32 32 0 0
+    0 sprites/SG3rd2.png 688 0 01 32 32 0 0
+  409 * 7	 02 10 EB 01 00 00 00
+
+
+//NG modern
+//International fs:	02 SBCN
+  319 * 4	 01 10 01 10
+    0 sprites/NGmod.png   0 0 09 20 20 0 0
+    0 sprites/NGmod.png  32 0 09 20 20 0 0
+    0 sprites/NGmod.png  64 0 09 20 20 0 0
+    0 sprites/NGmod.png  96 0 09 20 20 0 0
+    0 sprites/NGmod.png 128 0 09 20 20 0 0
+    0 sprites/NGmod.png 160 0 01 20 20 0 0
+    0 sprites/NGmod.png 192 0 09 19 20 0 1
+    0 sprites/NGmod.png 224 0 01 20 20 0 0
+    0 sprites/NGmod.png 256 0 03 30 38 -3 -14
+    0 sprites/NGmod.png 304 0 03 44 72 -16 -8
+    0 sprites/NGmod.png 384 0 03 34 44 -21 -2
+    0 sprites/NGmod.png 448 0 03 44 72 -16 -35
+    0 sprites/NGmod.png 528 0 03 43 56 0 0
+    0 sprites/NGmod.png 592 0 01 32 32 0 0
+    0 sprites/NGmod.png 640 0 03 32 32 0 0
+    0 sprites/NGmod.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 C2 01 00 00 00
+
+
+//NG fast
+//International fs:	03 SADN
+  319 * 4	 01 10 01 10
+    0 sprites/NGfast.png   0 0 09 20 20 0 0
+    0 sprites/NGfast.png  32 0 09 20 20 0 0
+    0 sprites/NGfast.png  64 0 09 20 20 0 0
+    0 sprites/NGfast.png  96 0 09 20 20 0 0
+    0 sprites/NGfast.png 128 0 09 20 20 0 0
+    0 sprites/NGfast.png 160 0 01 20 20 0 0
+    0 sprites/NGfast.png 192 0 09 19 20 0 1
+    0 sprites/NGfast.png 224 0 01 20 20 0 0
+    0 sprites/NGfast.png 256 0 03 30 38 -3 -14
+    0 sprites/NGfast.png 304 0 03 44 72 -16 -8
+    0 sprites/NGfast.png 384 0 03 34 44 -21 -2
+    0 sprites/NGfast.png 448 0 03 44 72 -16 -35
+    0 sprites/NGfast.png 528 0 03 43 56 0 0
+    0 sprites/NGfast.png 592 0 01 32 32 0 0
+    0 sprites/NGfast.png 640 0 03 32 32 0 0
+    0 sprites/NGfast.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 C3 01 00 00 00
+
+
+//NG fast electric
+//International fs:	06 SADE
+  319 * 4	 01 10 01 10
+    0 sprites/NGfast2.png   0 0 09 20 20 0 0
+    0 sprites/NGfast2.png  32 0 09 20 20 0 0
+    0 sprites/NGfast2.png  64 0 09 20 20 0 0
+    0 sprites/NGfast2.png  96 0 09 20 20 0 0
+    0 sprites/NGfast2.png 128 0 09 20 20 0 0
+    0 sprites/NGfast2.png 160 0 01 20 20 0 0
+    0 sprites/NGfast2.png 192 0 09 19 20 0 1
+    0 sprites/NGfast2.png 224 0 01 20 20 0 0
+    0 sprites/NGfast2.png 256 0 03 30 38 -3 -14
+    0 sprites/NGfast2.png 304 0 03 44 72 -16 -8
+    0 sprites/NGfast2.png 384 0 03 34 44 -21 -2
+    0 sprites/NGfast2.png 448 0 03 44 72 -16 -35
+    0 sprites/NGfast2.png 528 0 03 43 56 0 0
+    0 sprites/NGfast2.png 592 0 01 32 32 0 0
+    0 sprites/NGfast2.png 640 0 03 32 32 0 0
+    0 sprites/NGfast2.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 C6 01 00 00 00
+
+
+//Electrified highspeed NG rail
+//International fs:	07 SAEE
+  319 * 4	 01 10 01 10
+    0 sprites/NGhs2.png   0 0 09 20 20 0 0
+    0 sprites/NGhs2.png  32 0 09 20 20 0 0
+    0 sprites/NGhs2.png  64 0 09 20 20 0 0
+    0 sprites/NGhs2.png  96 0 09 20 20 0 0
+    0 sprites/NGhs2.png 128 0 09 20 20 0 0
+    0 sprites/NGhs2.png 160 0 01 20 20 0 0
+    0 sprites/NGhs2.png 192 0 09 19 20 0 1
+    0 sprites/NGhs2.png 224 0 01 20 20 0 0
+    0 sprites/NGhs2.png 256 0 03 30 38 -3 -14
+    0 sprites/NGhs2.png 304 0 03 44 72 -16 -8
+    0 sprites/NGhs2.png 384 0 03 34 44 -21 -2
+    0 sprites/NGhs2.png 448 0 03 44 72 -16 -35
+    0 sprites/NGhs2.png 528 0 03 43 56 0 0
+    0 sprites/NGhs2.png 592 0 01 32 32 0 0
+    0 sprites/NGhs2.png 640 0 03 32 32 0 0
+    0 sprites/NGhs2.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 C7 01 00 00 00
+
+
+//NG 3rd rail
+//International fs:	08 SAC3
+  319 * 4	 01 10 01 10
+    0 sprites/NG3rd.png   0 0 09 20 20 0 0
+    0 sprites/NG3rd.png  32 0 09 20 20 0 0
+    0 sprites/NG3rd.png  64 0 09 20 20 0 0
+    0 sprites/NG3rd.png  96 0 09 20 20 0 0
+    0 sprites/NG3rd.png 128 0 09 20 20 0 0
+    0 sprites/NG3rd.png 160 0 01 20 20 0 0
+    0 sprites/NG3rd.png 192 0 09 19 20 0 1
+    0 sprites/NG3rd.png 224 0 01 20 20 0 0
+    0 sprites/NG3rd.png 256 0 03 30 38 -3 -14
+    0 sprites/NG3rd.png 304 0 03 44 72 -16 -8
+    0 sprites/NG3rd.png 384 0 03 34 44 -21 -2
+    0 sprites/NG3rd.png 448 0 03 44 72 -16 -35
+    0 sprites/NG3rd.png 528 0 03 43 56 0 0
+    0 sprites/NG3rd.png 592 0 01 32 32 0 0
+    0 sprites/NG3rd.png 640 0 03 32 32 0 0
+    0 sprites/NG3rd.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 C9 01 00 00 00
+
+
+//NG dual
+//International fs:	09 SACZ
+  319 * 4	 01 10 01 10
+    0 sprites/NG3rd2.png   0 0 09 20 20 0 0
+    0 sprites/NG3rd2.png  32 0 09 20 20 0 0
+    0 sprites/NG3rd2.png  64 0 09 20 20 0 0
+    0 sprites/NG3rd2.png  96 0 09 20 20 0 0
+    0 sprites/NG3rd2.png 128 0 09 20 20 0 0
+    0 sprites/NG3rd2.png 160 0 01 20 20 0 0
+    0 sprites/NG3rd2.png 192 0 09 19 20 0 1
+    0 sprites/NG3rd2.png 224 0 01 20 20 0 0
+    0 sprites/NG3rd2.png 256 0 03 30 38 -3 -14
+    0 sprites/NG3rd2.png 304 0 03 44 72 -16 -8
+    0 sprites/NG3rd2.png 384 0 03 34 44 -21 -2
+    0 sprites/NG3rd2.png 448 0 03 44 72 -16 -35
+    0 sprites/NG3rd2.png 528 0 03 43 56 0 0
+    0 sprites/NG3rd2.png 592 0 01 32 32 0 0
+    0 sprites/NG3rd2.png 640 0 03 32 32 0 0
+    0 sprites/NG3rd2.png 688 0 01 32 32 0 0
+  336 * 7	 02 10 CB 01 00 00 00
+
+
+//NG 3rdr urban
+//International fs:	0B SUC3
+  438 * 4	 01 10 01 10
+    0 sprites/NG3rdurban.png   0 0 09 20 20 0 0
+    0 sprites/NG3rdurban.png  32 0 09 20 20 0 0
+    0 sprites/NG3rdurban.png  64 0 09 20 20 0 0
+    0 sprites/NG3rdurban.png  96 0 09 20 20 0 0
+    0 sprites/NG3rdurban.png 128 0 09 20 20 0 0
+    0 sprites/NG3rdurban.png 160 0 01 20 20 0 0
+    0 sprites/NG3rdurban.png 192 0 09 19 20 0 1
+    0 sprites/NG3rdurban.png 224 0 01 20 20 0 0
+    0 sprites/NG3rdurban.png 256 0 03 30 38 -3 -14
+    0 sprites/NG3rdurban.png 304 0 03 44 72 -16 -8
+    0 sprites/NG3rdurban.png 384 0 03 34 44 -21 -2
+    0 sprites/NG3rdurban.png 448 0 03 44 72 -16 -35
+    0 sprites/NG3rdurban.png 528 0 03 43 56 0 0
+    0 sprites/NG3rdurban.png 592 0 01 32 32 0 0
+    0 sprites/NG3rdurban.png 640 0 03 32 32 0 0
+    0 sprites/NG3rdurban.png 688 0 01 32 32 0 0
+  455 * 7	 02 10 CA 01 00 00 00
+
+
+
+//JAPANESE MODE
+    0 * 0        09 10 01 \7= 01 \b36
+//NON-FINESCALE
+    0 * 0	 09 02 01 \7= 01 \b18
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 00 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 00 C1 00 C1 00
+    0 * 0	 03 10 01 02 01 00 C4 00 C4 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 00 C5 00 C5 00
+    0 * 0	 03 10 01 04 01 00 E4 00 E4 00
+    0 * 0	 03 10 01 05 01 00 E5 00 E5 00
+    0 * 0	 03 10 01 06 01 00 E6 00 E6 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 07 01 00 E7 00 E7 00
+    0 * 0	 03 10 01 08 01 00 E9 00 E9 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 00 EA 00 EA 00
+    0 * 0	 03 10 01 0B 01 00 C8 00 C8 00
+    0 * 0	 03 10 01 0C 01 00 E8 00 E8 00
+    0 * 0	 03 10 01 0D 01 00 E1 00 E1 00
+//FINESCALE
+    0 * 0	 09 02 01 \7= 00 \b17
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 00 D0 00 D0 00
+    0 * 0	 03 10 01 01 01 00 D1 00 D1 00
+    0 * 0	 03 10 01 02 01 00 D2 00 D2 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 00 D3 00 D3 00
+    0 * 0	 03 10 01 04 01 00 C4 00 C4 00
+    0 * 0	 03 10 01 05 01 00 C5 00 C5 00
+    0 * 0	 03 10 01 06 01 00 C6 00 C6 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 07 01 00 C7 00 C7 00
+    0 * 0	 03 10 01 08 01 00 C9 00 C9 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 00 CA 00 CA 00
+    0 * 0	 03 10 01 0B 01 00 D4 00 D4 00
+    0 * 0	 03 10 01 0C 01 00 C8 00 C8 00
+    0 * 0	 03 10 01 0D 01 00 C1 00 C1 00
+
+
+//INTERNATIONAL MODE
+    0 * 0        09 10 01 \7= 00 \b38
+//Non-finescale
+    0 * 0	 09 02 01 \7= 01 \b19
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 00 E0 00 E0 00
+    0 * 0	 03 10 01 01 01 00 E1 00 E1 00
+    0 * 0	 09 11 01 \70 01 02
+    0 * 0	 03 10 01 02 01 00 E2 00 E2 00
+    0 * 0	 03 10 01 03 01 00 E3 00 E3 00
+    0 * 0	 03 10 01 04 01 00 E4 00 E4 00
+    0 * 0	 09 11 01 \70 01 03
+    0 * 0	 03 10 01 05 01 00 E5 00 E5 00
+    0 * 0	 03 10 01 06 01 00 E6 00 E6 00
+    0 * 0	 03 10 01 07 01 00 E7 00 E7 00
+    0 * 0	 03 10 01 08 01 00 E9 00 E9 00
+    0 * 0	 03 10 01 09 01 00 EB 00 EB 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 00 E8 00 E8 00
+    0 * 0	 03 10 01 0B 01 00 EA 00 EA 00
+    0 * 0	 03 10 01 0C 01 00 C1 00 C1 00
+    0 * 0	 03 10 01 0D 01 00 C4 00 C4 00
+//Finescale
+    0 * 0	 09 02 01 \7= 00 \b18
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 00 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 00 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 02
+    0 * 0	 03 10 01 02 01 00 C2 00 C2 00
+    0 * 0	 03 10 01 03 01 00 C3 00 C3 00
+    0 * 0	 03 10 01 04 01 00 C4 00 C4 00
+    0 * 0	 09 11 01 \70 01 03
+    0 * 0	 03 10 01 05 01 00 C5 00 C5 00
+    0 * 0	 03 10 01 06 01 00 C6 00 C6 00
+    0 * 0	 03 10 01 07 01 00 C7 00 C7 00
+    0 * 0	 03 10 01 08 01 00 C9 00 C9 00
+    0 * 0	 03 10 01 09 01 00 CB 00 CB 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 00 C8 00 C8 00
+    0 * 0	 03 10 01 0B 01 00 CA 00 CA 00
+    0 * 0	 03 10 01 0C 01 00 D1 00 D1 00
+    0 * 0	 03 10 01 0D 01 00 D2 00 D2 00
+
+
+
+
+    0 * 2	 10 E0

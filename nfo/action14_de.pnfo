@@ -1,0 +1,64 @@
+//PARAMETER NAMES AND DESCRIPTIONS
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 02 "Modus" 00
+      		    	       	   	      	      	        "T" "DESC" 02 "Auswahl zwischen generischem oder länderspezifischen Modi. Wenn diese Einstellung auf 'automatisch' gesetzt ist, wird der japanische Modus nur dann verwendet, wenn das Japanische Zugset verwendet wird.\n Japanischer und internationaler Modus sind deutlich verschieden. Die länderspezifischen Modi verändern in erster Linie die Geschwindigkeitsbeschränkungen und einige optische Details." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 02 "Auswahl" 00
+      		    	       	   	      	      	        "T" "DESC" 02 "Regelt die verfügbaren Gleistypen. In der Einstellung 'reduziert' werden die urbanen Strecken deaktiviert. In der Einstellung 'minimal' stehen von jeder Spurweite und jedem elektischen System nur ein Vertreter zur Verfügung, ohne Geschwindigkeitsbeschränkungen." 00
+								00 00 00 00
+
+   14 * 104	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 02 "'Finescale' Grafik" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Verwende schmalere Gleise." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d3 "T" "NAME" 02 "Baukosten" 00
+								00 00 00 00
+
+   12 * 195	 14 "C" "INFO" "C" "PARA" "C" \d4 "T" "NAME" 02 "Instandhaltungskosten" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Instandhaltungskosten fallen nur an, wenn sie unter 'Erweiterte Einstellungen -> Wirtschaft -> Instandhaltung der Infrastruktur eingeschaltet wurden." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d5 "T" "NAME" 02 "Verwende eigene Tunnelportale" 00
+      		    	       	   	      	      	     	 "T" "DESC" 02 "Wenn diese Einstellung ausgeschaltet wird, werden die originalen Tunnelgraphiken verwendet." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d6 "T" "NAME" 02 "Verwende eigene Oberleitungen" 00
+      		    	       	   	      	      	     	 "T" "DESC" 02 "Wenn diese Einstellung ausgeschaltet wird, werden die originalen Oberleitungsgrafiken verwendet." 00
+								00 00 00 00
+
+   17 * 172	 14 "C" "INFO" "C" "PARA" "C" \d7 "T" "NAME" 02 "Verwende eigene Depots" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Wenn diese Einstellung ausgeschaltet wird, werden die originalen Depotgrafiken verwendet." 00
+								00 00 00 00
+
+   18 * 98	 14 "C" "INFO" "C" "PARA" "C" \d8 "T" "NAME" 02 "Zäune" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Ersetzt oder deaktiviert die originalen Grafiken für Streckenzäune." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d9 "T" "NAME" 02 "Verwende Firmenfarben" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Wenn diese Option eingeschaltet ist, verwenden Zäune und Depots die Firmenfarben." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d10 "T" "NAME" 02 "Bedienelemente" 00
+      		    	       	   	      	     	        "T" "DESC" 02 "Bedienelemente für Originalgraphiken oder für OpenGFX." 00
+								00 00 00 00
+
+
+//PARAMETER VALUE TEXTS
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 02 "Automatisch (japanisch/international)" 00 "T" \d1 02 "International" 00 "T" \d2 02 "Deutsch" 00 "T" \d3 02 "Britisch" 00 "T" \d4 02 "Nordamerikanisch" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d1 "C" "VALU" "T" \d0 02 "Voll" 00 "T" \d1 02 "Reduziert" 00 "T" \d2 02 "Minimal" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d3 "C" "VALU" "T" \d3 02 "sehr niedrig" 00 "T" \d1 02 "niedrig" 00 "T" \d2 02 "normal" 00 "T" \d3 02 "hoch" 00 "T" \d4 02 "sehr hoch" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d4 "C" "VALU" "T" \d4 02 "sehr niedrig" 00 "T" \d1 02 "niedrig" 00 "T" \d2 02 "normal" 00 "T" \d3 02 "hoch" 00 "T" \d4 02 "sehr hoch" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d8 "C" "VALU" "T" \d0 02 "keine" 00 "T" \d1 02 "unverändert (original TTD falls nicht durch anderes Set geändert)" 00 "T" \d2 02 "nur für urbane Strecken und Schnellfahrstrecken" 00 "T" \d3 02 "für alle Streckentypen" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d10 "C" "VALU" "T" \d0 02 "Originalgraphiken" 00 "T" \d1 02 "OpenGFX" 00
+      	     	 00 00 00 00 00

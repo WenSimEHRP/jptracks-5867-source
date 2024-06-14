@@ -1,0 +1,308 @@
+//BLANK RAILS
+
+//NG slow
+//Japanese:		00 NAAN
+//International fs:	00 SABN
+  595 * 4	 01 10 01 0A
+  596 sprites/NGslow.png   0 200 09 21 40 -19 5
+  597 sprites/NGslow.png  48 200 09 21 40 -19 5
+  598 sprites/NGslow.png  96 200 01 7 40 -19 4
+  599 sprites/NGslow.png 144 200 01 7 40 -19 20
+  600 sprites/NGslow.png 192 200 01 19 12 11 6
+  601 sprites/NGslow.png 224 200 01 19 12 -21 6
+  765 sprites/NGslow.png 256 200 09 39 64 -31 -8
+  766 sprites/NGslow.png 336 200 09 23 64 -31 0
+  767 sprites/NGslow.png 416 200 09 23 64 -31 0
+  768 sprites/NGslow.png 496 200 09 39 64 -31 -8
+  606 * 7	 02 10 C0 01 00 00 00
+
+
+//NG
+//Japanese:		01 NABN, 02 NABE, 0B NUBE
+//Japanese fs:		04 ELRL, 0C SUBE, 0D RAIL
+//International:	0C NABN, 0D NABE
+//International fs:	01 RAIL, 04 ELRL, 0A SUCE
+  630 * 4	 01 10 01 0A
+  596 sprites/NG.png   0 200 09 21 40 -19 5
+  597 sprites/NG.png  48 200 09 21 40 -19 5
+  598 sprites/NG.png  96 200 01 7 40 -19 4
+  599 sprites/NG.png 144 200 01 7 40 -19 20
+  600 sprites/NG.png 192 200 01 19 12 11 6
+  601 sprites/NG.png 224 200 01 19 12 -21 6
+  765 sprites/NG.png 256 200 09 39 64 -31 -8
+  766 sprites/NG.png 336 200 09 23 64 -31 0
+  767 sprites/NG.png 416 200 09 23 64 -31 0
+  768 sprites/NG.png 496 200 09 39 64 -31 -8
+  641 * 7	 02 10 C1 01 00 00 00
+
+
+//NG modern
+//Japanese:		03 NACE
+//Japanese fs:		05 SACE
+//International fs:	02 SBCN, 05 SBCE
+  659 * 4	 01 10 01 0A
+  596 sprites/NGmod.png   0 200 09 21 40 -19 5
+  597 sprites/NGmod.png  48 200 09 21 40 -19 5
+  598 sprites/NGmod.png  96 200 01 7 40 -19 4
+  599 sprites/NGmod.png 144 200 01 7 40 -19 20
+  600 sprites/NGmod.png 192 200 01 19 12 11 6
+  601 sprites/NGmod.png 224 200 01 19 12 -21 6
+  765 sprites/NGmod.png 256 200 09 39 64 -31 -8
+  766 sprites/NGmod.png 336 200 09 23 64 -31 0
+  767 sprites/NGmod.png 416 200 09 23 64 -31 0
+  768 sprites/NGmod.png 496 200 09 39 64 -31 -8
+  670 * 7	 02 10 C2 01 00 00 00
+
+
+
+
+//NG highspeed
+//Japanese fs:			06 SAEE, 07 SBEE
+//International fs:		03 SADN, 06 SADE, 07 SAEE
+  742 * 4	 01 10 01 0A
+  596 sprites/NGhs.png   0 200 09 21 40 -19 5
+  597 sprites/NGhs.png  48 200 09 21 40 -19 5
+  598 sprites/NGhs.png  96 200 01 7 40 -19 4
+  599 sprites/NGhs.png 144 200 01 7 40 -19 20
+  600 sprites/NGhs.png 192 200 01 19 12 11 6
+  601 sprites/NGhs.png 224 200 01 19 12 -21 6
+  765 sprites/NGhs.png 256 200 09 39 64 -31 -8
+  766 sprites/NGhs.png 336 200 09 23 64 -31 0
+  767 sprites/NGhs.png 416 200 09 23 64 -31 0
+  768 sprites/NGhs.png 496 200 09 39 64 -31 -8
+  753 * 7	 02 10 C3 01 00 00 00
+
+//NG 3rd rail
+//International fs:		08 SAC3, 09 SACZ, 0B SUC3
+  742 * 4	 01 10 01 0A
+  596 sprites/NG3rd.png   0 199 09 22 44 -23 4
+  597 sprites/NG3rd.png  48 199 09 22 44 -19 4
+  598 sprites/NG3rd.png  96 200 01 7 40 -19 4
+  599 sprites/NG3rd.png 144 200 01 7 40 -19 20
+  600 sprites/NG3rd.png 192 200 01 19 12 11 6
+  601 sprites/NG3rd.png 224 200 01 19 12 -21 6
+  765 sprites/NG3rd.png 256 200 09 39 64 -31 -8
+  766 sprites/NG3rd.png 336 200 09 23 64 -31 0
+  767 sprites/NG3rd.png 416 200 09 23 64 -31 0
+  768 sprites/NG3rd.png 496 200 09 39 64 -31 -8
+  753 * 7	 02 10 C9 01 00 00 00
+
+
+//NG slow finescale
+//Japanese fs:		00 NAAN
+  703 * 4	 01 10 01 0A
+  596 sprites/NGslow_fs.png   0 200 09 21 40 -19 5
+  597 sprites/NGslow_fs.png  48 200 09 21 40 -19 5
+  598 sprites/NGslow_fs.png  96 200 01 7 40 -19 4
+  599 sprites/NGslow_fs.png 144 200 01 7 40 -19 20
+  600 sprites/NGslow_fs.png 192 200 01 19 12 11 6
+  601 sprites/NGslow_fs.png 224 200 01 19 12 -21 6
+  765 sprites/NGslow_fs.png 256 200 09 39 64 -31 -8
+  766 sprites/NGslow_fs.png 336 200 09 23 64 -31 0
+  767 sprites/NGslow_fs.png 416 200 09 23 64 -31 0
+  768 sprites/NGslow_fs.png 496 200 09 39 64 -31 -8
+  714 * 7	 02 10 D0 01 00 00 00
+
+
+//NG finescale
+//Japanese fs:		01 NABN, 02 NABE, 0B NUBE
+//International fs:	0C NABN, 0D NABE
+  703 * 4	 01 10 01 0A
+  596 sprites/NG_fs.png   0 200 09 21 40 -19 5
+  597 sprites/NG_fs.png  48 200 09 21 40 -19 5
+  598 sprites/NG_fs.png  96 200 01 7 40 -19 4
+  599 sprites/NG_fs.png 144 200 01 7 40 -19 20
+  600 sprites/NG_fs.png 192 200 01 19 12 11 6
+  601 sprites/NG_fs.png 224 200 01 19 12 -21 6
+  765 sprites/NG_fs.png 256 200 09 39 64 -31 -8
+  766 sprites/NG_fs.png 336 200 09 23 64 -31 0
+  767 sprites/NG_fs.png 416 200 09 23 64 -31 0
+  768 sprites/NG_fs.png 496 200 09 39 64 -31 -8
+  714 * 7	 02 10 D1 01 00 00 00
+
+
+//NG modern finescale
+//Japanese fs:		03 NACE
+  703 * 4	 01 10 01 0A
+  596 sprites/NGmod_fs.png   0 200 09 21 40 -19 5
+  597 sprites/NGmod_fs.png  48 200 09 21 40 -19 5
+  598 sprites/NGmod_fs.png  96 200 01 7 40 -19 4
+  599 sprites/NGmod_fs.png 144 200 01 7 40 -19 20
+  600 sprites/NGmod_fs.png 192 200 01 19 12 11 6
+  601 sprites/NGmod_fs.png 224 200 01 19 12 -21 6
+  765 sprites/NGmod_fs.png 256 200 09 39 64 -31 -8
+  766 sprites/NGmod_fs.png 336 200 09 23 64 -31 0
+  767 sprites/NGmod_fs.png 416 200 09 23 64 -31 0
+  768 sprites/NGmod_fs.png 496 200 09 39 64 -31 -8
+  714 * 7	 02 10 D3 01 00 00 00
+
+
+//SG slow
+//International:	00 SABN
+  615 * 4	 01 10 01 0A
+  596 sprites/SGslow.png   0 200 09 21 40 -19 5
+  597 sprites/SGslow.png  48 200 09 21 40 -19 5
+  598 sprites/SGslow.png  96 200 01 7 40 -19 4
+  599 sprites/SGslow.png 144 200 01 7 40 -19 20
+  600 sprites/SGslow.png 192 200 01 19 12 11 6
+  601 sprites/SGslow.png 224 200 01 19 12 -21 6
+  765 sprites/SGslow.png 256 200 09 39 64 -31 -8
+  766 sprites/SGslow.png 336 200 09 23 64 -31 0
+  767 sprites/SGslow.png 416 200 09 23 64 -31 0
+  768 sprites/SGslow.png 496 200 09 39 64 -31 -8
+  626 * 7	 02 10 E0 01 00 00 00
+
+
+//SG
+//Japanese:		04 ELRL, 0C SUBE, 0D RAIL
+//International:	01 RAIL, 04 ELRL, 0A SUCE
+  680 * 4	 01 10 01 0A
+  596 sprites/SG.png   0 200 09 21 40 -19 5
+  597 sprites/SG.png  48 200 09 21 40 -19 5
+  598 sprites/SG.png  96 200 01 7 40 -19 4
+  599 sprites/SG.png 144 200 01 7 40 -19 20
+  600 sprites/SG.png 192 200 01 19 12 11 6
+  601 sprites/SG.png 224 200 01 19 12 -21 6
+  765 sprites/SG.png 256 200 09 39 64 -31 -8
+  766 sprites/SG.png 336 200 09 23 64 -31 0
+  767 sprites/SG.png 416 200 09 23 64 -31 0
+  768 sprites/SG.png 496 200 09 39 64 -31 -8
+  691 * 7	 02 10 E1 01 00 00 00
+
+
+//SG modern
+//Japanese:		05 SACE
+//International:	02 SBCN, 05 SBCE
+  703 * 4	 01 10 01 0A
+  596 sprites/SGmod.png   0 200 09 21 40 -19 5
+  597 sprites/SGmod.png  48 200 09 21 40 -19 5
+  598 sprites/SGmod.png  96 200 01 7 40 -19 4
+  599 sprites/SGmod.png 144 200 01 7 40 -19 20
+  600 sprites/SGmod.png 192 200 01 19 12 11 6
+  601 sprites/SGmod.png 224 200 01 19 12 -21 6
+  765 sprites/SGmod.png 256 200 09 39 64 -31 -8
+  766 sprites/SGmod.png 336 200 09 23 64 -31 0
+  767 sprites/SGmod.png 416 200 09 23 64 -31 0
+  768 sprites/SGmod.png 496 200 09 39 64 -31 -8
+  714 * 7	 02 10 E2 01 00 00 00
+
+
+//SG highspeed
+//Japanese:		06 SAEE, 07 SBEE
+//International:	03 SADN, 06 SADE, 07 SAEE
+  721 * 4	 01 10 01 0A
+  596 sprites/SGhs.png   0 200 09 21 40 -19 5
+  597 sprites/SGhs.png  48 200 09 21 40 -19 5
+  598 sprites/SGhs.png  96 200 01 7 40 -19 4
+  599 sprites/SGhs.png 144 200 01 7 40 -19 20
+  600 sprites/SGhs.png 192 200 01 19 12 11 6
+  601 sprites/SGhs.png 224 200 01 19 12 -21 6
+  765 sprites/SGhs.png 256 200 09 39 64 -31 -8
+  766 sprites/SGhs.png 336 200 09 23 64 -31 0
+  767 sprites/SGhs.png 416 200 09 23 64 -31 0
+  768 sprites/SGhs.png 496 200 09 39 64 -31 -8
+  732 * 7	 02 10 E3 01 00 00 00
+
+
+//SG 3rd rail
+//Japanese:	      08 SAB3
+//International:      08 SAC3, 09 SACZ, 0B SUC3
+  742 * 4	 01 10 01 0A
+  596 sprites/SG3rd.png   0 199 09 22 44 -23 4
+  597 sprites/SG3rd.png  48 199 09 22 44 -19 4
+  598 sprites/SG3rd.png  96 200 01 7 40 -19 4
+  599 sprites/SG3rd.png 144 200 01 7 40 -19 20
+  600 sprites/SG3rd.png 192 200 01 19 12 11 6
+  601 sprites/SG3rd.png 224 200 01 19 12 -21 6
+  765 sprites/SG3rd.png 256 200 09 39 64 -31 -8
+  766 sprites/SG3rd.png 336 200 09 23 64 -31 0
+  767 sprites/SG3rd.png 416 200 09 23 64 -31 0
+  768 sprites/SG3rd.png 496 200 09 39 64 -31 -8
+  753 * 7	 02 10 E9 01 00 00 00
+
+
+
+//JAPANESE MODE
+    0 * 0        09 10 01 \7= 01 \b36
+//NON-FINESCALE
+    0 * 0	 09 02 01 \7= 01 \b18
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 01 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 02 01 01 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 01 C2 00 C2 00
+    0 * 0	 03 10 01 04 01 01 E1 00 E1 00
+    0 * 0	 03 10 01 05 01 01 E2 00 E2 00
+    0 * 0	 03 10 01 06 01 01 E3 00 E3 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 07 01 01 E3 00 E3 00
+    0 * 0	 03 10 01 08 01 01 E9 00 E1 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 01 E9 00 E1 00
+    0 * 0	 03 10 01 0B 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 0C 01 01 E1 00 E1 00
+    0 * 0	 03 10 01 0D 01 01 E1 00 E1 00
+//FINESCALE
+    0 * 0	 09 02 01 \7= 00 \b17
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 01 D0 00 D0 00
+    0 * 0	 03 10 01 01 01 01 D1 00 D1 00
+    0 * 0	 03 10 01 02 01 01 D1 00 D1 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 03 01 01 D3 00 D3 00
+    0 * 0	 03 10 01 04 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 05 01 01 C2 00 C2 00
+    0 * 0	 03 10 01 06 01 01 C3 00 C3 00
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 07 01 01 C3 00 C3 00
+    0 * 0	 03 10 01 08 01 01 C9 00 C1 00
+    0 * 0	 09 11 01 \70 00 03
+    0 * 0	 03 10 01 09 01 01 C9 00 C1 00
+    0 * 0	 03 10 01 0B 01 01 D1 00 D1 00
+    0 * 0	 03 10 01 0C 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 0D 01 01 C1 00 C1 00
+
+
+//INTERNATIONAL MODE
+    0 * 0        09 10 01 \7= 00 \b38
+//Non-finescale
+    0 * 0	 09 02 01 \7= 01 \b19
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 01 E0 00 E0 00
+    0 * 0	 03 10 01 01 01 01 E1 00 E1 00
+    0 * 0	 09 11 01 \70 01 02
+    0 * 0	 03 10 01 02 01 01 E2 00 E2 00
+    0 * 0	 03 10 01 03 01 01 E3 00 E3 00
+    0 * 0	 03 10 01 04 01 01 E1 00 E1 00
+    0 * 0	 09 11 01 \70 01 03
+    0 * 0	 03 10 01 05 01 01 E2 00 E2 00
+    0 * 0	 03 10 01 06 01 01 E3 00 E3 00
+    0 * 0	 03 10 01 07 01 01 E3 00 E3 00
+    0 * 0	 03 10 01 08 01 01 E9 00 E1 00
+    0 * 0	 03 10 01 09 01 01 E9 00 E1 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 01 E1 00 E1 00
+    0 * 0	 03 10 01 0B 01 01 E9 00 E1 00
+    0 * 0	 03 10 01 0C 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 0D 01 01 C1 00 C1 00
+//Finescale
+    0 * 0	 09 02 01 \7= 00 \b18
+    0 * 0	 09 11 01 \70 01 01
+    0 * 0	 03 10 01 00 01 01 C0 00 C0 00
+    0 * 0	 03 10 01 01 01 01 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 02
+    0 * 0	 03 10 01 02 01 01 C2 00 C2 00
+    0 * 0	 03 10 01 03 01 01 C3 00 C3 00
+    0 * 0	 03 10 01 04 01 01 C1 00 C1 00
+    0 * 0	 09 11 01 \70 01 03
+    0 * 0	 03 10 01 05 01 01 C2 00 C2 00
+    0 * 0	 03 10 01 06 01 01 C3 00 C3 00
+    0 * 0	 03 10 01 07 01 01 C3 00 C3 00
+    0 * 0	 03 10 01 08 01 01 C9 00 C1 00
+    0 * 0	 03 10 01 09 01 01 C9 00 C1 00
+    0 * 0	 09 11 01 \70 00 02
+    0 * 0	 03 10 01 0A 01 01 C1 00 C1 00
+    0 * 0	 03 10 01 0B 01 01 C9 00 C1 00
+    0 * 0	 03 10 01 0C 01 01 D1 00 D1 00
+    0 * 0	 03 10 01 0D 01 01 D1 00 D1 00

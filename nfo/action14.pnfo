@@ -1,0 +1,121 @@
+//check TTDPatch or OpenTTD
+    1 * 9	 09 9D 04 \7= 01 00 00 00 01
+    2 * 11	 0B 03 7F 06 "r20960" 00
+
+//check OpenTTD version
+    3 * 9	 09 A1 04 \7= FF FF FF FF 02
+    4 * 9	 09 A1 04 \7< \w20959 00 11 01
+    5 * 6	 09 9A 01 \7= FF 01
+    6 * 11	 0B 03 7F 06 "r20960" 00
+
+//VERSION NUMBER
+    7 * 19	 14 "C" "INFO" "B" "VRSN" \w4 \d320 00 00
+
+//MINIMAL COMPATIBLE VERSION
+    8 * 19	 14 "C" "INFO" "B" "MINV" \w4 \d300 00 00
+
+//NUMBER OF PARAMETERS
+   10 * 16	 14 "C" "INFO" "B" "NPAR" \w1 \b11 00 00
+
+//PARAMETER NAMES AND DESCRIPTIONS
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d0 "T" "NAME" 7F "Mode" 00
+      		    	       	   	      	      	        "T" "DESC" 7F "Choose between generic or country-specific modes. When set to 'automatic', the Japanese mode is used only if the Japanese train set is used.\n Japanese mode is significantly different from international mode. The country-specific settings mostly concern speed limits and some graphical details." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d1 "T" "NAME" 7F "Track selection" 00
+      		    	       	   	      	      	        "T" "DESC" 7F "Choose how many track types to play with. In the reduced setting, the urban track types are disabled. In the minimal setting, only track type for each gauge and electrification system is present, without speed limits." 00
+								00 00 00 00
+
+   14 * 104	 14 "C" "INFO" "C" "PARA" "C" \d2 "T" "NAME" 7F "Finescale tracks" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Use narrower track sprites." 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d3 "T" "NAME" 7F "Construction costs" 00
+								00 00 00 00
+
+   11 * 45	 14 "C" "INFO" "C" "PARA" "C" \d4 "T" "NAME" 7F "Maintenance costs" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "You must activate 'Advanced Settings -> Economy -> Infrastructure maintenance' for this setting to take effect." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d5 "T" "NAME" 7F "Use custom tunnel portals" 00
+      		    	       	   	      	      	     	 "T" "DESC" 7F "If this setting is disabled, the default graphics for tunnel portals will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   16 * 185	 14 "C" "INFO" "C" "PARA" "C" \d6 "T" "NAME" 7F "Use custom catenary" 00
+      		    	       	   	      	      	     	 "T" "DESC" 7F "If this setting is disabled, the default graphics for catenary wire and poles will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   17 * 172	 14 "C" "INFO" "C" "PARA" "C" \d7 "T" "NAME" 7F "Use custom depots" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "If this setting is disabled, the default graphics for train depots will be used instead of the ones provided by this set." 00
+								00 00 00 00
+
+   18 * 98	 14 "C" "INFO" "C" "PARA" "C" \d8 "T" "NAME" 7F "Fences" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Replaces or deactivates the default fences for railtracks." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d9 "T" "NAME" 7F "Use company colors" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Depots and fences use company colors if this option is enabled." 00
+								00 00 00 00
+
+   19 * 117	 14 "C" "INFO" "C" "PARA" "C" \d10 "T" "NAME" 7F "GUI elements" 00
+      		    	       	   	      	     	        "T" "DESC" 7F "Choose GUI elements for original graphics or OpenGFX." 00
+								00 00 00 00
+
+
+//TYPES OF PARAMETERS
+
+   31 * 28	 14 "C" "INFO" "C" "PARA" "C" \d2 "B" "TYPE" \w1 1 00 00 00 00
+   31 * 28	 14 "C" "INFO" "C" "PARA" "C" \d5 "B" "TYPE" \w1 1 00 00 00 00
+   32 * 28	 14 "C" "INFO" "C" "PARA" "C" \d6 "B" "TYPE" \w1 1 00 00 00 00
+   32 * 28	 14 "C" "INFO" "C" "PARA" "C" \d7 "B" "TYPE" \w1 1 00 00 00 00
+   33 * 28	 14 "C" "INFO" "C" "PARA" "C" \d9 "B" "TYPE" \w1 1 00 00 00 00
+
+
+//PARAMETER LIMITS
+
+   36 * 35	 14 "C" "INFO" "C" "PARA" "C" \d0 "B" "LIMI" \w8 \d0 \d4 00 00 00 00 
+   36 * 35	 14 "C" "INFO" "C" "PARA" "C" \d1 "B" "LIMI" \w8 \d0 \d2 00 00 00 00 
+   37 * 35	 14 "C" "INFO" "C" "PARA" "C" \d2 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+   38 * 35	 14 "C" "INFO" "C" "PARA" "C" \d3 "B" "LIMI" \w8 \d0 \d4 00 00 00 00 
+   39 * 35	 14 "C" "INFO" "C" "PARA" "C" \d4 "B" "LIMI" \w8 \d0 \d4 00 00 00 00 
+   40 * 35	 14 "C" "INFO" "C" "PARA" "C" \d5 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+   40 * 35	 14 "C" "INFO" "C" "PARA" "C" \d6 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+   41 * 35	 14 "C" "INFO" "C" "PARA" "C" \d7 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+   42 * 35	 14 "C" "INFO" "C" "PARA" "C" \d8 "B" "LIMI" \w8 \d0 \d3 00 00 00 00 
+   44 * 35	 14 "C" "INFO" "C" "PARA" "C" \d9 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+   44 * 35	 14 "C" "INFO" "C" "PARA" "C" \d10 "B" "LIMI" \w8 \d0 \d1 00 00 00 00 
+
+
+//PARAMETER VALUE TEXTS
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d0 "C" "VALU" "T" \d0 7F "Automatic (Japanese/International)" 00 "T" \d1 7F "International" 00 "T" \d2 7F "German" 00 "T" \d3 7F "British" 00 "T" \d4 7F "North American" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d1 "C" "VALU" "T" \d0 7F "Full" 00 "T" \d1 7F "Reduced" 00 "T" \d2 7F "Minimal" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d3 "C" "VALU" "T" \d0 7F "very low" 00 "T" \d1 7F "low" 00 "T" \d2 7F "normal" 00 "T" \d3 7F "high" 00 "T" \d4 7F "very high" 00
+      	     	 00 00 00 00 00
+
+   46 * 91	 14 "C" "INFO" "C" "PARA" "C" \d4 "C" "VALU" "T" \d0 7F "very low" 00 "T" \d1 7F "low" 00 "T" \d2 7F "normal" 00 "T" \d3 7F "high" 00 "T" \d4 7F "very high" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d8 "C" "VALU" "T" \d0 7F "none" 00 "T" \d1 7F "unchanged (original TTD if not changed by another set)" 00 "T" \d2 7F "only for urban and highspeed tracks" 00 "T" \d3 7F "for all railtypes" 00
+      	     	 00 00 00 00 00
+
+   50 * 164	 14 "C" "INFO" "C" "PARA" "C" \d10 "C" "VALU" "T" \d0 7F "Original graphics" 00 "T" \d1 7F "OpenGFX" 00
+      	     	 00 00 00 00 00
+
+
+//DEFAULT VALUES FOR PARAMETERS
+   51 * 31	 14 "C" "INFO" "C" "PARA" "C" \d0 "B" "DFLT" \w4 \d0 00 00 00 00
+   51 * 31	 14 "C" "INFO" "C" "PARA" "C" \d1 "B" "DFLT" \w4 \d0 00 00 00 00
+   52 * 31	 14 "C" "INFO" "C" "PARA" "C" \d2 "B" "DFLT" \w4 \d0 00 00 00 00
+   53 * 31	 14 "C" "INFO" "C" "PARA" "C" \d3 "B" "DFLT" \w4 \d2 00 00 00 00
+   54 * 31	 14 "C" "INFO" "C" "PARA" "C" \d4 "B" "DFLT" \w4 \d2 00 00 00 00
+   55 * 31	 14 "C" "INFO" "C" "PARA" "C" \d5 "B" "DFLT" \w4 \d1 00 00 00 00
+   55 * 31	 14 "C" "INFO" "C" "PARA" "C" \d6 "B" "DFLT" \w4 \d1 00 00 00 00
+   56 * 31	 14 "C" "INFO" "C" "PARA" "C" \d7 "B" "DFLT" \w4 \d1 00 00 00 00
+   57 * 31	 14 "C" "INFO" "C" "PARA" "C" \d8 "B" "DFLT" \w4 \d3 00 00 00 00
+   58 * 31	 14 "C" "INFO" "C" "PARA" "C" \d9 "B" "DFLT" \w4 \d1 00 00 00 00
+   59 * 31	 14 "C" "INFO" "C" "PARA" "C" \d10 "B" "DFLT" \w4 \d0 00 00 00 00

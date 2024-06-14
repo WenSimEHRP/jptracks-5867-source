@@ -1,0 +1,163 @@
+//CATENARY
+
+ 2871 * 6	 09 06 01 \7= 00 F8
+
+//Wires (all)
+ 2872 * 4	 01 10 01 1C
+ 2873 sprites/catwire.png 0 0 01 20 32 -29 -6
+ 2874 sprites/catwire.png 48 0 01 20 32 -1 -6
+ 2875 sprites/catwire.png 96 0 01 5 32 -1 -6
+ 2876 sprites/catwire.png 144 0 01 20 1 0 -7
+ 2877 sprites/catwire.png 160 0 01 28 32 -29 -6
+ 2878 sprites/catwire.png 208 0 01 13 32 -1 2
+ 2879 sprites/catwire.png 256 0 01 13 32 -29 2
+ 2880 sprites/catwire.png 304 0 01 28 32 -1 -6
+ 2881 sprites/catwire.png 352 0 01 19 32 -29 -5
+ 2882 sprites/catwire.png 400 0 01 19 32 -1 -5
+ 2883 sprites/catwire.png 448 0 01 5 32 -1 -6
+ 2884 sprites/catwire.png 496 0 01 20 1 0 -7
+ 2885 sprites/catwire.png 512 0 01 27 32 -29 -5
+ 2886 sprites/catwire.png 560 0 01 12 32 -1 3
+ 2887 sprites/catwire.png 608 0 01 12 32 -29 3
+ 2888 sprites/catwire.png 656 0 01 27 32 -1 -5
+ 2889 sprites/catwire.png 704 0 01 20 32 -29 -6
+ 2890 sprites/catwire.png 0 50 01 20 32 -1 -6
+ 2891 sprites/catwire.png 48 50 01 5 32 -1 -6
+ 2892 sprites/catwire.png 96 50 01 20 1 0 -7
+ 2893 sprites/catwire.png 112 50 01 28 32 -29 -6
+ 2894 sprites/catwire.png 160 50 01 13 32 -1 2
+ 2895 sprites/catwire.png 208 50 01 13 32 -29 2
+ 2896 sprites/catwire.png 256 50 01 28 32 -1 -6
+ 2897 sprites/catwire.png 304 50 01 11 16 -29 3
+ 2898 sprites/catwire.png 336 50 01 12 16 -1 -6
+ 2899 sprites/catwire.png 368 50 01 12 16 -13 -6
+ 2900 sprites/catwire.png 400 50 01 11 16 15 3
+ 2901 * 7	 02 10 A5 01 00 00 00
+
+//check for Japanese mode
+ 2902 * 6	 09 10 01 \7= 01 0A
+ 2903 * 10	 03 10 01 02 01 04 A5 00 A5 00
+ 2904 * 10	 03 10 01 03 01 04 A5 00 A5 00
+ 2904 * 10	 03 10 01 04 01 04 A5 00 A5 00
+ 2905 * 10	 03 10 01 05 01 04 A5 00 A5 00
+ 2906 * 10	 03 10 01 06 01 04 A5 00 A5 00
+ 2907 * 10	 03 10 01 07 01 04 A5 00 A5 00
+ 2908 * 10	 03 10 01 0A 01 04 A5 00 A5 00
+ 2909 * 10	 03 10 01 0B 01 04 A5 00 A5 00
+ 2910 * 10	 03 10 01 0C 01 04 A5 00 A5 00
+ 2911 * 6	 09 9A 01 \7= FF 07
+
+//International mode
+ 2912 * 10	 03 10 01 04 01 04 A5 00 A5 00
+ 2913 * 10	 03 10 01 05 01 04 A5 00 A5 00
+ 2914 * 10	 03 10 01 06 01 04 A5 00 A5 00
+ 2915 * 10	 03 10 01 07 01 04 A5 00 A5 00
+ 2916 * 10	 03 10 01 09 01 04 A5 00 A5 00
+ 2917 * 10	 03 10 01 0A 01 04 A5 00 A5 00
+ 2918 * 10	 03 10 01 0D 01 04 A5 00 A5 00
+
+
+//CATENARY POLES
+//single pole
+//Japanese:		02 NABE, 04 ELRL
+//International:	04 ELRL, 09 SACZ, 0D NABE
+ 2919 * 4	 01 10 01 08
+ 2920 sprites/catpoles.png   0 150 01 19 10 -8 -19
+ 2921 sprites/catpoles.png  16 150 01 21 9 0 -21
+ 2922 sprites/catpoles.png  32 150 01 19 10 0 -19
+ 2923 sprites/catpoles.png  48 150 01 21 9 -7 -21
+ 2924 sprites/catpoles.png  64 150 01 18 3 0 -19
+ 2925 sprites/catpoles.png  80 150 01 21 3 0 -21
+ 2926 sprites/catpoles.png  96 150 01 19 10 -2 -17
+ 2927 sprites/catpoles.png 112 150 01 19 10 -7 -15
+ 2928 * 7	 02 10 A2 01 00 00 00
+
+
+//check for Japanese mode
+ 2929 * 6	 09 10 01 \7= 01 05
+ 2930 * 10	 03 10 01 02 01 05 A2 00 A2 00
+ 2930 * 10	 03 10 01 04 01 05 A2 00 A2 00
+ 2930 * 10	 03 10 01 0B 01 05 A2 00 A2 00
+ 2930 * 10	 03 10 01 0C 01 05 A2 00 A2 00
+ 2933 * 6	 09 9A 01 \7= FF 04
+
+//International mode
+ 2938 * 10	 03 10 01 04 01 05 A2 00 A2 00
+ 2938 * 10	 03 10 01 09 01 05 A2 00 A2 00
+ 2937 * 10	 03 10 01 0D 01 05 A2 00 A2 00
+ 2937 * 10	 03 10 01 0A 01 05 A2 00 A2 00
+
+
+//double pole
+//Japanese:		03 NACE, 05 SACE
+//International:	05 SBCE
+ 2939 * 4	 01 10 01 08
+ 2920 sprites/catpoles.png   0 100 01 19 10 -8 -19
+ 2921 sprites/catpoles.png  16 100 01 21 9 0 -21
+ 2922 sprites/catpoles.png  32 100 01 19 10 0 -19
+ 2923 sprites/catpoles.png  48 100 01 21 9 -7 -21
+ 2924 sprites/catpoles.png  64 100 01 18 3 0 -19
+ 2925 sprites/catpoles.png  80 100 01 21 3 0 -21
+ 2926 sprites/catpoles.png  96 100 01 19 10 -2 -17
+ 2927 sprites/catpoles.png 112 100 01 19 10 -7 -15
+ 2948 * 7	 02 10 A9 01 00 00 00
+
+//check for Japanese mode
+ 2949 * 6	 09 10 01 \7= 01 03
+ 2950 * 10	 03 10 01 03 01 05 A9 00 A9 00
+ 2950 * 10	 03 10 01 05 01 05 A9 00 A9 00
+ 2951 * 6	 09 9A 01 \7= FF 01
+
+//International mode
+ 2952 * 10	 03 10 01 05 01 05 A9 00 A9 00
+
+
+//urban pole
+//Japanese:		0B NUBE, 0C SUBE
+//International:	0A SUCE
+// 2953 * 4	 01 10 01 08
+// 2954 sprites/catpoles.png   0  50 01 20 12 -6 -18
+// 2955 sprites/catpoles.png  32  50 01 21 12 -3 -25
+// 2956 sprites/catpoles.png  64  50 01 20 12 0 -20
+// 2957 sprites/catpoles.png  96  50 01 21 12 -7 -23
+// 2958 sprites/catpoles.png 128  50 01 20 2 0 -21
+// 2959 sprites/catpoles.png 144  50 01 23 2 0 -21
+// 2960 sprites/catpoles.png 160  50 01 20 13 -3 -17
+// 2961 sprites/catpoles.png 192  50 01 20 13 -8 -15
+// 2962 * 7	 02 10 A5 01 00 00 00
+
+//check for Japanese mode
+// 2963 * 6	 09 10 01 \7= 01 03
+// 2964 * 10	 03 10 01 0B 01 05 A5 00 A5 00
+// 2965 * 10	 03 10 01 0C 01 05 A5 00 A5 00
+// 2951 * 6	 09 9A 01 \7= FF 01
+
+//International mode
+// 2952 * 10	 03 10 01 0A 01 05 A5 00 A5 00
+
+
+//highspeed pole
+//Japanese:		06 SAEE, 07 SBEE
+//International:	06 SADE, 07 SAEE
+ 2966 * 4	 01 10 01 08
+ 2920 sprites/catpoles.png   0 0 01 19 10 -8 -19
+ 2921 sprites/catpoles.png  16 0 01 21 9 0 -21
+ 2922 sprites/catpoles.png  32 0 01 19 10 0 -19
+ 2923 sprites/catpoles.png  48 0 01 21 9 -7 -21
+ 2924 sprites/catpoles.png  64 0 01 18 3 0 -19
+ 2925 sprites/catpoles.png  80 0 01 21 3 0 -21
+ 2926 sprites/catpoles.png  96 0 01 19 10 -2 -17
+ 2927 sprites/catpoles.png 112 0 01 19 10 -7 -15
+ 2975 * 7	 02 10 AA 01 00 00 00
+
+//check for Japanese mode
+ 2976 * 6	 09 10 01 \7= 01 03
+ 2977 * 10	 03 10 01 06 01 05 AA 00 AA 00
+ 2978 * 10	 03 10 01 07 01 05 AA 00 AA 00
+ 2979 * 6	 09 9A 01 \7= FF 02
+
+//International mode
+ 2980 * 10	 03 10 01 06 01 05 AA 00 AA 00
+ 2980 * 10	 03 10 01 07 01 05 AA 00 AA 00
+
+ 2982 * 2	 10 F8

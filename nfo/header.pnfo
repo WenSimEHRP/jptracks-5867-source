@@ -1,0 +1,35 @@
+//
+//PROCESS PARAMETERS
+//
+
+//SET DEFAULT VALUES. 
+//should be done by action 14, but we want to be on the safe side, as there appears to have been a bug at some point
+
+   62 * 9	 0D 00 80 FF 00 00 00 00 00
+   63 * 9	 0D 01 80 FF 00 00 00 00 00
+   64 * 9	 0D 02 80 FF 00 00 00 00 00
+   65 * 9	 0D 03 80 FF 02 00 00 00 00
+   66 * 9	 0D 04 80 FF 02 00 00 00 00
+   67 * 9	 0D 05 80 FF 01 00 00 00 00
+   67 * 9	 0D 06 80 FF 01 00 00 00 00
+   68 * 9	 0D 07 80 FF 01 00 00 00 00
+   69 * 9	 0D 08 80 FF 03 00 00 00 00
+   70 * 9	 0D 09 80 FF 01 00 00 00 00
+   71 * 9	 0D 0A 80 FF 00 00 00 00 00
+
+
+//PARAMETER 10: JAPANESE MODE
+   73 * 6	 09 00 01 \7! 00 01
+   72 * 9	 09 88 04 \7GG "SZ" 0D 00 02
+   74 * 9	 0D 10 00 FF 00 01 00 00 00
+   73 * 6	 09 9A 01 \7= FF 01
+   74 * 9	 0D 10 00 FF 00 00 00 00 00
+
+//PARAMETER 11: TRACK SELECTION
+    0 * 0   	 09 01 01 \7= 02 05      //if minimal, skip to end
+    0 * 0   	 09 01 01 \7= 01 02      //if reduced, skip 2 sprites
+    0 * 0	 0D 11 00 FF 00 03 00 00 00  //'full', set 11 to 03 (i.e. both bits set)
+    0 * 0	 09 9A 01 \7= FF 03          //skip to end
+    0 * 0	 0D 11 00 FF 00 02 00 00 00  //'reduced' set bit 1
+    0 * 0	 09 9A 01 \7= FF 01          //skip to end
+    0 * 0	 0D 11 00 FF 00 00 00 00 00  //'minimal', set no bits.

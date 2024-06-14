@@ -1,0 +1,126 @@
+//TUNNEL OVERLAYS
+
+    0 * 6	 09 05 01 \7= 00 D0
+
+//Stone
+//Japanese:		00 NAAN, 01 NABN, 02 NABE, 04 ELRL, 08 SAB3, 0D RAIL
+//International:	00 SABN, 01 RAIL, 04 ELRL, 08 SAC3, 09 SACZ, 0C NABN, 0D NABE
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals.png     0 0 09 39 64 -31 -38
+ 2382 sprites/tunnelportals.png   100 0 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   200 0 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   300 0 09 39 64 -31 -38
+ 2388 * 7	 02 10 A0 01 00 00 00
+
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals2.png     0 0 09 39 64 -31 -38
+ 2382 sprites/tunnelportals2.png   100 0 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   200 0 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   300 0 09 39 64 -31 -38
+ 2388 * 7	 02 10 B0 01 00 00 00
+
+  794 * 14	 02 10 F0 81 40 00 FF 01 B0 00 04 04 A0 00
+
+//check for Japanese mode
+  795 * 6	 09 10 01 \7= 01 0A
+  796 * 10	 03 10 01 01 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 02 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 04 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 08 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 09 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0A 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0D 01 0A F0 00 F0 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+  796 * 10	 03 10 01 00 01 0A F0 00 F0 00
+  797 * 6	 09 9A 01 \7= FF 08
+
+//International mode
+  796 * 10	 03 10 01 01 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 04 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 08 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 09 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0C 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0D 01 0A F0 00 F0 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 01
+  796 * 10	 03 10 01 00 01 0A F0 00 F0 00
+
+
+//Urban
+//Japanese:		09 SUB3, 0B NUBE, 0C SUBE
+//International:	0A SUCE, 0B SUC3
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals.png     0 100 09 39 64 -31 -38
+ 2382 sprites/tunnelportals.png   100 100 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   200 100 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   300 100 09 39 64 -31 -38
+ 2388 * 7	 02 10 A0 01 00 00 00
+
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals2.png     0 100 09 39 64 -31 -38
+ 2382 sprites/tunnelportals2.png   100 100 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   200 100 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   300 100 09 39 64 -31 -38
+ 2388 * 7	 02 10 B0 01 00 00 00
+
+  794 * 14	 02 10 F0 81 40 00 FF 01 B0 00 04 04 A0 00
+
+
+//check for Japanese mode
+  795 * 6	 09 10 01 \7= 01 05
+//check if Urban tracks are used
+  645 * 6	 09 11 01 \70 00 03
+  796 * 10	 03 10 01 09 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0B 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0C 01 0A F0 00 F0 00
+  797 * 6	 09 9A 01 \7= FF 03
+
+//International mode
+//check if Urban tracks are used
+  645 * 6	 09 11 01 \70 00 02
+  796 * 10	 03 10 01 0A 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 0B 01 0A F0 00 F0 00
+
+
+
+
+//Modern
+//Japanese:		03 NACE, 05 SACE, 06 SAEE, 07 SBEE
+//International:	02 SBCN, 03 SADN, 05 SBCE, 06 SADE, 07 SAEE
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals.png     0 200 09 39 64 -31 -38
+ 2382 sprites/tunnelportals.png   100 200 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   200 200 09 31 64 -31 -38
+ 2382 sprites/tunnelportals.png   300 200 09 39 64 -31 -38
+ 2388 * 7	 02 10 A0 01 00 00 00
+
+ 2381 * 4	 01 10 01 04
+ 2382 sprites/tunnelportals2.png     0 200 09 39 64 -31 -38
+ 2382 sprites/tunnelportals2.png   100 200 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   200 200 09 31 64 -31 -38
+ 2382 sprites/tunnelportals2.png   300 200 09 39 64 -31 -38
+ 2388 * 7	 02 10 B0 01 00 00 00
+
+  794 * 14	 02 10 F0 81 40 00 FF 01 B0 00 04 04 A0 00
+
+//check for Japanese mode
+  795 * 6	 09 10 01 \7= 01 06
+  796 * 10	 03 10 01 06 01 0A F0 00 F0 00
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 03
+  796 * 10	 03 10 01 03 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 05 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 07 01 0A F0 00 F0 00
+  797 * 6	 09 9A 01 \7= FF 06
+
+//International mode
+//check if extended tracks are used
+    0 * 0	 09 11 01 \70 01 05
+  796 * 10	 03 10 01 02 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 03 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 05 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 06 01 0A F0 00 F0 00
+  796 * 10	 03 10 01 07 01 0A F0 00 F0 00
+
+    0 * 2	 10 D0

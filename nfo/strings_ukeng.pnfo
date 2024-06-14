@@ -1,0 +1,179 @@
+//
+// TEXT STRINGS
+//
+
+// JAPANESE MODE
+  161 * 6	 09 10 01 \7= 01 F0
+
+//Build rail toolbar caption (09)
+   92 * 33	 04 10 81 01 10 DC 94 "Narrow gauge line" 00
+   92 * 33	 04 10 81 01 11 DC 94 "Narrow gauge line" 00
+   92 * 33	 04 10 81 01 12 DC 94 "Narrow gauge line (electrified)" 00
+   92 * 33	 04 10 81 01 13 DC 94 "Narrow gauge modern line (electrified)" 00
+   92 * 33	 04 10 81 01 14 DC 94 "Standard gauge line (electrified)" 00
+   92 * 33	 04 10 81 01 15 DC 94 "Standard gauge modern line (electrified)" 00
+   92 * 33	 04 10 81 01 16 DC 94 "Shinkansen highspeed line (electrified)" 00
+   92 * 33	 04 10 81 01 17 DC 94 "Shinkansen modern highspeed line (electrified)" 00
+   92 * 33	 04 10 81 01 18 DC 94 "Standard gauge line (3rd rail powered)" 00
+   92 * 33	 04 10 81 01 19 DC 94 "Standard gauge urban line (3rd rail powered)" 00
+   92 * 33	 04 10 81 01 1B DC 94 "Narrow gauge urban line (electrified)" 00
+   92 * 33	 04 10 81 01 1C DC 94 "Standard gauge urban line (electrified)" 00
+   92 * 33	 04 10 81 01 1D DC 94 "Standard gauge line" 00
+
+
+//Rail construction dropdown text (0A)
+//NLOW/NGRL
+   92 * 33	 04 10 81 01 20 DC "Narrow gauge line\94" 00
+   92 * 33	 04 10 81 01 21 DC "Narrow gauge line\94" 00
+   92 * 33	 04 10 81 01 22 DC "Narrow gauge line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 23 DC "Narrow gauge modern line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 24 DC "Standard gauge line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 25 DC "Standard gauge modern line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 26 DC "Shinkansen highspeed line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 27 DC "Shinkansen modern highspeed line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 28 DC "Standard gauge line \8F(3rd rail powered)\94" 00
+   92 * 33	 04 10 81 01 29 DC "Standard gauge urban line \8F(3rd rail powered)\94" 00
+   92 * 33	 04 10 81 01 2B DC "Narrow gauge urban line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 2C DC "Standard gauge urban line \95(electrified)\94" 00
+   92 * 33	 04 10 81 01 2D DC "Standard gauge line\94" 00
+
+
+//Build vehicle window caption (0B)
+//NLOW/NGRL
+  108 * 31	 04 10 81 01 30 DC 94 "New narrow gauge trains" 00
+  108 * 31	 04 10 81 01 31 DC 94 "New narrow gauge trains" 00
+  108 * 31	 04 10 81 01 32 DC 94 "New electric narrow gauge trains" 00
+  108 * 31	 04 10 81 01 33 DC 94 "New electric narrow gauge trains" 00
+  109 * 33	 04 10 81 01 34 DC 94 "New electric standard gauge trains" 00
+  108 * 31	 04 10 81 01 35 DC 94 "New electric standard gauge trains" 00
+  109 * 33	 04 10 81 01 36 DC 94 "New Shinkansen trains" 00
+  108 * 31	 04 10 81 01 37 DC 94 "New Shinkansen trains" 00
+  108 * 31	 04 10 81 01 38 DC 94 "New 3rd rail powered trains" 00
+  108 * 31	 04 10 81 01 3B DC 94 "New electric narrow gauge trains" 00
+  108 * 31	 04 10 81 01 3C DC 94 "New electric standard gauge trains" 00
+  108 * 31	 04 10 81 01 3D DC 94 "New standard gauge trains" 00
+
+
+//Autoreplace text (0C)
+//NLOW/NGRL
+  110 * 37	 04 10 81 01 40 DC "Light narrow gauge trains" 00
+  111 * 26	 04 10 81 01 41 DC "Narrow gauge trains" 00
+  112 * 35	 04 10 81 01 42 DC "Electric narrow gauge trains" 00
+  114 * 42	 04 10 81 01 43 DC "Modern electric narrow gauge trains" 00
+  117 * 37	 04 10 81 01 44 DC "Electric standard gauge trains" 00
+  117 * 37	 04 10 81 01 45 DC "Modern electric standard gauge trains" 00
+  119 * 24	 04 10 81 01 46 DC "Shinkansen trains" 00
+  120 * 31	 04 10 81 01 47 DC "Modern Shinkansen trains" 00
+  120 * 31	 04 10 81 01 48 DC "Metro trains" 00
+  121 * 30	 04 10 81 01 4B DC "Urban narrow gauge trains" 00
+  121 * 30	 04 10 81 01 4C DC "Urban standard gauge trains" 00
+  121 * 30	 04 10 81 01 4D DC "Standard gauge trains" 00
+
+//New engines (0D)
+//NLOW/NGRL
+  122 * 27	 04 10 81 01 50 DC "rail vehicle" 00
+  123 * 29	 04 10 81 01 54 DC "rail vehicle" 00
+  124 * 24	 04 10 81 01 56 DC "Shinkansen train" 00
+  122 * 27	 04 10 81 01 58 DC "metro rail vehicle" 00
+  122 * 27	 04 10 81 01 59 DC "rail vehicle" 00
+
+  125 * 2	 10 F0 
+  161 * 6	 09 10 01 \7! 01 F1
+
+//INTERNATIONAL MODE
+
+//Build rail toolbar caption (09)
+  127 * 25	 04 10 81 01 10 DC "Branch line" 00
+  127 * 25	 04 10 81 01 11 DC "Main line" 00
+  127 * 25	 04 10 81 01 12 DC "Modern main line" 00
+  127 * 25	 04 10 81 01 13 DC "Highspeed line" 00
+  127 * 25	 04 10 81 01 14 DC "Main line (electrified)" 00
+  127 * 25	 04 10 81 01 15 DC "Modern line (electrified)" 00
+  127 * 25	 04 10 81 01 16 DC "Highspeed line (electrified)" 00
+  127 * 25	 04 10 81 01 17 DC "Modern highspeed line (electrified)" 00
+  127 * 25	 04 10 81 01 18 DC "Main line (3rd rail powered)" 00
+  127 * 25	 04 10 81 01 19 DC "Main line (dual electrified)" 00
+  127 * 25	 04 10 81 01 1A DC "Urban line (electrified)" 00
+  127 * 25	 04 10 81 01 1B DC "Urban line (3rd rail powered)" 00
+  127 * 25	 04 10 81 01 1C DC "Narrow gauge line" 00
+  127 * 25	 04 10 81 01 1D DC "Narrow gauge line (electrified)" 00
+
+
+//Rail construction dropdown text (0A)
+  127 * 25	 04 10 81 01 20 DC "Branch line\94" 00
+  127 * 25	 04 10 81 01 21 DC "Main line\94" 00
+  127 * 25	 04 10 81 01 22 DC "Modern main line\94" 00
+  127 * 25	 04 10 81 01 23 DC "Highspeed line\94" 00
+  127 * 25	 04 10 81 01 24 DC "Main line \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 25 DC "Modern line \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 26 DC "Highspeed line \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 27 DC "Modern highspeed line \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 28 DC "Main line \8F(3rd rail powered)\94" 00
+  127 * 25	 04 10 81 01 29 DC "Main line \8F(dual \95electrified)\94" 00
+  127 * 25	 04 10 81 01 2A DC "Urban line \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 2B DC "Urban line \8F(3rd rail powered)\94" 00
+  127 * 25	 04 10 81 01 2C DC "Narrow gauge line\94" 00
+  127 * 25	 04 10 81 01 2D DC "Narrow gauge line \95(electrified)\94" 00
+
+
+//Build vehicle window caption (0B)
+//NLOW/NGRL
+  143 * 18	 04 10 81 01 30 DC 94 "New trains" 00
+  143 * 18	 04 10 81 01 31 DC 94 "New trains" 00
+  143 * 18	 04 10 81 01 32 DC 94 "New trains" 00
+  144 * 31	 04 10 81 01 33 DC 94 "New trains" 00
+  143 * 18	 04 10 81 01 34 DC 94 "New electric trains" 00
+  143 * 18	 04 10 81 01 35 DC 94 "New electric trains" 00
+  143 * 18	 04 10 81 01 36 DC 94 "New electric trains" 00
+  143 * 18	 04 10 81 01 37 DC 94 "New electric trains" 00
+  143 * 18	 04 10 81 01 38 DC 94 "New 3rd rail powered trains" 00
+  143 * 18	 04 10 81 01 39 DC 94 "New dual electric trains" 00
+  143 * 18	 04 10 81 01 3A DC 94 "New electric trains" 00
+  143 * 18	 04 10 81 01 3B DC 94 "New 3rd rail powered trains" 00
+  144 * 31	 04 10 81 01 3C DC 94 "New narrow gauge trains" 00
+  143 * 18	 04 10 81 01 3D DC 94 "New narrow gauge trains" 00
+
+//Autoreplace text (0C)
+//NLOW/NGRL
+  145 * 24	 04 10 81 01 40 DC "Light trains" 00
+  146 * 13	 04 10 81 01 41 DC "Trains" 00
+  148 * 20	 04 10 81 01 42 DC "Modern trains" 00
+  148 * 20	 04 10 81 01 43 DC "Highspeed trains" 00
+  147 * 22	 04 10 81 01 44 DC "Electric trains" 00
+  149 * 29	 04 10 81 01 45 DC "Modern electric trains" 00
+  151 * 23	 04 10 81 01 46 DC "Electric highspeed trains" 00
+  151 * 23	 04 10 81 01 47 DC "Modern electric highspeed trains" 00
+  152 * 29	 04 10 81 01 48 DC "3rd rail powered trains" 00
+  153 * 37	 04 10 81 01 49 DC "Dual powered electric trains" 00
+  145 * 24	 04 10 81 01 4A DC "Urban trains" 00
+  146 * 13	 04 10 81 01 4B DC "Urban 3rd rail powered trains" 00
+  155 * 35	 04 10 81 01 4C DC "Narrow gauge trains" 00
+  145 * 24	 04 10 81 01 4D DC "Electric narrow gauge trains" 00
+
+//New engines (0D)
+//NLOW/NGRL
+  157 * 29	 04 10 81 01 50 DC "rail vehicle" 00
+  158 * 24	 04 10 81 01 53 DC "rail vehicle" 00
+  159 * 27	 04 10 81 01 5C DC "rail vehicle" 00
+
+
+//ADJUST SOME NAMES IF EXTENDED TRACK TYPES ARE NOT USED
+  198 * 6	 09 11 01 \71 01 0C
+//Build rail toolbar caption (09)
+  127 * 25	 04 10 81 01 11 DC "Railway" 00
+  127 * 25	 04 10 81 01 14 DC "Railway (electrified)" 00
+  127 * 25	 04 10 81 01 18 DC "Railway (3rd rail powered)" 00
+  127 * 25	 04 10 81 01 19 DC "Railway (dual electrified)" 00
+  127 * 25	 04 10 81 01 1C DC "Narrow gauge railway" 00
+  127 * 25	 04 10 81 01 1D DC "Narrow gauge railway (electrified)" 00
+
+
+//Rail construction dropdown text (0A)
+  127 * 25	 04 10 81 01 21 DC "Railway\94" 00
+  127 * 25	 04 10 81 01 24 DC "Railway \95(electrified)\94" 00
+  127 * 25	 04 10 81 01 28 DC "Railway \8F(3rd rail powered)\94" 00
+  127 * 25	 04 10 81 01 29 DC "Railway \8F(dual \95electrified)\94" 00
+  127 * 25	 04 10 81 01 2C DC "Narrow gauge railway\94" 00
+  127 * 25	 04 10 81 01 2D DC "Narrow gauge railway \95(electrified)\94" 00
+
+  160 * 2	 10 F1
